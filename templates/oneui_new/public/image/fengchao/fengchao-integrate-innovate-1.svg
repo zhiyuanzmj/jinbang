@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>画板复制 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="57.0158453%" y1="98.6884477%" x2="50%" y2="1.31155235%" id="linearGradient-1">
+            <stop stop-color="#40BCF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1E87F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="47.7040816%" x2="57.5938899%" y2="52.1703505%" id="linearGradient-2">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="30.3110206%" x2="57.5938899%" y2="68.6121542%" id="linearGradient-3">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-192.000000, -719.000000)" fill-rule="nonzero">
+            <g id="编组" transform="translate(198.000000, 719.000000)">
+                <path d="M12.5258854,0 L68,0 L68,67.1022178 L0,67.1022178 L0,12.3608722 L12.5258854,0 Z M14,2 L2,14 L14,14 L14,2 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+                <path d="M13,19 L55,19 L55,28 L13,28 L13,19 Z M16,22 L16,25 L52,25 L52,22 L16,22 Z" id="矩形" fill="url(#linearGradient-2)"></path>
+                <path d="M13,31 L55,31 L55,40 L13,40 L13,31 Z M16,34 L16,37 L52,37 L52,34 L16,34 Z" id="矩形复制" fill="url(#linearGradient-2)"></path>
+                <path d="M13,43 L55,43 L55,52 L13,52 L13,43 Z M16,46 L16,49 L52,49 L52,46 L16,46 Z" id="矩形复制-2" fill="url(#linearGradient-2)"></path>
+                <path d="M46,67 L46,75.5906694 L20,75.5906694 L20,67 L15,67 L33,53 L51,67 L46,67 Z M33,56.8005848 L23,64.5783625 L23,72.5906694 L43,72.5906694 L43,64.5783625 L33,56.8005848 Z" id="形状结合" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

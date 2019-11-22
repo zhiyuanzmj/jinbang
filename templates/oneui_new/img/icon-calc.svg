@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/48/_计算</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="symbol" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/48/_计算">
+            <g id="Group" transform="translate(3.000000, 7.000000)">
+                <path d="M32.3393079,10.774527 L31.6650889,10.6439232 L31.5449138,9.96776743 C30.6433181,4.89500905 26.212256,1.14519726 21,1.14519726 C15.787744,1.14519726 11.3566819,4.89500905 10.4550862,9.96776743 L10.3349111,10.6439232 L9.66069207,10.774527 C4.66449033,11.7423474 1,16.1376927 1,21.2893786 C1,27.2046915 5.79530855,32 11.7106214,32 L30.2893786,32 C36.2046915,32 41,27.2046915 41,21.2893786 C41,16.1376927 37.3355097,11.7423474 32.3393079,10.774527 Z" id="Combined-Shape" stroke="#333333" stroke-width="2"></path>
+                <rect id="Rectangle-2" stroke="#252B3A" x="8.5" y="14.5" width="24" height="11" rx="2"></rect>
+                <path d="M13.5,20.5 L27.5,20.5" id="Line-2" stroke="#E41F2B" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

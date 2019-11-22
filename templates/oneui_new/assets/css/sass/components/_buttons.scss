@@ -1,0 +1,63 @@
+.theme-btn {
+	font-family: $heading-font;
+	background-color: $theme-primary-color;
+	font-size: 16px;
+	font-size: calc-rem-value(16);
+	font-weight: 600;
+	color: $white;
+	padding: 13px 45px;
+	border-radius: 5px;
+	display: inline-block;
+
+	@include media-query(991px) {
+		font-size: 14px;
+		font-size: calc-rem-value(14);
+		padding: 10px 35px;
+	}
+
+	&:hover,
+	&:focus,
+	&:active {
+		background-color: darken($theme-primary-color, 5%);
+		color: $white;
+	}
+}
+
+.theme-btn-s2 {
+	font-family: $heading-font;
+	background-color: $theme-primary-color;
+	font-size: 15px;
+	font-size: calc-rem-value(15);
+	font-weight: 500;
+	color: $white;
+	padding: 10px 28px;
+	border-radius: 5px;
+	display: inline-block;
+
+	@include media-query(991px) {
+		font-size: 13px;
+		font-size: calc-rem-value(13);
+		padding: 8px 25px;
+	}
+
+	&:hover,
+	&:focus,
+	&:active {
+		background-color: $white;
+		color: $text-color;
+	}
+}
+
+.theme-btn-s3 {
+	@extend .theme-btn-s2;
+	&:hover {
+		background-color: darken($theme-primary-color, 10%);
+		color: $white;
+	}
+}
+
+.theme-btn-s4 {
+	@extend .theme-btn-s3;
+	background-color: #ecf6ff;
+	color: $theme-primary-color;
+} 

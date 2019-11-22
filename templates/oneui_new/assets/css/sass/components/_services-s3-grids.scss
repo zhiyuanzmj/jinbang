@@ -1,0 +1,57 @@
+/***************************************
+	# services s2 grids
+***************************************/
+.services-s3-grids {
+	.grid {
+		background-color: $white;
+		text-align: center;
+		padding: 60px 45px;
+		box-shadow: 0 0 10px transparentize($black, 0.8);
+		border-radius: 5px;
+
+		@include media-query(1199px) {
+			padding: 45px 35px;
+		}
+
+		@include media-query(991px) {
+			padding: 45px 25px;
+		}
+	}
+
+	.grid .fi:before {
+		font-size: 65px;
+		font-size: calc-rem-value(65);
+		color: $theme-primary-color;
+
+		@include media-query(1199px) {
+			font-size: 55px;
+			font-size: calc-rem-value(55);
+		}
+	}
+
+	.grid h3 {
+		font-size: 24px;
+		font-size: calc-rem-value(24);
+		font-weight: 600;
+		line-height: 1.25em;
+		margin: 0.4em 0 0.9em;
+
+		@include widther(1200px) {
+			padding: 0 15px;
+		}
+
+		@include media-query(1199px) {
+			font-size: 20px;
+			font-size: calc-rem-value(20);
+		}
+
+		@include media-query(991px) {
+			font-size: 16px;
+			font-size: calc-rem-value(16);
+		}
+	}
+
+	.grid p {
+		margin: 0;
+	}
+}

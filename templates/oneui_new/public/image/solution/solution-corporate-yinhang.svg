@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>银行安全复制 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="44.4444444%" x2="57.5938899%" y2="55.2517124%" id="linearGradient-1">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="57.0158453%" y1="89.721172%" x2="50%" y2="10.278828%" id="linearGradient-2">
+            <stop stop-color="#40BCF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1E87F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="7.13305898%" x2="57.5938899%" y2="90.5224719%" id="linearGradient-3">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="53.1838492%" y2="97.2654113%" id="linearGradient-4">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="55.4370454%" y2="97.2654113%" id="linearGradient-5">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="银行安全复制-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-4" transform="translate(5.000000, 6.000000)">
+            <path d="M10.5,51.5 L13.5,51.5" id="直线复制-13" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.000000, 51.500000) rotate(-270.000000) translate(-12.000000, -51.500000) "></path>
+            <path d="M39.5,51.5 L42.5,51.5" id="直线复制-14" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(41.000000, 51.500000) rotate(-270.000000) translate(-41.000000, -51.500000) "></path>
+            <path d="M4,32 C5.65685425,32 7,30.6568542 7,29 L7,20 C7,18.3431458 5.65685425,17 4,17 L4,6 C4,4.8954305 4.8954305,4 6,4 L48,4 C49.1045695,4 50,4.8954305 50,6 L50,43 C50,44.1045695 49.1045695,45 48,45 L6,45 C4.8954305,45 4,44.1045695 4,43 L4,32 Z" id="形状结合" fill="url(#linearGradient-2)"></path>
+            <rect id="矩形" stroke="url(#linearGradient-3)" stroke-width="2" x="0" y="0" width="54" height="50" rx="2"></rect>
+            <path d="M27,27.4268177 L23,27.4268177 L27,27.4268177 L27,24.5 L27,27.4268177 Z M27,27.4268177 L31,27.4268177 L27,27.4268177 L27,32.5 L27,27.4268177 Z M23,24.5 L31,24.5 L23,24.5 Z M23.3234492,20.1986416 L26.9587746,24.160885 L23.3234492,20.1986416 Z M30.5941001,20.2442309 L26.9587746,24.2064743 L30.5941001,20.2442309 Z" id="形状结合" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <g id="编组-3" transform="translate(16.000000, 12.000000)" stroke="url(#linearGradient-5)" stroke-linecap="round" stroke-width="2">
+                <path d="M11,4.26325641e-14 C12.8333333,1.50724638 16.5,3.01449275 22,4.52173913 C22,11.8147274 22,24.3043478 11,26 C0,24.3043478 4.31624043e-14,11.8147274 0,4.52173913 C5.5,3.01449275 9.16666667,1.50724638 11,4.26325641e-14 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>

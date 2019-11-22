@@ -1,0 +1,23 @@
+/*---------------------------
+	Fonts
+----------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700|Open+Sans');
+
+// fonts
+$base-font-size: 15;
+
+$base-font: 'Open Sans', sans-serif;
+$heading-font: 'Montserrat', sans-serif;
+
+// color
+$dark-gray: #2a2a2a;
+$white: #fff;
+$black: #000;
+$blue: #0397ff;
+$grayish: #7f97ad;
+$powder-blue: #1e3953;
+
+$theme-primary-color: $blue;
+$body-bg-color: $white;
+$text-color: $grayish;
+$heading-color: $powder-blue;

@@ -1,0 +1,419 @@
+/*--------------------------------------------------------------
+#0.4	hero
+--------------------------------------------------------------*/
+.hero {
+	position: relative;
+	height: 100vh;
+	text-align: center;
+
+	@include widther(992px) {
+		min-height: 700px;
+	}
+
+	@include media-query(1199px) {
+		height: 600px;
+	}
+
+	@include media-query(767px) {
+		height: 400px;
+	}
+
+	.container {
+		height: 100%;
+		display: table;
+	}
+
+	.inner {
+		display: table-cell;
+		padding-top: 250px;
+		position: relative;
+		overflow: hidden;
+
+		@include media-query(1450px) {
+			padding-top: 170px;
+		}
+
+		@include media-query(1199px) {
+			height: 600px;
+		}
+
+		@include media-query(767px) {
+			vertical-align: middle;
+			padding-top: 0;
+			height: 400px;
+		}
+	}
+
+	.inner p,
+	.inner h2,
+	.inner .theme-btn {
+		position: relative;
+		z-index: 1;
+	}
+
+	p,
+	h2 {
+		font-family: $heading-font;
+		color: $white;
+	}
+
+	p {
+		font-size: 18px;
+		font-size: calc-rem-value(18);
+		font-weight: 500;
+		margin: 0 0 0.3em;
+
+		@include media-query(767px) {
+			font-size: 16px;
+			font-size: calc-rem-value(16);
+		}
+	}
+
+	h2 {
+		font-size: 42px;
+		font-size: calc-rem-value(42);
+		margin: 0 0 0.76em;
+
+		@include media-query(991px) {
+			font-size: 35px;
+			font-size: calc-rem-value(35);
+		}
+
+		@include media-query(767px) {
+			font-size: 28px;
+			font-size: calc-rem-value(28);
+		}
+	}
+}
+
+/*** orbit here area ***/
+.orbit-hero-area {
+	@include background-style("../images/orbit-hero-bg.jpg", center center, cover, no-repeat, fixed);
+
+	.orbit,
+	.orbit-rotate {
+		@include background-style("../images/orbit.png", center center, contain, no-repeat, local);
+		width: 1018px;
+		height: 1356px;
+		position: absolute;
+		left: calc(50% - 1018px / 2);
+		bottom: -878px;
+
+		@include media-query(1199px) {
+			bottom: -1000px;
+		}
+
+		@include media-query(767px) {
+			display: none;
+		}
+
+	}
+
+	.orbit-rotate {
+		@include background-style("../images/orbit-rotate.png", center center, contain, no-repeat, local);
+	}
+
+	.orbit-rotate {
+		-webkit-animation: orbit-rotate 12s linear infinite;
+		animation: orbit-rotate 12s linear infinite;
+	}
+
+	.orbit-animated-rocket {
+		max-width: 200px;
+		position: absolute;
+		left: 75px;
+		bottom: 220px;
+		-webkit-transform: rotate(-65deg);
+		transform: rotate(-65deg);
+		-webkit-transition: all 3s cubic-bezier(.71,-0.11,.88,.22);
+		transition: all 3s cubic-bezier(.71,-0.11,.88,.22);
+	}
+
+	.orbit-animated-rocket-move {
+		bottom: 120%;
+	}
+
+	@-webkit-keyframes orbit-rotate {
+		form {
+			-webkit-transform: rotate(0);
+			transform: rotate(0);
+		}
+		to {
+			-webkit-transform: rotate(180deg);
+			transform: rotate(180deg);
+		}
+	}
+
+	@keyframes orbit-rotate {
+		form {
+			-webkit-transform: rotate(0);
+			transform: rotate(0);
+		}
+		to {
+			-webkit-transform: rotate(180deg);
+			transform: rotate(180deg);
+		}
+	}
+}
+
+
+/*** rocket-hero-area ***/
+.rocket-hero-area {
+	@include background-style("../images/rocket-hero-bg.jpg", center center, cover, no-repeat, fixed);
+	position: relative;
+	height: calc(200vh);
+	min-height: 750px;
+	overflow: hidden;
+
+	@include media-query(991px) {
+		margin-top: 80px;
+	}
+
+	@include media-query(1199px) {
+		height: 500px;
+		min-height: 500px;
+	}
+
+	@include media-query(767px) {
+		height: 400px;
+		min-height: 400px;
+	}
+
+	.inner {
+		width: 100%;
+		position: fixed;
+		left: 0;
+		height: 100%;
+		@include transition-time(0.3s);
+		
+		@include media-query(1199px) {
+			position: static;
+			padding-top: 0;
+			vertical-align: middle;
+		}
+	}
+
+	.rocket-wrapper {
+		width: 100%;
+		position: fixed;
+		bottom: 0;
+		left: 50%;
+		@include translatingX();
+		z-index: 0;
+
+		@include media-query(1199px) {
+			display: none;
+		}
+	}
+
+	.smoke {
+		width: 100%;
+		position: fixed;
+		bottom: 0;
+		z-index: 2;
+	}
+
+	.fire {
+		position: absolute;
+	    width: 100%;
+	    bottom: 30px;
+
+	    img {
+	    	-webkit-animation: jet 0.05s ease alternate infinite;
+	    	animation: jet 0.05s ease alternate infinite;
+	    }
+	}
+
+	.smoke-2 {
+		width: 100%;
+		position: absolute;
+	    bottom: 0;
+	    left: 50%;
+	    -webkit-transform: translateX(-50%);
+	    z-index: 1;
+
+	    @include media-query(1199px) {
+			display: none;
+		}
+	}
+}
+
+@-webkit-keyframes rocket-start {
+	0% {
+		-webkit-transform: translateY(0);
+		transform: translateY(0);
+	}
+	100% {
+		-webkit-transform: translateY(-300px);
+		transform: translateY(-300px);
+	}
+}
+
+@keyframes rocket-start {
+	0 {
+		-webkit-transform: translateY(0);
+		transform: translateY(0);
+	}
+	100% {
+		-webkit-transform: translateY(-300px);
+		transform: translateY(-300px);
+	}
+}
+
+@-webkit-keyframes jet {
+	0% {
+		-webkit-transform: translateY(0); 
+		transform: translateY(0); 
+	}
+	100% {
+		-webkit-transform: translateY(10px); 
+		transform: translateY(10px); 
+	} 
+}
+
+@keyframes jet {
+	0% {
+		-webkit-transform: translateY(0); 
+		transform: translateY(0); 
+	}
+	100% {
+		-webkit-transform: translateY(10px); 
+		transform: translateY(10px); 
+	} 
+}
+
+
+/*** hero style 3 ***/
+.hero-style-3 {
+	background-color: $theme-primary-color;
+	@include background-image-with-color( $theme-primary-color, "../images/hero-3-bg.png", center bottom, auto, no-repeat, local );
+
+	@include media-query(991px) {
+		margin-top: 80px;
+		height: 400px;
+	}
+
+	@include media-query(991px) {
+		background-image: none;
+	}
+
+	.theme-btn {
+		background-color: darken($theme-primary-color, 8%);
+	}
+
+	.theme-btn:hover {
+		background-color: darken($theme-primary-color, 10%);
+	}
+
+	.container {
+		position: relative;
+	}
+
+	.inner {
+		position: relative;
+		z-index: 10;
+
+		@include media-query(991px) {
+			padding-top: 135px;
+			height: 400px;
+		}
+
+		@include media-query(767px) {
+			padding-top: 0;
+		}
+	}
+
+	.rocket-man {
+		position: absolute;
+		right: 0;
+		top: 40%;
+		z-index: 10;
+		-webkit-animation: rocketman-moving 2s infinite alternate;
+		animation: rocketman-moving 2s infinite alternate;
+
+		@include media-query(991px) {
+			display: none;
+		}
+	}
+
+	.cloud-section {
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;	
+
+		@include media-query(991px) {
+			display: none;
+		}
+	}
+
+	.cloud-1,
+	.cloud-2,
+	.cloud-3 {
+		width: 205px;
+		position: relative;
+		left: 0;
+		top: 140px;
+		webkit-animation: clouds 70s infinite linear;
+		animation: clouds 70s infinite linear;
+	}
+
+	.cloud-2 {
+		top: 228px;
+		webkit-animation: clouds 60s infinite linear;
+		animation: clouds 60s infinite linear;
+	}
+
+	.cloud-3 {
+		top: 180px;
+		webkit-animation: clouds 40s infinite linear;
+		animation: clouds 40s infinite linear;
+	}
+}
+
+
+@-webkit-keyframes clouds {
+	0% {
+		left: -20%; 
+	}
+
+	100% {
+		left: 120%; 
+	} 
+}
+@keyframes clouds {
+	0% {
+		left: -20%; 
+	}
+
+	100% {
+		left: 120%; 
+	} 
+}
+
+
+@-webkit-keyframes rocketman-moving {
+	0% {
+		-webkit-transform: translateY(0);
+		transform: translateY(0);
+	}
+
+	100% {
+		-webkit-transform: translateY(100px);
+		transform: translateY(100px);
+	} 
+}
+@keyframes rocketman-moving {
+	0% {
+		-webkit-transform: translateY(0);
+		transform: translateY(0);
+	}
+
+	100% {
+		-webkit-transform: translateY(100px);
+		transform: translateY(100px);
+	} 
+}
+
+

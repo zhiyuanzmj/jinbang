@@ -1,0 +1,74 @@
+/*--------------------------------------------------------------
+	#home style 3
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+#3.0	features-section
+--------------------------------------------------------------*/
+.features-section-s2 {
+	.owl-controls {
+		margin-top: 45px;
+	}
+
+	.owl-dots .owl-dot span {
+		margin-bottom: 0;
+	}
+
+	.owl-controls .owl-dots .owl-dot:hover span,
+	.owl-controls .owl-dots .active span {
+		background: $theme-primary-color;
+	}
+}
+
+
+/*--------------------------------------------------------------
+#3.1	domain-section-s2
+--------------------------------------------------------------*/
+.domain-section-s2 {
+	@include background-style("../images/domain-section-s2-bg.png", center bottom, contain, no-repeat, local);
+
+	&:before {
+		@include overlay(transparentize($black, 0.96));
+	}
+}
+
+
+/*--------------------------------------------------------------
+#3.2	cta-3
+--------------------------------------------------------------*/
+.cta-3 {
+	@extend .cta-2;
+	background-image: none;
+	background-color: $theme-primary-color;
+
+	h2,
+	p,
+	li {
+		color: $white;
+	}
+
+	.theme-btn-s3 {
+		background-color: $white;
+		color: $text-color;
+	}
+
+	.img-holder {
+		position: absolute;
+
+		@include media-query(991px) {
+			display: none;
+		}	
+	}
+}
+
+
+/*--------------------------------------------------------------
+#3.3	partenrs-section
+--------------------------------------------------------------*/
+.partenrs-section {
+	background-color: #f3f3f3;
+	padding: 60px 0;
+
+	.partners-slider img {
+		width: auto;
+	}
+}

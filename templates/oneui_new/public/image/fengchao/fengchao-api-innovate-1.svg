@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>画板</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="55.2328929%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#40BCF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1E87F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="56.6767928%" y2="97.2654113%" id="linearGradient-2">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="15.4911243%" x2="57.5938899%" y2="82.6215241%" id="linearGradient-3">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="31.0650888%" x2="57.5938899%" y2="67.8993273%" id="linearGradient-4">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-197.000000, -172.000000)" fill-rule="nonzero">
+            <g id="编组" transform="translate(202.000000, 167.000000)">
+                <rect id="矩形" fill="url(#linearGradient-1)" x="7.5" y="18.7577028" width="57" height="66"></rect>
+                <polygon id="路径-2" fill="url(#linearGradient-2)" points="3 70.5500033 3 18.7577028 0 18.7577028 0 73.5500033 51.3773071 73.5500033 51.3773071 70.5500033"></polygon>
+                <path d="M6.87734174,63.7577028 L19.361384,47.9102042 C20.4855753,46.4831327 22.3345241,46.0978135 23.8424323,46.9763579 L32.9483075,52.2816645 C35.8307922,53.9610709 39.3706494,53.1492928 41.4304391,50.336499 L69.5,12.0054551 L67.0487269,9.75770276 L38.979166,48.0887467 C37.8700485,49.6033279 35.9639715,50.0404392 34.4118644,49.1361434 L25.3059891,43.8308368 C22.5055882,42.1992545 19.0718261,42.9148473 16.9840422,45.5651228 L4.5,61.4126214 L6.87734174,63.7577028 Z" id="路径-3" fill="url(#linearGradient-3)"></path>
+                <polygon id="三角形" fill="url(#linearGradient-4)" transform="translate(69.050439, 10.000000) rotate(40.000000) translate(-69.050439, -10.000000) " points="69.0504393 6 75.5504393 14 62.5504393 14"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

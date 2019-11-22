@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="980px" height="480px" viewBox="0 0 980 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>官网在线教育解决方案</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="425" width="980" height="30" rx="3"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="980" height="30" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="111" y="205" width="182" height="80" rx="3"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="182" height="80" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="111" y="340" width="758" height="34" rx="3"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="758" height="34" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="303" y="205" width="182" height="80" rx="3"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="182" height="80" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="495" y="205" width="182" height="80" rx="3"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="182" height="80" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="687" y="205" width="182" height="80" rx="3"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="182" height="80" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="111" y="65" width="246" height="90" rx="3"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="246" height="90" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <rect id="path-15" x="367" y="65" width="246" height="90" rx="3"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="246" height="90" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <rect id="path-17" x="623" y="65" width="246" height="90" rx="3"></rect>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="246" height="90" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+    </defs>
+    <g id="官网在线教育解决方案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-67" fill="#2296F6" x="0" y="384" width="980" height="31" rx="3"></rect>
+        <use id="Rectangle-Copy-88" stroke="#2296F6" mask="url(#mask-2)" stroke-width="4" stroke-dasharray="2" xlink:href="#path-1"></use>
+        <rect id="Rectangle-Copy-68" fill="#8B6CBF" x="0" y="25" width="101" height="130" rx="3"></rect>
+        <rect id="Rectangle-Copy-72" fill="#8B6CBF" x="111" y="25" width="246" height="30" rx="3"></rect>
+        <rect id="Rectangle-Copy-78" fill="#7787A1" x="111" y="165" width="182" height="30" rx="3"></rect>
+        <rect id="Rectangle-Copy-80" fill="#E69969" x="111" y="295" width="758" height="35" rx="3"></rect>
+        <use id="Rectangle-Copy-79" stroke="#7787A1" mask="url(#mask-4)" stroke-width="4" stroke-dasharray="2" xlink:href="#path-3"></use>
+        <use id="Rectangle-Copy-81" stroke="#E19567" mask="url(#mask-6)" stroke-width="4" stroke-dasharray="2" xlink:href="#path-5"></use>
+        <rect id="Rectangle-Copy-82" fill="#7787A1" x="303" y="165" width="182" height="30" rx="3"></rect>
+        <use id="Rectangle-Copy-85" stroke="#7787A1" mask="url(#mask-8)" stroke-width="4" stroke-dasharray="2" xlink:href="#path-7"></use>
+        <rect id="Rectangle-Copy-83" fill="#7787A1" x="495" y="165" width="182" height="30" rx="3"></rect>
+        <use id="Rectangle-Copy-86" stroke="#7787A1" mask="url(#mask-10)" stroke-width="4" stroke-dasharray="2" xlink:href="#path-9"></use>
+        <rect id="Rectangle-Copy-84" fill="#7787A1" x="687" y="165" width="182" height="30" rx="3"></rect>
+        <use id="Rectangle-Copy-87" stroke="#7787A1" mask="url(#mask-12)" stroke-width="4" stroke-dasharray="2" xlink:href="#path-11"></use>
+        <use id="Rectangle-Copy-75" stroke="#8B6CBF" mask="url(#mask-14)" stroke-width="4" stroke-dasharray="2" xlink:href="#path-13"></use>
+        <use id="Rectangle-Copy-76" stroke="#8B6CBF" mask="url(#mask-16)" stroke-width="4" stroke-dasharray="2" xlink:href="#path-15"></use>
+        <use id="Rectangle-Copy-77" stroke="#8B6CBF" mask="url(#mask-18)" stroke-width="4" stroke-dasharray="2" xlink:href="#path-17"></use>
+        <rect id="Rectangle-Copy-73" fill="#8B6CBF" x="367" y="25" width="246" height="30" rx="3"></rect>
+        <rect id="Rectangle-Copy-74" fill="#8B6CBF" x="623" y="25" width="246" height="30" rx="3"></rect>
+        <rect id="Rectangle-Copy-69" fill="#7787A1" x="0" y="165" width="101" height="120" rx="3"></rect>
+        <rect id="Rectangle-Copy-70" fill="#E69969" x="0" y="295" width="101" height="79" rx="3"></rect>
+        <rect id="Rectangle-Copy-71" fill="#4C63C3" x="879" y="25" width="101" height="349" rx="3"></rect>
+        <text id="安全" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="474" y="405">安全</tspan>
+        </text>
+        <text id="攻击检查、攻击防御、配置管理、防爬虫、防" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="301" y="445">攻击检查、攻击防御、配置管理、防爬虫、防刷优惠、防撞库</tspan>
+        </text>
+        <text id="点播上传" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="202" y="45">点播上传</tspan>
+        </text>
+        <text id="客户端" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="178" y="185">客户端</tspan>
+        </text>
+        <text id="传输" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="474" y="319">传输</tspan>
+        </text>
+        <text id="推流" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="378" y="185">推流</tspan>
+        </text>
+        <text id="数据处理" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="554" y="185">数据处理</tspan>
+        </text>
+        <text id="分发" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="762" y="185">分发</tspan>
+        </text>
+        <text id="上传加速" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="206" y="115">上传加速</tspan>
+        </text>
+        <text id="数据迁移，生命周期管理，转录，-转码、封" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="385" y="105">数据迁移，生命周期管理，转录，</tspan>
+            <tspan x="385" y="125">转码、封装、水印、切片、截图…</tspan>
+        </text>
+        <text id="白板、屏幕共享、单聊-群聊、流管理、播放" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="132" y="230">白板、屏幕共享、单聊</tspan>
+            <tspan x="125" y="250">群聊、流管理、播放器、</tspan>
+            <tspan x="146" y="270">麦克风摄像头管理</tspan>
+        </text>
+        <text id="动态路由优化、私有传输协议、网络运营数据" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="287.077" y="362">动态路由优化、私有传输协议、网络运营数据分析、TCP链路优化</tspan>
+        </text>
+        <text id="音视频推流、多路混流、-音视频编码、纯音" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="317" y="230">音视频推流、多路混流、</tspan>
+            <tspan x="331" y="250">音视频编码、纯音频</tspan>
+            <tspan x="345" y="270">推流、上传加速</tspan>
+        </text>
+        <text id="转码、转协议、水印、-直播录制、切片、截" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="516" y="230">转码、转协议、水印、</tspan>
+            <tspan x="509" y="250">直播录制、切片、截图、</tspan>
+            <tspan x="537" y="270">自定义开发集成</tspan>
+        </text>
+        <text id="直播时移、直播转推、多终端-适配、延播、" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="700" y="224">直播时移、直播转推、多终端</tspan>
+            <tspan x="700" y="241">适配、延播、禁播、多码率、</tspan>
+            <tspan x="714.784" y="258">防盗链鉴权、API接口、</tspan>
+            <tspan x="742" y="275">直播数据分析</tspan>
+        </text>
+        <text id="分段缓存、防盗链鉴权、-多终端适配、视频" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="669" y="95">分段缓存、防盗链鉴权、</tspan>
+            <tspan x="669" y="115">多终端适配、视频拖拉、</tspan>
+            <tspan x="662" y="135">单链接限速、点播数据分析</tspan>
+        </text>
+        <text id="存储/边缘计算" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="438" y="45">存储/边缘计算</tspan>
+        </text>
+        <text id="分发" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="730" y="45">分发</tspan>
+        </text>
+        <text id="音视频-点播" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="26" y="85">音视频</tspan>
+            <tspan x="34" y="107">点播</tspan>
+        </text>
+        <text id="音视频-直播" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="26" y="220">音视频</tspan>
+            <tspan x="34" y="242">直播</tspan>
+        </text>
+        <text id="流媒体&amp;-文件" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="20.492" y="330">流媒体&amp;</tspan>
+            <tspan x="34.5" y="352">文件</tspan>
+        </text>
+        <text id="终端-（Windows，-Mac，-IO" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="914" y="164">终端</tspan>
+            <tspan x="879.496" y="186">（Windows，</tspan>
+            <tspan x="905.712" y="208">Mac，</tspan>
+            <tspan x="908.536" y="230">IOS，</tspan>
+            <tspan x="892.296" y="252">Android）</tspan>
+        </text>
+    </g>
+</svg>

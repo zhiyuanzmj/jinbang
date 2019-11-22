@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="980px" height="480px" viewBox="0 0 980 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>架构图 1 copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M498,265 L977,265 C978.656854,265 980,266.343146 980,268 L980,372 C980,373.656854 978.656854,375 977,375 L498,375 C496.343146,375 495,373.656854 495,372 L495,268 C495,266.343146 496.343146,265 498,265 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="485" height="110" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M3,265 L482,265 C483.656854,265 485,266.343146 485,268 L485,372 C485,373.656854 483.656854,375 482,375 L3,375 C1.34314575,375 2.02906125e-16,373.656854 0,372 L0,268 C-2.02906125e-16,266.343146 1.34314575,265 3,265 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="485" height="110" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path d="M3,105 L808,105 C809.656854,105 811,106.343146 811,108 L811,252 C811,253.656854 809.656854,255 808,255 L3,255 C1.34314575,255 2.02906125e-16,253.656854 0,252 L0,108 C-2.02906125e-16,106.343146 1.34314575,105 3,105 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="811" height="150" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <path d="M825,105 L977,105 C978.656854,105 980,106.343146 980,108 L980,252 C980,253.656854 978.656854,255 977,255 L825,255 C823.343146,255 822,253.656854 822,252 L822,108 C822,106.343146 823.343146,105 825,105 Z" id="path-7"></path>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="158" height="150" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="架构图-1-copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <use id="Rectangle-Copy-69" stroke="#7787A1" mask="url(#mask-2)" stroke-width="4" stroke-dasharray="2" xlink:href="#path-1"></use>
+        <rect id="Rectangle-Copy-66" fill="#2296F6" x="0" y="45" width="980" height="50" rx="3"></rect>
+        <rect id="Rectangle-Copy-67" fill="#2296F6" x="0" y="385" width="980" height="50" rx="3"></rect>
+        <use id="Rectangle-Copy-68" stroke="#7787A1" mask="url(#mask-4)" stroke-width="4" stroke-dasharray="2" xlink:href="#path-3"></use>
+        <rect id="Rectangle-Copy-72" fill="#7787A1" x="10" y="275" width="148" height="40" rx="3"></rect>
+        <rect id="Rectangle-Copy-78" fill="#7787A1" x="505" y="275" width="148" height="40" rx="3"></rect>
+        <rect id="Rectangle-Copy-75" fill="#7787A1" x="10" y="325" width="148" height="40" rx="3"></rect>
+        <rect id="Rectangle-Copy-79" fill="#7787A1" x="505" y="325" width="148" height="40" rx="3"></rect>
+        <rect id="Rectangle-Copy-73" fill="#7787A1" x="168" y="275" width="148" height="40" rx="3"></rect>
+        <rect id="Rectangle-Copy-80" fill="#7787A1" x="663" y="275" width="148" height="40" rx="3"></rect>
+        <rect id="Rectangle-Copy-76" fill="#7787A1" x="168" y="325" width="148" height="40" rx="3"></rect>
+        <rect id="Rectangle-Copy-81" fill="#7787A1" x="663" y="325" width="148" height="40" rx="3"></rect>
+        <rect id="Rectangle-Copy-74" fill="#7787A1" x="327" y="275" width="148" height="40" rx="3"></rect>
+        <rect id="Rectangle-Copy-82" fill="#7787A1" x="822" y="275" width="148" height="40" rx="3"></rect>
+        <rect id="Rectangle-Copy-77" fill="#7787A1" x="327" y="325" width="148" height="40" rx="3"></rect>
+        <rect id="Rectangle-Copy-83" fill="#7787A1" x="822" y="325" width="148" height="40" rx="3"></rect>
+        <use id="Rectangle-Copy-70" stroke="#4C63C3" mask="url(#mask-6)" stroke-width="4" stroke-dasharray="2" xlink:href="#path-5"></use>
+        <use id="Rectangle-Copy-71" stroke="#4C63C3" mask="url(#mask-8)" stroke-width="4" stroke-dasharray="2" xlink:href="#path-7"></use>
+        <rect id="Rectangle-Copy-71" fill="#4C63C3" x="832" y="115" width="138" height="110" rx="3"></rect>
+        <text id="终端网民" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="458" y="75">终端网民</tspan>
+        </text>
+        <text id="客户/管理员" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="446" y="415">客户/管理员</tspan>
+        </text>
+        <text id="智能调度" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="56" y="300">智能调度</tspan>
+        </text>
+        <text id="访问控制" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="551" y="300">访问控制</tspan>
+        </text>
+        <text id="IDC2" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="883.028" y="169">IDC2</tspan>
+        </text>
+        <text id="…" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#4C63C3">
+            <tspan x="892" y="239">…</tspan>
+        </text>
+        <text id="…-copy" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#4C63C3">
+            <tspan x="783" y="182">…</tspan>
+        </text>
+        <text id="资源调度" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="56" y="350">资源调度</tspan>
+        </text>
+        <text id="实时报警" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="551" y="350">实时报警</tspan>
+        </text>
+        <text id="健康检查" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="214" y="300">健康检查</tspan>
+        </text>
+        <text id="服务监控" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="709" y="300">服务监控</tspan>
+        </text>
+        <text id="镜像管理" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="214" y="350">镜像管理</tspan>
+        </text>
+        <text id="安全隔离" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="709" y="350">安全隔离</tspan>
+        </text>
+        <text id="服务发现" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="373" y="300">服务发现</tspan>
+        </text>
+        <text id="日志管理" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="868" y="300">日志管理</tspan>
+        </text>
+        <text id="负载均衡" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="373" y="350">负载均衡</tspan>
+        </text>
+        <text id="用户管理" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="868" y="350">用户管理</tspan>
+        </text>
+        <rect id="Rectangle-Copy-84" fill="#4C63C3" x="10" y="115" width="153" height="40" rx="3"></rect>
+        <rect id="Rectangle-Copy-87" fill="#4C63C3" x="10" y="165" width="153" height="80" rx="3"></rect>
+        <rect id="Rectangle-Copy-85" fill="#4C63C3" x="173" y="115" width="151" height="40" rx="3"></rect>
+        <rect id="Rectangle-Copy-88" fill="#4C63C3" x="173" y="165" width="151" height="80" rx="3"></rect>
+        <rect id="Rectangle-Copy-86" fill="#4C63C3" x="334" y="115" width="151" height="40" rx="3"></rect>
+        <rect id="Rectangle-Copy-89" fill="#4C63C3" x="334" y="165" width="151" height="80" rx="3"></rect>
+        <rect id="Rectangle-Copy-90" fill="#4C63C3" x="495" y="115" width="278" height="130" rx="3"></rect>
+        <text id="Agent1" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="64.093" y="142">Agent1</tspan>
+        </text>
+        <text id="Docker11-Docker12-Do" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+            <tspan x="61.33" y="191">Docker11</tspan>
+            <tspan x="60.19" y="210">Docker12</tspan>
+            <tspan x="60.19" y="229">Docker13</tspan>
+        </text>
+        <text id="Agent2" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="224.263" y="142">Agent2</tspan>
+        </text>
+        <text id="Docker21-Docker22-Do" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+            <tspan x="222.19" y="191">Docker21</tspan>
+            <tspan x="221.05" y="210">Docker22</tspan>
+            <tspan x="221.05" y="229">Docker23</tspan>
+        </text>
+        <text id="Agent3" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="386.263" y="142">Agent3</tspan>
+        </text>
+        <text id="网络管理" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="602" y="182">网络管理</tspan>
+        </text>
+        <text id="Docker31-Docker32-Do" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+            <tspan x="383.19" y="191">Docker31</tspan>
+            <tspan x="382.05" y="210">Docker32</tspan>
+            <tspan x="382.05" y="229">Docker33</tspan>
+        </text>
+    </g>
+</svg>

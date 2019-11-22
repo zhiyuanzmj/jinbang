@@ -1,0 +1,692 @@
+@media (min-width: 580px) {
+    .panel-widget .panel-body .no-data,
+    .panel-widget .panel-cards .no-data {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: auto;
+        min-height: auto;
+    }
+}
+@media (max-width: 579px) {
+    .panel-ticket {
+        margin: 0 -20px -24px;
+        box-shadow: none;
+    }
+    .panel-widget .panel-cards:not(.cards-carousel) {
+        height: auto;
+        padding-bottom: 0;
+    }
+    .panel-widget .panel-cards:not(.cards-carousel) .cards-nav {
+        display: none;
+    }
+}
+.title-slider .first {
+    position: relative;
+    z-index: 10
+}
+.lSSlideOuter .lSPager.lSpg {
+    margin: 10px 0 0;
+    padding: 0;
+    display: none;
+    text-align: center
+}
+.lSSlideOuter .lSPager.lSpg > li {
+    cursor: pointer;
+    display: inline-block;
+    padding: 0 5px
+}
+.lSSlideOuter .lSPager.lSpg > li a {
+    background-color: #222;
+    border-radius: 30px;
+    display: inline-block;
+    height: 8px;
+    overflow: hidden;
+    text-indent: -999em;
+    width: 8px;
+    position: relative;
+    z-index: 99;
+    -webkit-transition: all .5s linear 0s;
+    transition: all .5s linear 0s
+}
+.lSSlideOuter .lSPager.lSpg > li.active a,
+.lSSlideOuter .lSPager.lSpg > li:hover a {
+    background-color: #428bca
+}
+.lSSlideOuter .media {
+    opacity: .8
+}
+.lSSlideOuter .media.active {
+    opacity: 1
+}
+.lSSlideOuter .lSPager.lSGallery {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 10;
+    height: 83px;
+    padding: 8px 0 8px 8px;
+    min-width: 100%;
+    background: rgba(0, 0, 0, .1);
+    list-style: none outside none;
+    margin: 0!important;
+    overflow: hidden;
+    transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+    -o-transform: translateZ(0);
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    white-space: nowrap
+}
+.lSSlideOuter .lSPager.lSGallery li {
+    max-height: 67px;
+    background: #fff;
+    overflow: hidden;
+    -webkit-transition: opacity .15s;
+    transition: opacity .15s;
+    opacity: .5;
+    height: 100%
+}
+.lSSlideOuter .lSPager.lSGallery li:last-of-type {
+    margin-right: 0!important
+}
+.lSSlideOuter .lSPager.lSGallery li.active {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .2)
+}
+.lSSlideOuter .lSPager.lSGallery img {
+    display: block;
+    height: 100%;
+    width: 100%
+}
+.lSSlideOuter .lSPager.lSGallery li.slide-active,
+.lSSlideOuter .lSPager.lSGallery li:hover {
+    opacity: 1
+}
+.lSSlideOuter .lSPager.lSGallery:after,
+.lSSlideOuter .lSPager.lSGallery:before {
+    content: " ";
+    display: table
+}
+.lSSlideOuter .lSPager.lSGallery:after {
+    clear: both
+}
+@media (min-width:992px) {
+    .title-slider {
+        max-height: 456px
+    }
+    .title-slider .lSSlideOuter {
+        background: #e9edf2
+    }
+}
+.lSAction > a {
+    width: 32px;
+    display: block;
+    top: 50%;
+    height: 32px;
+    cursor: pointer;
+    position: absolute;
+    z-index: 99;
+    -webkit-transition: opacity .35s linear 0s;
+    transition: opacity .35s linear 0s
+}
+.lSAction > a:hover {
+    opacity: 1
+}
+.lSAction > .lSPrev {
+    background-position: 0 0;
+    left: 10px
+}
+.lSAction > .lSNext {
+    background-position: -32px 0;
+    right: 10px
+}
+.lSAction > a.disabled {
+    pointer-events: none
+}
+.cS-hidden {
+    height: 1px;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    overflow: hidden
+}
+.lSSlideOuter.vertical {
+    position: relative
+}
+.lSSlideOuter.vertical.noPager {
+    padding-right: 0!important
+}
+.lSSlideOuter.vertical .lSGallery {
+    position: absolute!important;
+    right: 0;
+    top: 0
+}
+.lSSlideOuter.vertical .lightSlider > * {
+    width: 100%!important;
+    max-width: none!important
+}
+.lSSlideOuter.vertical .lSAction > a {
+    left: 50%;
+    margin-left: -14px;
+    margin-top: 0
+}
+.lSSlideOuter.vertical .lSAction > .lSNext {
+    background-position: 31px -31px;
+    bottom: 10px;
+    top: auto
+}
+.lSSlideOuter.vertical .lSAction > .lSPrev {
+    background-position: 0 -31px;
+    bottom: auto;
+    top: 10px
+}
+.lSSlideOuter.lSrtl {
+    direction: rtl
+}
+.lSSlideOuter .lightSlider,
+.lSSlideOuter .lSPager {
+    padding-left: 0;
+    padding-bottom: 0!important;
+    list-style: none outside none
+}
+.lSSlideOuter.lSrtl .lightSlider,
+.lSSlideOuter.lSrtl .lSPager {
+    padding-right: 0
+}
+.lSSlideOuter .lightSlider > *,
+.lSSlideOuter .lSGallery li {
+    float: left
+}
+.lSSlideOuter.lSrtl .lightSlider > *,
+.lSSlideOuter.lSrtl .lSGallery li {
+    float: right!important
+}
+@-webkit-keyframes rightEnd {
+    0% {
+        left: 0
+    }
+    50% {
+        left: -15px
+    }
+    to {
+        left: 0
+    }
+}
+@keyframes rightEnd {
+    0% {
+        left: 0
+    }
+    50% {
+        left: -15px
+    }
+    to {
+        left: 0
+    }
+}
+@-webkit-keyframes topEnd {
+    0% {
+        top: 0
+    }
+    50% {
+        top: -15px
+    }
+    to {
+        top: 0
+    }
+}
+@keyframes topEnd {
+    0% {
+        top: 0
+    }
+    50% {
+        top: -15px
+    }
+    to {
+        top: 0
+    }
+}
+@-webkit-keyframes leftEnd {
+    0% {
+        left: 0
+    }
+    50% {
+        left: 15px
+    }
+    to {
+        left: 0
+    }
+}
+@keyframes leftEnd {
+    0% {
+        left: 0
+    }
+    50% {
+        left: 15px
+    }
+    to {
+        left: 0
+    }
+}
+@-webkit-keyframes bottomEnd {
+    0% {
+        bottom: 0
+    }
+    50% {
+        bottom: -15px
+    }
+    to {
+        bottom: 0
+    }
+}
+@keyframes bottomEnd {
+    0% {
+        bottom: 0
+    }
+    50% {
+        bottom: -15px
+    }
+    to {
+        bottom: 0
+    }
+}
+.lSSlideOuter .rightEnd {
+    -webkit-animation: rightEnd .3s;
+    animation: rightEnd .3s;
+    position: relative
+}
+.lSSlideOuter .leftEnd {
+    -webkit-animation: leftEnd .3s;
+    animation: leftEnd .3s;
+    position: relative
+}
+.lSSlideOuter.vertical .rightEnd {
+    -webkit-animation: topEnd .3s;
+    animation: topEnd .3s;
+    position: relative
+}
+.lSSlideOuter.vertical .leftEnd {
+    -webkit-animation: bottomEnd .3s;
+    animation: bottomEnd .3s;
+    position: relative
+}
+.lSSlideOuter.lSrtl .rightEnd {
+    -webkit-animation: leftEnd .3s;
+    animation: leftEnd .3s;
+    position: relative
+}
+.lSSlideOuter.lSrtl .leftEnd {
+    -webkit-animation: rightEnd .3s;
+    animation: rightEnd .3s;
+    position: relative
+}
+.lightSlider.lsGrabbing > * {
+    cursor: move;
+    cursor: -webkit-grabbing;
+    cursor: -o-grabbing;
+    cursor: -ms-grabbing;
+    cursor: grabbing
+}
+/* cards */
+.panel-cards {
+	padding-bottom: 56px;
+    position: relative;
+    height: 344px;
+}
+.panel-cards .lSSlideOuter {
+    background: transparent;
+    overflow: hidden;
+}
+.cards {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.card-row {
+    position: relative;
+    display: block;
+    height: 72px;
+    padding: 12px 5px;
+    border-bottom: 1px solid #e9edf2;
+    color: #737780;
+    -webkit-transition: linear background-color .15s;
+    transition: linear background-color .15s;
+}
+.card-row:hover,
+.card-row:focus {
+    color: #5c5f66;
+    background-color: #f5f7fa;
+	text-decoration: none;
+}
+.card-row:last-child {
+    border: none;
+}
+.card-row > span {
+    display: inline-block;
+}
+.card-row > .cell-title {
+    display: block;
+    margin-bottom: 10px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.card-row > .cell-progress {
+    position: absolute;
+    top: 16px;
+    right: 24px;
+    font-weight: 700;
+}
+.card-row > .cell-date,
+.card-row > .cell-cycle,
+.card-row > .cell-status {
+    float: left;
+    color: #888;
+    font-size: 12px;
+}
+.card-row > .cell-date,
+.card-row > .cell-license {
+    float: right;
+    font-size: 12px;
+}
+.card-row > .cell-total {
+    position: absolute;
+    right: 24px;
+    top: 25px;
+    width: 50%;
+    text-align: right;
+}
+.card-row > .cell-total .price {
+    font-size: 18px;
+}
+@media (max-width: 1199px) {
+    .card-row > .cell-license {
+        display: none;
+    }
+}
+@media (max-width: 767px) {
+    .card-row {
+        padding: 16px;
+    }
+    .card-row > .cell-total {
+        top: 16px;
+        right: 16px;
+        margin-top: 0;
+    }
+    .card-row > .cell-progress {
+        right: 16px;
+    }
+    .card-row > .cell-total .price {
+        font-size: 14px;
+    }
+}
+/* cards > Carousel */
+.cards-carousel .cards:not(.lSSlide) > li {
+    display: none;
+}
+.cards-carousel .cards:not(.lSSlide) > li:first-child {
+    display: block;
+}
+.lScardr {
+    display: none;
+}
+.panel-cards .lSSlideWrapper {
+    height: 100%;
+}
+/* card > Navigation */
+.cards-nav {
+    position: absolute;
+    bottom: -15px;
+    left: 0;
+    height: 56px;
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+}
+.cards-nav .btn {
+    margin-top: -2px;
+    cursor: pointer;
+}
+.cards-nav .btn:hover {
+	color: #34C188;
+    background-color: #F4F4F4;
+}
+.cards-nav .btn > i {
+    font-size: 26px;
+    font-weight: 600;
+}
+.cards-nav .card-prev {
+	float: left;
+}
+.cards-nav .card-next {
+	float: right;
+}
+.card-number {
+    display: inline-block;
+    margin: 12px auto;
+    font-size: 13px;
+    vertical-align: middle;
+}
+.panel-products .card-row > .cell-title {
+    font-weight: 700;
+}
+.panel-group {
+    margin-bottom: 0px;
+}
+.empty-data {
+    display: inline-block;
+    vertical-align: middle;
+    min-height: 99%;
+    min-width: 99%;
+}
+
+.status {
+    display: block;
+    font-size: 0.9em;
+    line-height: 22px;
+    border: 2px solid #ccc;
+    border-radius: 3px;
+    background-color: #fff;
+    color: #333;
+}
+
+.status-custom {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    padding: 1px;
+}
+
+.status-pending {
+    color: #D9534F;
+}
+.status-pending.transfer {
+    color: #A68500;
+}
+.status-active,
+.status-open,
+.status.completed {
+    color: #3fad46;
+}
+.status-suspended {
+    color: #F0AD4E;
+}
+.status-customer-reply {
+    color: #ff6600;
+}
+.status-fraud,
+.status-answered {
+    color: #000000;
+}
+.status-expired,
+.status-transferred.away{
+    color: #004258;
+}
+.status-cancelled {
+    color: #9FA29A;
+}
+.status-terminated {
+    color: #666;
+}
+.status-onhold {
+    color: #224488;
+}
+.status-inprogress {
+    color: #cc0000;
+}
+.status-closed {
+    color: #888;
+}
+
+.status-paid {
+    color: #498302;
+}
+.status-unpaid {
+    color: #ED3E48;
+}
+.status-cancelled {
+    color: #87939F;
+}
+.status-collections {
+    color: #9A141E;
+}
+.status-refunded {
+    color: #319FC3;
+}
+
+.status-customer-reply {
+    color: #ff6600;
+}
+
+.status-delivered {
+    color: #224488;
+}
+
+.status-accepted {
+    color: #498302;
+}
+.status-lost, .status-dead {
+    color: #000;
+}
+
+.not-visible {
+    visibility: hidden;
+}
+
+.check-animate {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 20px;
+    width: 20px;
+    margin: -10px 0 0 -10px;
+    z-index: 10
+}
+.check-animate:before {
+    -webkit-transform: scaleX(-1) rotate(135deg);
+    transform: scaleX(-1) rotate(135deg);
+    -webkit-transform-origin: left top;
+    transform-origin: left top;
+    border-right: 3px solid #5bc758;
+    border-top: 3px solid #5bc758;
+    content: '';
+    display: block;
+    height: 18px;
+    left: 14px;
+    width: 10px;
+    -webkit-animation: check .8s;
+    animation: check .8s;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+    bottom: 0
+}
+.btn-primary .check-animate:before,
+.btn-secondary .check-animate:before {
+    border-color: #fff
+}
+
+div.credit-card {
+    margin: 0 auto 30px;
+    max-width: 400px;
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    border-radius: 8px
+}
+
+div.credit-card div.card-type {
+    float: right;
+    padding: 10px 20px;
+    font-size: 1.2em
+}
+
+div.credit-card div.card-icon {
+    float: left;
+    padding: 7px 7px;
+    font-size: 1.2em
+}
+
+div.credit-card div.card-number {
+    padding: 10px;
+    background-color: #ccc;
+    font-size: 1.6em;
+    text-align: center;
+    clear: both
+}
+
+div.credit-card div.card-start {
+    float: left;
+    padding: 20px 0 50px 50px;
+    font-size: 1.3em;
+    text-align: right
+}
+
+div.credit-card div.card-expiry {
+    float: right;
+    padding: 20px 50px 50px 0;
+    height: 120px;
+    font-size: 1.3em;
+    text-align: right
+}
+
+div.credit-card div.end {
+    clear: both
+}
+
+@media (max-width:600px) {
+    div.credit-card {
+        max-width: 250px
+    }
+
+    div.credit-card div.card-type {
+        font-size: 1em
+    }
+
+    div.credit-card div.card-icon {
+        font-size: 1em
+    }
+
+    div.credit-card div.card-number {
+        padding: 6px 10px;
+        font-size: 1.2em
+    }
+
+    div.credit-card div.card-start {
+        padding: 20px 0 30px 50px;
+        font-size: .9em
+    }
+
+    div.credit-card div.card-expiry {
+        padding: 20px 50px 30px 0;
+        height: 80px;
+        font-size: .9em
+    }
+}

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580px" height="240px" viewBox="0 0 580 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>边缘计算监控</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polyline id="path-1" points="227.540466 16 553 16 553 225 222 225"></polyline>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="331" height="209" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="168" y="0" width="66" height="30" rx="3"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="66" height="30" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="524" y="102" width="56" height="30" rx="3"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="56" height="30" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="168" y="210" width="66" height="30" rx="3"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="66" height="30" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="边缘计算监控" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <use id="路径-26" stroke="#3261AF" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="2" xlink:href="#path-1"></use>
+        <path d="M211,221.358382 C211,223.369592 209.656854,225 208,225 L127,225 C125.343146,225 124,223.369592 124,221.358382 L124,18.6416185 C124,16.6304081 125.343146,15 127,15 L208,15 C209.656854,15 211,16.6304081 211,18.6416185" id="Rectangle-3-Copy-13" stroke="#3261AF"></path>
+        <rect id="Rectangle-3-Copy-10" fill="#A1CAFF" x="0" y="72" width="94" height="90" rx="3"></rect>
+        <rect id="Rectangle-3-Copy-14" fill="#A1CAFF" transform="translate(376.000000, 120.000000) scale(-1, 1) translate(-376.000000, -120.000000) " x="282" y="36" width="188" height="168" rx="3"></rect>
+        <rect id="Rectangle-Copy-66" fill="#3261AF" x="19" y="83" width="56" height="30" rx="3"></rect>
+        <g id="分组-7" transform="translate(305.000000, 57.000000)">
+            <g id="分组-6" transform="translate(0.000000, 97.000000)">
+                <rect id="Rectangle-Copy-71" fill="#3261AF" x="0" y="0" width="56" height="30" rx="3"></rect>
+                <text id="center" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="7.448" y="19">center</tspan>
+                </text>
+            </g>
+            <g id="分组-6-copy-2" transform="translate(86.000000, 97.000000)">
+                <rect id="Rectangle-Copy-71" fill="#3261AF" x="0" y="0" width="56" height="30" rx="3"></rect>
+                <text id="center" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="7.448" y="19">center</tspan>
+                </text>
+            </g>
+            <g id="分组-5" transform="translate(42.000000, 0.000000)">
+                <circle id="椭圆形" fill="#3261AF" fill-rule="nonzero" cx="28" cy="28" r="25"></circle>
+                <path d="M28,56 C43.463973,56 56,43.463973 56,28 C56,12.536027 43.463973,0 28,0 C12.536027,0 0,12.536027 0,28 C0,43.463973 12.536027,56 28,56 Z" id="椭圆形" stroke="#3261AF" stroke-dasharray="2" fill-rule="nonzero"></path>
+                <text id="center" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="7.448" y="33">center</tspan>
+                </text>
+            </g>
+        </g>
+        <use id="Rectangle-Copy-67" stroke="#3261AF" mask="url(#mask-4)" stroke-width="2" fill="#A1CAFF" stroke-dasharray="2" xlink:href="#path-3"></use>
+        <use id="Rectangle-Copy-70" stroke="#3261AF" mask="url(#mask-6)" stroke-width="2" fill="#A1CAFF" stroke-dasharray="2" xlink:href="#path-5"></use>
+        <path d="M516,122 L474,122 L474,121 L517,121 L519,121 L516,124 L516,122 Z M477,118 L519,118 L519,119 L476,119 L474,119 L477,116 L477,118 Z" id="合并形状" fill="#3261AF" fill-rule="nonzero"></path>
+        <path d="M422,134 L380,134 L380,133 L423,133 L425,133 L422,136 L422,134 Z M383,130 L425,130 L425,131 L382,131 L380,131 L383,128 L383,130 Z" id="合并形状-copy-3" fill="#3261AF" fill-rule="nonzero" transform="translate(402.500000, 132.000000) rotate(-300.000000) translate(-402.500000, -132.000000) "></path>
+        <path d="M369,134 L327,134 L327,133 L370,133 L372,133 L369,136 L369,134 Z M330,130 L372,130 L372,131 L329,131 L327,131 L330,128 L330,130 Z" id="合并形状-copy-3" fill="#3261AF" fill-rule="nonzero" transform="translate(349.500000, 132.000000) scale(-1, 1) rotate(-300.000000) translate(-349.500000, -132.000000) "></path>
+        <use id="Rectangle-Copy-68" stroke="#3261AF" mask="url(#mask-8)" stroke-width="2" fill="#A1CAFF" stroke-dasharray="2" xlink:href="#path-7"></use>
+        <g id="分组-3" transform="translate(37.000000, 88.000000)" fill-rule="nonzero">
+            <g id="分组-6-copy" fill="#90B6ED">
+                <path d="M5.00735794,7.91165832 C4.13970372,7.07499558 3.6,5.90052507 3.6,4.6 C3.6,2.05949015 5.65949015,2.22044605e-14 8.2,2.22044605e-14 C10.7405098,2.22044605e-14 12.8,2.05949015 12.8,4.6 C12.8,5.90052507 12.2602963,7.07499558 11.3926421,7.91165832 C14.3353026,9.28588762 16.4,12.5022869 16.4,16.2509668 C16.4,21.2496777 -1.82964754e-13,21.2496777 -1.82964754e-13,16.2509668 C-1.82964754e-13,12.5022869 2.06469741,9.28588762 5.00735794,7.91165832 Z" id="合并形状"></path>
+            </g>
+            <g id="分组-4" transform="translate(10.000000, 10.000000)">
+                <path d="M8.60782862,2.41572495 L8.60785663,2.41581633 C9.49113953,5.29777266 7.8708946,8.35010214 4.98893827,9.23338505 C3.94663772,9.5528369 2.83255363,9.55283339 1.79025509,9.233375 L1.79022708,9.23328361 C0.906944168,6.35132728 2.5271891,3.2989978 5.40914543,2.41571489 C6.45144598,2.09626304 7.56553008,2.09626655 8.60782862,2.41572495 Z" id="矩形" fill="#FFFFFF" transform="translate(5.199042, 5.824550) rotate(-315.000000) translate(-5.199042, -5.824550) "></path>
+                <circle id="椭圆形" fill="#90B6ED" cx="5.10714286" cy="5.89285714" r="1.17857143"></circle>
+            </g>
+        </g>
+        <text id="用户-监控中心" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="33" y="131">用户</tspan>
+            <tspan x="19" y="151">监控中心</tspan>
+        </text>
+        <text id="edge" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="184.991" y="20">edge</tspan>
+        </text>
+        <text id="edge" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="535.991" y="122">edge</tspan>
+        </text>
+        <text id="edge-copy" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="184.991" y="230">edge</tspan>
+        </text>
+        <g id="分组-8" transform="translate(168.000000, 48.000000)">
+            <rect id="Rectangle-3-Copy-10" fill="#E1EDFF" x="0" y="0" width="66" height="62" rx="3"></rect>
+            <rect id="Rectangle-Copy-66" stroke="#A1CAFF" fill="#FFFFFF" x="5.5" y="5.5" width="55" height="29" rx="3"></rect>
+            <text id="监控点" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#214278">
+                <tspan x="12" y="53">监控点</tspan>
+            </text>
+            <g id="分组-2" transform="translate(23.000000, 10.000000)" fill-rule="nonzero">
+                <circle id="椭圆形" fill="#A1CAFF" cx="10" cy="10" r="10"></circle>
+                <circle id="椭圆形-copy-2" fill="#3261AF" cx="10" cy="12" r="4"></circle>
+                <circle id="椭圆形-copy-3" fill="#3261AF" cx="10" cy="4" r="1"></circle>
+            </g>
+        </g>
+        <rect id="Rectangle-3-Copy-11" fill="#E1EDFF" x="168" y="130" width="66" height="62" rx="3"></rect>
+        <rect id="Rectangle-Copy-69" stroke="#A1CAFF" fill="#FFFFFF" x="173.5" y="135.5" width="55" height="29" rx="3"></rect>
+        <text id="监控点-copy" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#214278">
+            <tspan x="180" y="183">监控点</tspan>
+        </text>
+        <g id="分组-2-copy" transform="translate(191.000000, 140.000000)" fill-rule="nonzero">
+            <circle id="椭圆形" fill="#A1CAFF" cx="10" cy="10" r="10"></circle>
+            <circle id="椭圆形-copy-2" fill="#3261AF" cx="10" cy="12" r="4"></circle>
+            <circle id="椭圆形-copy-3" fill="#3261AF" cx="10" cy="4" r="1"></circle>
+        </g>
+        <path id="路径-42" d="M107.5,120 L123.5,120 L123.5,121 L107.5,121 L107.5,125 L98.5,120.5 L107.5,116 L107.5,120 Z" fill="#3261AF" fill-rule="nonzero"></path>
+        <path d="M278.79899,53.7989899 L233.79899,53.7989899 L233.79899,52.7989899 L279.79899,52.7989899 L281.79899,52.7989899 L278.79899,55.7989899 L278.79899,53.7989899 Z M236.79899,49.7989899 L281.79899,49.7989899 L281.79899,50.7989899 L235.79899,50.7989899 L233.79899,50.7989899 L236.79899,47.7989899 L236.79899,49.7989899 Z" id="合并形状" fill="#3261AF" fill-rule="nonzero" transform="translate(257.798990, 51.798990) rotate(-315.000000) translate(-257.798990, -51.798990) "></path>
+        <path d="M278.79899,190.79899 L233.79899,190.79899 L233.79899,189.79899 L279.79899,189.79899 L281.79899,189.79899 L278.79899,192.79899 L278.79899,190.79899 Z M236.79899,186.79899 L281.79899,186.79899 L281.79899,187.79899 L235.79899,187.79899 L233.79899,187.79899 L236.79899,184.79899 L236.79899,186.79899 Z" id="合并形状" fill="#3261AF" fill-rule="nonzero" transform="translate(257.798990, 188.798990) scale(-1, -1) rotate(-45.000000) translate(-257.798990, -188.798990) "></path>
+        <path d="M205,203 L194,203 L194,202 L207,202 L208,202 L205,205 L205,203 Z M197,199 L208,199 L208,200 L196,200 L194,200 L197,197 L197,199 Z" id="合并形状-copy-4" fill="#A1CAFF" fill-rule="nonzero" transform="translate(201.000000, 201.000000) rotate(-270.000000) translate(-201.000000, -201.000000) "></path>
+        <path d="M205,41 L194,41 L194,40 L207,40 L208,40 L205,43 L205,41 Z M197,37 L208,37 L208,38 L196,38 L194,38 L197,35 L197,37 Z" id="合并形状-copy-4" fill="#A1CAFF" fill-rule="nonzero" transform="translate(201.000000, 39.000000) rotate(-270.000000) translate(-201.000000, -39.000000) "></path>
+    </g>
+</svg>

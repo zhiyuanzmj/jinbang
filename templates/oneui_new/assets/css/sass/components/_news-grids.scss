@@ -1,0 +1,78 @@
+/***************************************
+	# news grids
+***************************************/
+.news-grids {
+	.grid {
+		overflow: hidden;
+	}
+
+	.entry-media,
+	.entry-details {
+		width: 50%;
+		float: left;
+
+		@include media-query(1199px) {
+			width: 100%;
+			float: none;
+		}
+	}
+
+	.entry-details {
+		padding: 22px 15px;
+
+		@include media-query(1199px) {
+			padding: 22px 15px 22px 0;
+		}
+	}
+
+	.entry-header h3 {
+		font-size: 18px;
+		font-size: calc-rem-value(18);
+		font-weight: 600;
+		line-height: 1.3em;
+		margin: 0;
+
+		@include media-query(767px) {
+			font-size: 16px;
+			font-size: calc-rem-value(16);
+		}
+
+		a {
+			color: $heading-color;
+		}
+
+		a:hover {
+			color: $theme-primary-color;
+		}
+	}
+
+	.entry-meta ul {
+		list-style: none;
+		margin: 8px 0 20px;
+		overflow: hidden;
+
+		@include media-query(767px) {
+			margin: 8px 0 15px;
+		}
+
+		> li + li {
+			margin-left: 10px;
+		}
+
+		li {
+			font-size: 12px;
+			font-size: calc-rem-value(12);
+			float: left;
+		}
+
+		a {
+			color: $text-color;
+		}
+	}
+
+	.entry-body p {
+		font-size: 14px;
+		font-size: calc-rem-value(14);
+		margin: 0;
+	}
+}

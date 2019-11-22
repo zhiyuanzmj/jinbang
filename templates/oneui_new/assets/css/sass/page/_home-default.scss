@@ -1,0 +1,459 @@
+/*--------------------------------------------------------------
+#0.6	services-section
+--------------------------------------------------------------*/
+.services-section {
+	.services-grids > .col {
+		@include media-query(991px) {
+			margin-bottom: 15px;
+		}
+	}
+}
+
+
+/*--------------------------------------------------------------
+#0.7	domain-section
+--------------------------------------------------------------*/
+.domain-section,
+.domain-section-s2 {
+	@include background-style("../images/domain-bg.jpg", center bottom, contain, no-repeat, local);
+	position: relative;
+
+	@include media-query(767px) {
+		padding-bottom: 55px;
+	}
+
+	&:before {
+		content: "";
+		@include overlay(#f1f1f1);
+	}
+
+	.domain-search {
+		position: relative;
+
+		input {
+			background-color: $theme-primary-color;
+			height: 60px;
+			color: $white;
+			padding: 6px 220px 6px 35px;
+			border: 0;
+			border-radius: 40px;
+
+			@include media-query(991px) {
+				height: 50px;
+				padding: 6px 140px 6px 25px;
+			}
+		}
+
+		button {
+			background-color: $white;
+			width: 200px;
+			height: 50px;
+			font-size: 16px;
+			font-size: calc-rem-value(16);
+			font-weight: 600;
+			color: $text-color;
+			text-align: center;
+			text-transform: uppercase;
+			border: 0;
+			border-radius: 40px;
+			position: absolute;
+			top: 50%;
+			right: 6px;
+			@include translatingY();
+
+			@include media-query(991px) {
+				width: 120px;
+				height: 40px;
+				font-size: 15px;
+				font-size: calc-rem-value(15);
+			}
+		}
+
+		button:focus {
+			border: 0;
+			outline: none;
+		}
+	}
+
+	.domain-info {
+		overflow: hidden;
+		margin-top: 30px;
+
+		p {
+			margin: 5px 0 0;
+		}
+
+		> div {
+			width: 20%;
+			text-align: center;
+			display: inline-block;
+			float: left;
+		}
+
+		@include media-query(767px) {
+			> div {
+				width: 33.33%;
+				margin: 0 0 15px;
+			}
+		}
+	}
+}
+
+
+/*--------------------------------------------------------------
+#0.8	pricing-section
+--------------------------------------------------------------*/
+.pricing-section-bg {
+	@include background-style("../images/pricing-bg.jpg", center center, cover, no-repeat, local);
+	position: relative;
+	
+	&:before {
+		content: "";
+		@include overlay(transparentize($black, 0.95));
+	}
+
+}
+.pricing-section {
+	background-color: #f7f8fa;
+	text-align: center;
+	
+	@include media-query(991px) {
+		padding-bottom: 35px;
+	}
+
+	@include media-query(767px) {
+		padding-bottom: 25px;
+	}
+
+	.tablist {
+		background-color: $white;
+		display: inline-block;
+		text-align: center;
+		margin: 0 auto 45px;
+		padding: 10px 20px 5px;
+		border-radius: 5px;
+		box-shadow: 0 0 10px transparentize($black, 0.9);
+
+		@include media-query(767px) {
+			margin: 0 auto 25px;
+		}
+	}
+
+	.tablist ul {
+		display: inline-block;
+	}
+
+	.tablist ul li {
+		float: left;
+
+		@include media-query(767px) {
+			float: none;
+		}
+	}
+
+	.tablist ul li a {
+		font-family: $heading-font;
+		font-size: 16px;
+		font-size: calc-rem-value(16);
+		font-weight: 500;
+		color: $theme-primary-color;
+		border-radius: 5px;
+
+		@include media-query(991px) {
+			font-size: 14px;
+			font-size: calc-rem-value(14);
+		}
+
+		@include media-query(767px) {
+			font-size: 13px;
+			font-size: calc-rem-value(13);
+		}
+	}
+
+	.tablist ul li a:hover {
+		background-color: transparent;
+	}
+
+	.tablist ul li.active a {
+		background-color: $theme-primary-color;
+		color: $white;
+	}
+
+	.pricing-grids {
+		overflow: hidden;
+		margin: 0 ;
+
+		.grid {
+			width: calc(33.33% - 30px);
+			float: left;
+			margin: 5px 15px 0;
+
+			@include media-query(991px) {
+				width: calc(50% - 30px);
+				margin: 5px 15px 45px;
+			}
+
+			@include media-query(650px) {
+				width: calc(100% - 30px);
+			}
+		}
+	}
+}
+
+
+/*--------------------------------------------------------------
+#0.9	features-section
+--------------------------------------------------------------*/
+.features-section {
+	.container > .row {
+		margin-bottom: 80px;
+		position: relative;
+
+		@include media-query(991px) {
+			padding-bottom: 40px;
+			margin-bottom: 40px;
+		}
+
+		&:before {
+			content: "";
+			background-color: #dae4eb;
+			width: 97%;
+			height: 1px;
+			position: absolute;
+			left: 50%;
+			bottom: 0;
+			@include translatingX();
+		}
+	}
+
+	.container > .row:nth-child(2) {
+		@include media-query(991px) {
+			.text {
+				padding-top: 0;
+				margin-bottom: 30px;
+			}
+		}
+	}
+
+	.container > .row:last-child {
+		margin-bottom: 0;
+	}
+
+	.img-holder img {
+		border-radius: 10px;
+
+		@include media-query(991px) {
+			border-radius: 5px;
+		}
+	}
+
+	.text {
+		padding-top: 40px;
+
+		h2 {
+			font-size: 30px;
+			font-size: calc-rem-value(30);
+			font-weight: 600;
+			margin: 0 0 0.57em;
+
+			@include media-query(1199px) {
+				font-size: 25px;
+				font-size: calc-rem-value(25);
+			}
+
+			@include media-query(991px) {
+				font-size: 20px;
+				font-size: calc-rem-value(20);
+			}
+
+			@include media-query(767px) {
+				font-size: 18px;
+				font-size: calc-rem-value(18);
+			}
+		}
+	}
+}
+
+
+/*--------------------------------------------------------------
+#1.0	testimonials-section
+--------------------------------------------------------------*/
+.testimonials-section {
+	@include background-style("../images/testimonials-bg.jpg", center center, cover, no-repeat, local);
+	position: relative;
+
+	&:before {
+		content: "";
+		@include overlay(transparentize($black, 0.97));
+	}
+
+	.container {
+		position: relative;
+		z-index: 1;
+	}
+
+	.testimonials-grids > .col {
+		@include media-query(991px) {
+			margin-bottom: 25px;
+		}
+	} 
+
+	.all-testimonials {
+		margin-top: 42px;
+		text-align: center;
+
+		@include media-query(991px) {
+			margin-top: 20px;
+		}
+	}
+
+	.all-testimonials .theme-btn-s3 {
+		text-transform: uppercase;
+	}
+}
+
+
+/*--------------------------------------------------------------
+#1.1	recent-news-section
+--------------------------------------------------------------*/
+.recent-news-section {
+	.news-grids > .col {
+		margin-bottom: 45px;
+
+		@include media-query(767px) {
+			margin-bottom: 30px;
+		}
+
+		@include media-query(650px) {
+			width: 100%;
+		}
+	}
+
+	.all-news {
+		text-align: center;
+		margin-top: 40px;
+
+		@include media-query(1199px) {
+			margin-top: 0;
+		}
+	}
+}
+
+
+/*--------------------------------------------------------------
+#1.2	CTA
+--------------------------------------------------------------*/
+.cta {
+	@include background-style("../images/cta-bg.jpg", center center, cover, no-repeat, local);
+	position: relative;
+
+	@include media-query(991px) {
+		padding: 70px 0;
+	}
+
+	@include media-query(767px) {
+		text-align: center;
+	}
+
+	&:before {
+		content: "";
+		@include overlay(transparentize($black, 0.97));
+	}
+
+	.container {
+		position: relative;
+		z-index: 1;
+	}
+
+	.cta-text {
+		h2 {
+			font-size: 32px;
+			font-size: calc-rem-value(32);
+			font-weight: 600;
+			margin: 0 0 0.55em;
+			letter-spacing: -2px;
+			@include media-query(991px) {
+				font-size: 22px;
+				font-size: calc-rem-value(22);
+			}
+		}
+
+		h3 {
+			font-size: 32px;
+			font-size: calc-rem-value(32);
+			color: $theme-primary-color;
+			margin: 0;
+			@include media-query(991px) {
+				font-size: 22px;
+				font-size: calc-rem-value(22);
+			}
+		}
+	}
+
+	.news-letter {
+
+		@include media-query(767px) {
+			margin-top: 40px;
+		}
+
+		h2 {
+			font-size: 32px;
+			font-size: calc-rem-value(32);
+			margin: 0 0 0.55em;
+			letter-spacing: -2px;
+			@include media-query(991px) {
+				font-size: 22px;
+				font-size: calc-rem-value(22);
+			}
+		}
+	}
+
+	form {
+		position: relative;
+		@include placeholder-style($white, 16px, normal);
+
+		input {
+			background-color: $theme-primary-color;
+			height: 50px;
+			color: $white;
+			padding: 6px 180px 6px 35px;
+			border: 0;
+			border-radius: 40px;
+
+			@include media-query(991px) {
+				height: 45px;
+				padding: 6px 140px 6px 25px;
+			}
+		}
+
+		button {
+			background-color: $white;
+			width: 170px;
+			height: 35px;
+			font-size: 16px;
+			font-size: calc-rem-value(16);
+			font-weight: 600;
+			color: $text-color;
+			text-align: center;
+			text-transform: uppercase;
+			border: 0;
+			border-radius: 40px;
+			position: absolute;
+			top: 50%;
+			right: 6px;
+			@include translatingY();
+
+			@include media-query(991px) {
+				width: 120px;
+				height: 35px;
+				font-size: 15px;
+				font-size: calc-rem-value(15);
+			}
+		}
+
+		button:focus {
+			border: 0;
+			outline: none;
+		}
+	}
+}

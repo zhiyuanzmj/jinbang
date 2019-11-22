@@ -1,0 +1,27 @@
+/*--------------------------------------------------------------
+	#testimonials page
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+#13.0	testimonials-section-full
+--------------------------------------------------------------*/
+.testimonials-pg {
+	.page-title {
+		@include background-style("../images/pg-title/img-3.jpg", center center, cover, no-repeat, local);
+	}
+}
+
+.testimonials-section-full {
+	padding-bottom: 70px;
+
+	@include media-query(991px) {
+		padding-bottom: 50px;
+	}
+
+	@include media-query(767px) {
+		padding-bottom: 40px;
+	}
+
+	.testimonials-grids > .col {
+		margin-bottom: 30px;
+	}
+}

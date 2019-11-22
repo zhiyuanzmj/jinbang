@@ -1,0 +1,45 @@
+.mg-widgets .mg-homepage-widget{
+    float: left;
+    margin-right: 20px;
+    width: calc(50% - 20px)
+}
+
+.mg-widgets .mg-primary-navbar-widget{
+    float: left;
+    margin-right: 20px;
+    width: calc(50% - 20px);
+}
+.mg-widgets .mg-secondary-navbar-widget{
+    float: left;
+    margin-right: 20px;
+    width: calc(100% - 20px);
+}
+
+.mg-widgets .mg-primary-sidebar-widget{
+    float: left;
+    margin-right: 20px;
+    width: 97.5%;
+}
+
+.mg-widgets .mg-secondary-sidebar-widget{
+    float: left;
+    margin-right: 20px;
+    width: 97.5%;
+}
+
+.mg-drag-widget{
+    font-size: 16px;
+}
+
+.mg-not-active {
+    pointer-events: none;
+    cursor:not-allowed;
+}
+
+.mg-not-active .glyphicon {
+    color: gray;
+}
+#mg-panels-content .ui-sortable-handle{
+    cursor:move;
+}
+.padFix { padding-top: 8px; padding-bottom: 8px; }

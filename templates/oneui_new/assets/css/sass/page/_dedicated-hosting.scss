@@ -1,0 +1,76 @@
+/*--------------------------------------------------------------
+	#dedicated hosting page
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+#7.0	hosting-features
+--------------------------------------------------------------*/
+.dedicated-hosting-pg {
+	.page-title {
+		@include background-style("../images/pg-title/img-2.jpg", center center, cover, no-repeat, local);
+	}
+}
+
+.hosting-features {
+	padding: 130px 0 100px;
+
+	@include media-query(991px) {
+		padding: 80px 0;
+	}
+
+	@include media-query(767px) {
+		padding: 70px 0;
+	}
+
+	.container > .row {
+		margin-bottom: 60px;
+
+		@include media-query(767px) {
+			margin-bottom: 25px;
+		}
+	}
+
+	.container > .row:last-child {
+		margin-bottom: 0;
+	}
+
+	.feature-img {
+		margin-top: -50px;
+
+		@include media-query(991px) {
+			margin-top: 0;
+		}
+
+		@include media-query(767px) {
+			display: none;
+		}
+	}
+
+	.feature-img img {
+		border: 10px solid $white;
+		border-radius: 50%;
+		box-shadow: 0 0 20px transparentize($black, 0.7);
+	}
+
+	.text-block {
+		h3 {
+			font-size: 30px;
+			font-size: calc-rem-value(30);
+			font-weight: normal;
+			margin: 0 0 0.76em;
+
+			@include media-query(991px) {
+				font-size: 25px;
+				font-size: calc-rem-value(25);
+			}
+
+			@include media-query(767px) {
+				font-size: 20px;
+				font-size: calc-rem-value(20);
+			}
+		}
+
+		h3 span {
+			font-weight: bold;
+		}
+	}
+}

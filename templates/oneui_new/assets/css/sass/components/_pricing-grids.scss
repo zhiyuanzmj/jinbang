@@ -1,0 +1,131 @@
+/***************************************
+	# Pricing grids
+***************************************/
+.pricing-grids {
+	padding-top: 30px;
+
+	.grid {
+		background-color: $white;
+		padding: 45px 40px;
+		border-radius: 5px;
+		box-shadow: 0 0 5px transparentize($black, 0.9);
+		position: relative;
+
+		&:after {
+			content: "";
+			background-color: $theme-primary-color;
+			width: 100%;
+			height: 15px;
+			border-radius: 0 0 5px 5px;
+			position: absolute;
+			left: 0;
+			bottom: 0;
+
+			@include media-query(991px) {
+				height: 10px;
+			}
+		}
+	}
+
+	.pricing-header {
+		.popular {
+			font-family: $heading-font;
+			background-color: #f64545;
+			color: $white;
+			padding: 2px 15px;
+			position: absolute;
+			left: 50%;
+			top: -25px;
+			@include translatingX();
+			border-radius: 5px 5px 0 0;
+
+			@include media-query(991px) {
+				font-size: 12px;
+				font-size: calc-rem-value(12);
+			}
+		}
+
+		.type {
+			font-family: $heading-font;
+			font-size: 16px;
+			font-size: calc-rem-value(16);
+			font-weight: 500;
+			color: $heading-color;
+			text-transform: uppercase;
+		}
+
+		.price-circle {
+			position: relative;
+			background-color: $theme-primary-color;
+			width: 100px;
+			height: 100px;
+			margin: 20px auto 30px;
+			border-radius: 50%;
+
+			@include media-query(991px) {
+				width: 90px;
+				height: 90px;
+			}
+
+			p {
+				font-family: $heading-font;
+				color: $white;
+				position: relative;
+				z-index: 1;
+				margin: 0;
+				line-height: 1.2em;
+			}
+		}
+
+		.price {
+			font-size: 30px;
+			font-size: calc-rem-value(30);
+			font-weight: bold;
+			padding-top: 20px;
+
+			@include media-query(991px) {
+				font-size: 25px;
+				font-size: calc-rem-value(25);
+			}
+		}
+
+		.duration {
+			font-size: 13px;
+			font-size: calc-rem-value(13);
+
+			@include media-query(991px) {
+				font-size: 12px;
+				font-size: calc-rem-value(12);
+			}
+		}
+	}
+
+	.pricing-body ul {
+		font-family: $heading-font;
+		list-style: none;
+
+		li {
+			color: $text-color;
+			border-bottom: 1px solid #dbe4ea;
+			padding: 10px 0;
+
+			@include media-query(1199px) {
+				font-size: 14px;
+				font-size: calc-rem-value(14);
+			}
+
+			@include media-query(991px) {
+				font-size: 13px;
+				font-size: calc-rem-value(13);
+			}
+		}
+	}
+
+	.pricing-body ul > li:last-child {
+		border-bottom: 0;
+	}
+
+	.pricing-footer {
+		margin-top: 50px;
+	}
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>画板复制 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="55.0231792%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#40BCF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1E87F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="55.9546185%" y2="97.2654113%" id="linearGradient-2">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="38.9818673%" x2="57.5938899%" y2="60.4155315%" id="linearGradient-3">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-200.000000, -396.000000)" fill-rule="nonzero">
+            <g id="编组" transform="translate(200.000000, 396.000000)">
+                <path d="M14,6.43872837 C36,-2.14624279 58,-2.14624279 80,6.43872837 C80,20.2311375 80,39.7424356 80,64.9726227 L49.2303194,78 L14,64.9726227 L14,6.43872837 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                <path d="M-3.55271368e-15,18.5 C19.6666667,11.1666667 39.3333333,11.1666667 59,18.5 C59,30.2815578 59,46.9482244 59,68.5 L31.4937703,79.6280631 L-3.55271368e-15,68.5 L-3.55271368e-15,18.5 Z M3,20.6079843 L3,66.3782563 L31.4219391,76.4209132 L56,66.4774853 C56,39.6371373 56,38.2218227 56,20.6079843 C38.3149598,14.4640052 20.6850402,14.4640052 3,20.6079843 Z" id="矩形复制" fill="url(#linearGradient-2)"></path>
+                <path d="M19.55,35.72 L22.21,35.72 L27.67,50 L25.17,50 L23.87,46.42 L17.89,46.42 L16.59,50 L14.09,50 L19.55,35.72 Z M18.59,44.5 L23.17,44.5 L20.93,38.24 L20.85,38.24 L18.59,44.5 Z M29.07,35.72 L34.99,35.72 C38.4433506,35.72 40.17,37.1799854 40.17,40.1 C40.17,43.0466814 38.4300174,44.52 34.95,44.52 L31.41,44.52 L31.41,50 L29.07,50 L29.07,35.72 Z M31.41,37.72 L31.41,42.52 L34.81,42.52 C35.8366718,42.52 36.5966642,42.3333352 37.09,41.96 C37.5700024,41.5733314 37.81,40.9533376 37.81,40.1 C37.81,39.2599958 37.5633358,38.6533352 37.07,38.28 C36.603331,37.9066648 35.8500052,37.72 34.81,37.72 L31.41,37.72 Z M42.17,35.72 L44.51,35.72 L44.51,50 L42.17,50 L42.17,35.72 Z" id="API" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

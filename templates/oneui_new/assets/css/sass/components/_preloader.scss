@@ -1,0 +1,16 @@
+.preloader {
+	background-color: #28292e;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 10000;
+
+	.inner {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		@include center-by-translating();
+	}
+}

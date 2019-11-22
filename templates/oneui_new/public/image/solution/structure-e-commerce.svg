@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="980px" height="480px" viewBox="0 0 980 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>电子商务解决方案</title>
+    <desc>Created with Sketch.</desc>
+    <g id="电子商务解决方案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-66" fill="#2296F6" x="0" y="30" width="860" height="51" rx="3"></rect>
+        <rect id="Rectangle-Copy-69" fill="#7787A1" x="0" y="92" width="860" height="51" rx="3"></rect>
+        <rect id="Rectangle-Copy-67" fill="#7787A1" x="0" y="399" width="860" height="51" rx="3"></rect>
+        <rect id="Rectangle-Copy-68" fill="#4C63C3" x="0" y="338" width="860" height="51" rx="3"></rect>
+        <rect id="Rectangle-Copy-70" fill="#4C63C3" x="0" y="276" width="860" height="51" rx="3"></rect>
+        <rect id="Rectangle-Copy-72" fill="#4C63C3" x="0" y="215" width="425" height="51" rx="3"></rect>
+        <rect id="Rectangle-Copy-74" fill="#4C63C3" x="435" y="215" width="425" height="51" rx="3"></rect>
+        <rect id="Rectangle-Copy-73" fill="#4C63C3" x="0" y="153" width="280" height="51" rx="3"></rect>
+        <rect id="Rectangle-Copy-75" fill="#4C63C3" x="290" y="153" width="280" height="51" rx="3"></rect>
+        <rect id="Rectangle-Copy-76" fill="#4C63C3" x="580" y="153" width="280" height="51" rx="3"></rect>
+        <rect id="Rectangle-Copy-71" fill="#3EBB9D" x="870" y="30" width="110" height="420" rx="3"></rect>
+        <text id="云分发" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="406" y="61">云分发</tspan>
+        </text>
+        <text id="Portal展示平台" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="382.281" y="123">Portal展示平台</tspan>
+        </text>
+        <text id="HTTPS优化服务" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="89.096" y="184">HTTPS优化服务</tspan>
+        </text>
+        <text id="动态加速服务" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="388" y="184">动态加速服务</tspan>
+        </text>
+        <text id="页面加速服务" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="678" y="184">页面加速服务</tspan>
+        </text>
+        <text id="全国资源池" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="613" y="246">全国资源池</tspan>
+        </text>
+        <text id="安全SDK服务" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="170.405" y="246">安全SDK服务</tspan>
+        </text>
+        <text id="乐高式CDN管理平台" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="366.212" y="430">乐高式CDN管理平台</tspan>
+        </text>
+        <text id="WAF+抗DDoS安全平台" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="357.43" y="368">WAF+抗DDoS安全平台</tspan>
+        </text>
+        <text id="DOLFIN智能流量调度系统" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#FFFFFF">
+            <tspan x="349.394" y="306">DOLFIN智能流量调度系统</tspan>
+        </text>
+        <text id="ATD" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="909.388" y="246">ATD</tspan>
+        </text>
+    </g>
+</svg>

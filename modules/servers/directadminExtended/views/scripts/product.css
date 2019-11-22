@@ -1,0 +1,27 @@
+    <style type="text/css">
+    td.configoption_group {background-color:silver;font-weight:bold;text-align:left;}
+    .fieldlabel.mg, .fieldarea.mg {width:25%;}
+    .fielddescription {font-size: 10px;color: gray;display: inline;}
+.mgContact {
+            float: right;
+            margin: 0;
+            background-color: #1c4b8c;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            -o-border-radius: 5px;
+            border-radius: 5px;
+            position: relative;
+            top: -5px;
+            width: 400px;
+            height: 35px;
+            padding: 3px;
+            text-align: center;
+            position: relative;
+            -webkit-border-radius: 5px;
+            -moz-border-radius: 5px;
+            border-radius: 5px;
+            background-color: #1c4b8c;
+    }
+img{    vertical-align: unset;}
+    
+    </style>

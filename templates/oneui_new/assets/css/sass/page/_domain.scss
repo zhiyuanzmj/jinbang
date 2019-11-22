@@ -1,0 +1,228 @@
+/*--------------------------------------------------------------
+	#domain page
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+#5.0	domains-price-section 
+--------------------------------------------------------------*/
+.domain-pg {
+	.page-title {
+		@include background-style("../images/pg-title/img-2.jpg", center center, cover, no-repeat, local);
+	}
+}
+
+.domains-price-section {
+
+	.domain-price-grids {
+		text-align: center;
+
+		.grid {
+			padding: 40px 50px;
+			border: 1px solid #e6e6e6;
+			border-radius: 5px;
+			position: relative;
+			overflow: hidden;
+
+			@include media-query(1199px) {
+				padding: 40px 15px;
+			}
+		}
+	}
+
+	.domain-price-grids .grid:hover {
+		background-color: $theme-primary-color;
+	}
+
+	.domain-type {
+		width: 72px;
+		height: 72px;
+		margin: 0 auto 12px;
+		border: 2px solid $theme-primary-color;
+		border-radius: 50%;
+
+		img {
+			border-radius: 50%;
+		}
+	}
+
+	.duration-price {
+		font-family: $heading-font;
+		font-size: 18px;
+		font-size: calc-rem-value(18);
+		font-weight: 600;
+		color: $theme-primary-color;
+		line-height: 1.3em;
+		margin: 0 0 0.78em;
+	}
+
+	.duration-price + p {
+		margin-bottom: 2em;
+	}
+
+	.badges {
+		background-color: #f63030;
+		width: 120px;
+		font-size: 13px;
+		font-size: calc-rem-value(13);
+		padding: 0 10px;
+		color: $white;
+		text-transform: uppercase;
+		position: absolute;
+		right: -30px;
+		top: 17px;
+		border-radius: 0;
+		z-index: 1;
+		-webkit-transform: rotate(48deg);
+		transform: rotate(48deg);
+	}
+
+
+	.domain-price-grids .grid:hover .duration-price,
+	.domain-price-grids .grid:hover .duration-price + p {
+		color: $white;
+	}
+
+	.domain-price-slider .owl-controls {
+		margin-top: 50px;
+
+		@include media-query(767px) {
+			margin-top: 30px;
+		}
+	}
+
+	.domain-price-slider .owl-dots .owl-dot.active span, 
+	.domain-price-slider .owl-dots .owl-dot:hover span {
+		background-color: $theme-primary-color;
+	}
+}
+
+
+/*--------------------------------------------------------------
+#5.1	domain-info-section
+--------------------------------------------------------------*/
+.domain-info-section {
+	padding-top: 0;
+	margin-top: -15px;
+	
+	.table,
+	.table th,
+	.table tr,
+	.table td {
+		border: 0;
+		text-align: center;
+	}
+
+	.table .col-1 {
+		text-align: left;
+	}
+
+	.table td {
+		padding: 12px 15px;
+
+		@include media-query(1199px) {
+			padding: 10px 15px;
+			font-size: 15px;
+			font-size: calc-rem-value(15);
+		}
+
+		@include media-query(991px) {
+			padding: 7px 10px;
+			font-size: 14px;
+			font-size: calc-rem-value(14);
+		}
+	}
+
+	.table thead {
+		background-color: $theme-primary-color;
+		text-align: center;
+
+		th {
+			font-family: $heading-font;
+			font-size: 18px;
+			font-size: calc-rem-value(18);
+			font-weight: 600;
+			color: $white;
+			text-align: center;
+			border-right: 1px solid $white;
+
+			@include media-query(1199px) {
+				font-size: 15px;
+				font-size: calc-rem-value(15);
+			}
+
+			@include media-query(991px) {
+				font-size: 14px;
+				font-size: calc-rem-value(14);
+			}
+		}
+	}
+
+	.table tbody > tr:nth-child(odd) {
+		background-color: lighten($black, 97%);
+	}
+
+	.table tbody td {
+		color: $heading-color;
+		font-weight: bold;
+	}
+
+	.table tbody > tr > td:first-child {
+		font-weight: $heading-font;
+		text-align: left;
+	}
+
+	.table .old-price {
+		color: #fa7254;
+		display: inline-block;
+		padding-left: 5px;
+	}
+
+	.table .badge {
+		background-color: #fb7253;
+		@include rounded-border(0);
+		padding: 3px 6px 2px;
+		position: relative;
+		left: 10px;
+
+		&:before {
+			content: "";
+			border: 4px solid transparent;
+			border-top: 4px slid #fb7253;
+			border-right: 4px solid #fb7253;
+			position: absolute;
+			left: -8px;
+			top: 50%;
+			@include translatingY();
+		}
+	}
+
+	.table .badge-new {
+		background-color: #51b453;
+
+		&:before {
+			border-top: 4px slid #51b453;
+			border-right: 4px solid #51b453;
+		}
+	}
+
+	.table .badge-premium {
+		background-color: #f0ad4e;
+
+		&:before {
+			border-top: 4px slid #f0ad4e;
+			border-right: 4px solid #f0ad4e;
+		}
+	}
+}
+
+
+/*--------------------------------------------------------------
+#5.2	cta-4
+--------------------------------------------------------------*/
+.cta-4 {
+	@extend .cta;
+	text-align: center;
+
+	h2 {
+		color: $heading-color;
+	}
+}

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580px" height="240px" viewBox="0 0 580 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>数聚蜂巢 场景2新老系统不封衔接</title>
+    <desc>Created with Sketch.</desc>
+    <g id="数聚蜂巢-场景2新老系统不封衔接" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="老系统-copy-2" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#05172E">
+            <tspan x="12" y="15">老系统</tspan>
+        </text>
+        <text id="新系统" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#05172E">
+            <tspan x="526" y="15">新系统</tspan>
+        </text>
+        <rect id="Rectangle-3-Copy-5" fill="#E1EDFF" x="0" y="25" width="66" height="215" rx="3"></rect>
+        <rect id="Rectangle-3-Copy-7" fill="#A1CAFF" x="106" y="0" width="368" height="240" rx="3"></rect>
+        <text id="数-聚-蜂-巢" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#001B47">
+            <tspan x="284" y="89">数</tspan>
+            <tspan x="284" y="114">聚</tspan>
+            <tspan x="284" y="139">蜂</tspan>
+            <tspan x="284" y="164">巢</tspan>
+        </text>
+        <text id="90+-应用类连接-器" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="404" y="21">90+ </tspan>
+            <tspan x="404" y="38">应用类连接</tspan>
+            <tspan x="404" y="55">器</tspan>
+        </text>
+        <text id="连接各类数-据库和协议" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="116" y="209">连接各类数</tspan>
+            <tspan x="116" y="226">据库和协议</tspan>
+        </text>
+        <text id="100+-数据库和协-议类连接器" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="116" y="23">100+ </tspan>
+            <tspan x="116" y="40">数据库和协</tspan>
+            <tspan x="116" y="57">议类连接器</tspan>
+        </text>
+        <path d="M75.8821734,125.250374 L67.0933753,132.5 L75.8821734,139.749626 L75.8821734,135.5 L96.1178266,135.5 L96.1178266,139.749626 L104.906625,132.5 L96.1178266,125.250374 L96.1178266,128.5 L75.8821734,128.5 L75.8821734,125.250374 Z" id="合并形状" stroke="#3261AF" fill="#A1CAFF" fill-rule="nonzero"></path>
+        <path d="M483.882173,125.250374 L475.093375,132.5 L483.882173,139.749626 L483.882173,135.5 L504.117827,135.5 L504.117827,139.749626 L512.906625,132.5 L504.117827,125.250374 L504.117827,128.5 L483.882173,128.5 L483.882173,125.250374 Z" id="合并形状-copy" stroke="#3261AF" fill="#A1CAFF" fill-rule="nonzero"></path>
+        <rect id="Rectangle-3-Copy-6" fill="#E1EDFF" x="514" y="25" width="66" height="215" rx="3"></rect>
+        <rect id="Rectangle-Copy-47" stroke="#88B6F2" fill="#FFFFFF" x="5.5" y="35.5" width="55" height="29" rx="3"></rect>
+        <rect id="Rectangle-Copy-51" stroke="#88B6F2" fill="#FFFFFF" x="519.5" y="35.5" width="55" height="29" rx="3"></rect>
+        <rect id="Rectangle-Copy-48" stroke="#88B6F2" fill="#FFFFFF" x="5.5" y="75.5" width="55" height="29" rx="3"></rect>
+        <rect id="Rectangle-Copy-52" stroke="#88B6F2" fill="#FFFFFF" x="519.5" y="75.5" width="55" height="29" rx="3"></rect>
+        <rect id="Rectangle-Copy-49" stroke="#88B6F2" fill="#FFFFFF" x="5.5" y="115.5" width="55" height="29" rx="3"></rect>
+        <rect id="Rectangle-Copy-53" stroke="#88B6F2" fill="#FFFFFF" x="519.5" y="115.5" width="55" height="29" rx="3"></rect>
+        <rect id="Rectangle-Copy-50" stroke="#88B6F2" fill="#FFFFFF" x="5.5" y="155.5" width="55" height="29" rx="3"></rect>
+        <rect id="Rectangle-Copy-54" stroke="#88B6F2" fill="#FFFFFF" x="519.5" y="155.5" width="55" height="29" rx="3"></rect>
+        <text id="HR" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="24.624" y="54">HR</tspan>
+        </text>
+        <text id="AI" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="542.136" y="54">AI</tspan>
+        </text>
+        <text id="EPR" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="21.27" y="94">EPR</tspan>
+        </text>
+        <text id="大数据" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="529" y="94">大数据</tspan>
+        </text>
+        <text id="OA" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="24.956" y="134">OA</tspan>
+        </text>
+        <text id="IOT" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="537.762" y="134">IOT</tspan>
+        </text>
+        <text id="CRM-Copy" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="19.784" y="174">CRM</tspan>
+        </text>
+        <text id="云计算" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="530" y="174">云计算</tspan>
+        </text>
+        <text id="…-copy-2" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="28" y="217">…</tspan>
+        </text>
+        <text id="…-copy-3" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="542" y="217">…</tspan>
+        </text>
+        <text id="组件编排实-现业务逻辑" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="404" y="209">组件编排实</tspan>
+            <tspan x="404" y="226">现业务逻辑</tspan>
+        </text>
+        <rect id="Rectangle-3-Copy-8" stroke="#3261AF" x="186.5" y="10.5" width="65" height="219" rx="3"></rect>
+        <rect id="Rectangle-3-Copy-9" stroke="#3261AF" x="328.5" y="10.5" width="65" height="219" rx="3"></rect>
+        <rect id="Rectangle-Copy-55" fill="#3261AF" x="191" y="15" width="56" height="30" rx="3"></rect>
+        <rect id="Rectangle-Copy-61" fill="#3261AF" x="333" y="15" width="56" height="30" rx="3"></rect>
+        <rect id="Rectangle-Copy-56" fill="#3261AF" x="191" y="51" width="56" height="30" rx="3"></rect>
+        <rect id="Rectangle-Copy-62" fill="#3261AF" x="333" y="51" width="56" height="30" rx="3"></rect>
+        <rect id="Rectangle-Copy-57" fill="#3261AF" x="191" y="87" width="56" height="30" rx="3"></rect>
+        <rect id="Rectangle-Copy-63" fill="#3261AF" x="333" y="87" width="56" height="30" rx="3"></rect>
+        <rect id="Rectangle-Copy-58" fill="#3261AF" x="191" y="123" width="56" height="30" rx="3"></rect>
+        <rect id="Rectangle-Copy-64" fill="#3261AF" x="333" y="123" width="56" height="30" rx="3"></rect>
+        <g id="分组-4" transform="translate(351.000000, 128.000000)" fill-rule="nonzero">
+            <circle id="椭圆形" stroke="#FFFFFF" cx="10.625" cy="11.25" r="8.75"></circle>
+            <circle id="椭圆形-copy-2" fill="#90B6ED" cx="2.1875" cy="15.3125" r="2.1875"></circle>
+            <circle id="椭圆形-copy-4" fill="#90B6ED" cx="18.4375" cy="15.3125" r="2.1875"></circle>
+            <circle id="椭圆形-copy-3" fill="#90B6ED" cx="10.9375" cy="2.4625" r="2.1875"></circle>
+        </g>
+        <rect id="Rectangle-Copy-59" fill="#3261AF" x="191" y="159" width="56" height="30" rx="3"></rect>
+        <rect id="Rectangle-Copy-65" fill="#3261AF" x="333" y="159" width="56" height="30" rx="3"></rect>
+        <g id="Group-Copy" transform="translate(351.000000, 164.000000)">
+            <polygon id="Triangle" stroke="#FFFFFF" points="10.4 1.6 18.4 17.6 2.4 17.6"></polygon>
+            <circle id="Oval" fill="#90B6ED" cx="10.4" cy="2.4" r="2.4"></circle>
+            <circle id="Oval-Copy" fill="#90B6ED" cx="2.4" cy="17.6" r="2.4"></circle>
+            <circle id="Oval-Copy-2" fill="#90B6ED" cx="18.4" cy="17.6" r="2.4"></circle>
+        </g>
+        <rect id="Rectangle-Copy-60" fill="#3261AF" x="191" y="195" width="56" height="30" rx="3"></rect>
+        <g id="分组-3" transform="translate(208.000000, 200.000000)" fill-rule="nonzero">
+            <rect id="矩形" fill="#A1CAFF" x="0" y="3.63636364" width="21.8181818" height="16.3636364"></rect>
+            <polygon id="矩形-copy" fill="#FFFFFF" points="0 0 7.79220779 0 10.9090909 3.63636364 0 3.63636364"></polygon>
+        </g>
+        <g id="Group-2" transform="translate(209.000000, 20.000000)">
+            <path d="M19.3103448,2.86262069 C19.3103448,4.30675862 14.9875862,5.4777931 9.65517241,5.4777931 C4.32275862,5.4777931 0,4.30675862 0,2.86262069 C0,1.41848276 4.32275862,0.247448276 9.65517241,0.247448276 C14.9875862,0.247448276 19.3103448,1.41848276 19.3103448,2.86262069" id="Fill-86" fill="#FFFFFF"></path>
+            <path d="M19.3103448,9.90282759 C19.3103448,11.3469655 14.9875862,12.518 9.65517241,12.518 C4.32275862,12.518 0,11.3469655 0,9.90282759 C0,8.45868966 4.32275862,7.28765517 9.65517241,7.28765517 C14.9875862,7.28765517 19.3103448,8.45868966 19.3103448,9.90282759" id="Fill-87" fill="#90B6ED"></path>
+            <path d="M19.3103448,16.9431034 C19.3103448,18.3872414 14.9875862,19.5582759 9.65517241,19.5582759 C4.32275862,19.5582759 3.55271368e-14,18.3872414 3.55271368e-14,16.9431034 C3.55271368e-14,15.4989655 4.32275862,14.327931 9.65517241,14.327931 C14.9875862,14.327931 19.3103448,15.4989655 19.3103448,16.9431034" id="Fill-88" fill="#90B6ED"></path>
+        </g>
+        <g id="分组" transform="translate(209.000000, 56.000000)">
+            <path d="M2.85714286,17.2387501 C4.18704089,18.564427 5.91204364,19.5400268 7.85714286,20 C7.36610569,18.8910375 6.96510799,17.6916705 6.65565727,16.4285714 C5.33124109,16.611304 4.060273,16.8830306 2.85714286,17.2387501" id="Fill-1" fill="#90B6ED"></path>
+            <path d="M6.42857143,5.32620662 C4.79180916,5.10168793 3.23529687,4.75190713 1.7879864,4.28571429 C0.775234472,5.73167458 0.135061698,7.43959605 0,9.28571429 L6.04952731,9.28571429 C6.08761443,7.92416975 6.20581098,6.59530228 6.42857143,5.32620662" id="Fill-3" fill="#FFFFFF"></path>
+            <path d="M17.1428571,17.2387501 C15.939727,16.8830306 14.6687589,16.611304 13.3443427,16.4285714 C13.034892,17.6916705 12.6338943,18.8910375 12.1428571,20 C14.0880934,19.5400268 15.8129591,18.564427 17.1428571,17.2387501" id="Fill-5" fill="#90B6ED"></path>
+            <path d="M13.9504727,9.28571429 L20,9.28571429 C19.8649383,7.4397322 19.224625,5.73167458 18.2118731,4.28571429 C16.7654058,4.75190713 15.2081908,5.10182408 13.5714286,5.32620662 C13.7943296,6.59530228 13.9123856,7.92416975 13.9504727,9.28571429" id="Fill-7" fill="#FFFFFF"></path>
+            <path d="M20,10.7142857 L13.9504727,10.7142857 C13.9123856,12.0759044 13.7943296,13.4048443 13.5714286,14.6737367 C15.2081908,14.8993569 16.7654058,15.2480675 18.2118731,15.7142857 C19.224625,14.2686551 19.8649383,12.5602322 20,10.7142857" id="Fill-9" fill="#FFFFFF"></path>
+            <path d="M12.8571429,10.7142857 L7.14285714,10.7142857 C7.18089951,11.9339173 7.2966397,13.13384 7.51467756,14.2857143 C8.32781629,14.2173129 9.15560738,14.1776375 10.0000672,14.1776375 C10.844527,14.1776375 11.6723181,14.2173129 12.4853224,14.2857143 C12.7034947,13.13384 12.8191005,11.9339173 12.8571429,10.7142857" id="Fill-11" fill="#FFFFFF"></path>
+            <path d="M7.85714286,15.812852 C8.21908924,17.3015334 8.7076641,18.7046143 9.31139173,19.9653364 C9.5399825,19.9816098 9.76738613,20 9.99993405,20 C10.232482,20 10.4597537,19.9816098 10.6883445,19.9653364 C11.2923359,18.7046143 11.7806469,17.3015334 12.1428571,15.812852 C11.4378267,15.7510661 10.7227716,15.7142857 9.99993405,15.7142857 C9.27709651,15.7142857 8.56204136,15.7510661 7.85714286,15.812852" id="Fill-13" fill="#90B6ED"></path>
+            <path d="M7.14285714,9.28571429 L12.8571429,9.28571429 C12.8191005,8.06590989 12.7034947,6.86607272 12.4853224,5.71428571 C11.6721837,5.78256075 10.844527,5.82236639 10.0000672,5.82236639 C9.15560738,5.82236639 8.32768187,5.78256075 7.51467756,5.71428571 C7.29650528,6.86607272 7.18089951,8.06578107 7.14285714,9.28571429" id="Fill-15" fill="#FFFFFF"></path>
+            <path d="M17.1428571,2.76115078 C15.8129591,1.43564966 14.0880934,0.45995671 12.1428571,0 C12.6338943,1.1090509 13.034892,2.30824665 13.3443427,3.57142857 C14.6687589,3.38908722 15.939727,3.11685747 17.1428571,2.76115078" id="Fill-17" fill="#90B6ED"></path>
+            <path d="M7.85714286,0 C5.91204364,0.459828481 4.18704089,1.43552143 2.85714286,2.76115078 C4.06041004,3.11685747 5.33110405,3.38908722 6.65552023,3.57142857 C6.96497095,2.30811842 7.36610569,1.10892267 7.85714286,0" id="Fill-19" fill="#90B6ED"></path>
+            <path d="M12.1428571,4.18701876 C11.7806469,2.6989125 11.2923359,1.295478 10.6883445,0.0346625036 C10.4597537,0.0194480459 10.232482,0 9.99993405,0 C9.76738613,0 9.5399825,0.0194480459 9.31139173,0.0346625036 C8.7076641,1.2953457 8.21908924,2.6989125 7.85714286,4.18701876 C8.56204136,4.24880269 9.27696461,4.28571429 9.99993405,4.28571429 C10.7226397,4.28571429 11.4376948,4.24880269 12.1428571,4.18701876" id="Fill-21" fill="#90B6ED"></path>
+            <path d="M6.42857143,14.6736005 C6.20581098,13.4048443 6.08761443,12.0757682 6.04952731,10.7142857 L0,10.7142857 C0.135061698,12.560096 0.775234472,14.2683828 1.7879864,15.7142857 C3.23529687,15.2480675 4.79180916,14.8992208 6.42857143,14.6736005" id="Fill-23" fill="#FFFFFF"></path>
+        </g>
+        <g id="Group-18-Copy" transform="translate(209.000000, 92.000000)">
+            <polygon id="Fill-83" fill="#90B6ED" points="6.64758621 3.56137931 13.8648276 3.56137931 13.8648276 0.512413793 6.64758621 0.512413793"></polygon>
+            <polygon id="Fill-84" fill="#FFFFFF" points="6.64758621 11.4910345 13.8648276 11.4910345 13.8648276 8.84482759 6.64758621 8.84482759"></polygon>
+            <polygon id="Fill-85" fill="#90B6ED" points="6.64758621 19.8227586 13.8648276 19.8227586 13.8648276 17.1765517 6.64758621 17.1765517"></polygon>
+            <path d="M14.2111034,1.836 L15.7455862,1.836 C18.0462759,1.836 19.9117931,3.70082759 19.9117931,6.0022069 C19.9117931,8.30289655 18.0462759,10.1677241 15.7455862,10.1677241 L14.9993793,10.1677241" id="Stroke-86" stroke="#FFFFFF" stroke-linecap="round"></path>
+            <polygon id="Fill-87" fill="#FFFFFF" points="16.3730345 8.99868966 15.2033793 10.1676552 16.3730345 11.3373103 15.3806207 11.3373103 14.2109655 10.1676552 15.3806207 8.99868966"></polygon>
+            <path d="M6.302,10.1678621 L4.76751724,10.1678621 C2.46682759,10.1678621 0.601310345,12.0326897 0.601310345,14.334069 C0.601310345,16.6347586 2.46682759,18.4995862 4.76751724,18.4995862 L5.51372414,18.4995862" id="Stroke-88" stroke="#FFFFFF" stroke-linecap="round"></path>
+            <polygon id="Fill-89" fill="#FFFFFF" points="4.14006897 19.6689655 5.30972414 18.5 4.14006897 17.3303448 5.13248276 17.3303448 6.30213793 18.5 5.13248276 19.6689655"></polygon>
+        </g>
+        <g id="分组-2" transform="translate(207.000000, 128.000000)" fill-rule="nonzero">
+            <polyline id="路径-2" stroke="#FFFFFF" points="2.85714286 16.1915238 2.85714286 10 21.4665489 10 21.4665489 2.85714286"></polyline>
+            <circle id="椭圆形" fill="#90B6ED" cx="12.1428571" cy="10" r="2.85714286"></circle>
+            <circle id="椭圆形" fill="#90B6ED" cx="2.85714286" cy="17.1428571" r="2.85714286"></circle>
+            <circle id="椭圆形" fill="#90B6ED" cx="21.4285714" cy="2.85714286" r="2.85714286"></circle>
+        </g>
+        <g id="Group" transform="translate(209.000000, 164.000000)">
+            <polygon id="Triangle" stroke="#FFFFFF" points="10.4 1.6 18.4 17.6 2.4 17.6"></polygon>
+            <circle id="Oval" fill="#90B6ED" cx="10.4" cy="2.4" r="2.4"></circle>
+            <circle id="Oval-Copy" fill="#90B6ED" cx="2.4" cy="17.6" r="2.4"></circle>
+            <circle id="Oval-Copy-2" fill="#90B6ED" cx="18.4" cy="17.6" r="2.4"></circle>
+        </g>
+        <g id="Group-31-Copy" transform="translate(353.000000, 20.000000)">
+            <path d="M15.9428966,5.51675862 L15.9428966,19.0222759 C15.9428966,19.2471034 15.7615172,19.4243448 15.5408276,19.4243448 L0.478758621,19.4243448 C0.25737931,19.4243448 0.076,19.2471034 0.076,19.0222759 L0.076,0.516068966 C0.076,0.294689655 0.25737931,0.114 0.478758621,0.114 L10.5442759,0.114 L15.9428966,5.51675862 Z" id="Fill-46" fill="#90B6ED"></path>
+            <path d="M15.9428966,5.51675862 L10.9463448,5.51675862 C10.7242759,5.51675862 10.5442759,5.33675862 10.5442759,5.11468966 L10.5442759,0.114 L15.9428966,5.51675862 Z" id="Fill-47" fill="#F1F6FF"></path>
+            <path d="M3.40744828,4.56089655 L6.97917241,4.56089655" id="Stroke-48" stroke="#F1F6FF" stroke-linecap="round"></path>
+            <path d="M3.40744828,6.6442069 L6.97917241,6.6442069" id="Stroke-49" stroke="#F1F6FF" stroke-linecap="round"></path>
+            <path d="M3.40744828,8.72744828 L12.6115862,8.72744828" id="Stroke-50" stroke="#F1F6FF" stroke-linecap="round"></path>
+            <path d="M3.40744828,10.8106897 L12.6115862,10.8106897" id="Stroke-51" stroke="#F1F6FF" stroke-linecap="round"></path>
+            <path d="M3.40744828,12.893931 L12.6115862,12.893931" id="Stroke-52" stroke="#F1F6FF" stroke-linecap="round"></path>
+            <path d="M3.40744828,14.9771724 L12.6115862,14.9771724" id="Stroke-53" stroke="#F1F6FF" stroke-linecap="round"></path>
+        </g>
+        <g id="Group" transform="translate(347.000000, 57.000000)">
+            <circle id="Oval-2" fill="#90B6ED" cx="6.96" cy="11.6" r="6.96"></circle>
+            <circle id="Oval-2-Copy" fill="#F1F6FF" cx="15.08" cy="9.28" r="9.28"></circle>
+            <circle id="Oval-2-Copy-2" fill="#90B6ED" cx="23.2" cy="12.76" r="5.8"></circle>
+        </g>
+        <g id="Group-2" transform="translate(351.000000, 92.000000)">
+            <path d="M19.3103448,2.86262069 C19.3103448,4.30675862 14.9875862,5.4777931 9.65517241,5.4777931 C4.32275862,5.4777931 0,4.30675862 0,2.86262069 C0,1.41848276 4.32275862,0.247448276 9.65517241,0.247448276 C14.9875862,0.247448276 19.3103448,1.41848276 19.3103448,2.86262069" id="Fill-86" fill="#FFFFFF"></path>
+            <path d="M19.3103448,9.90282759 C19.3103448,11.3469655 14.9875862,12.518 9.65517241,12.518 C4.32275862,12.518 0,11.3469655 0,9.90282759 C0,8.45868966 4.32275862,7.28765517 9.65517241,7.28765517 C14.9875862,7.28765517 19.3103448,8.45868966 19.3103448,9.90282759" id="Fill-87" fill="#90B6ED"></path>
+            <path d="M19.3103448,16.9431034 C19.3103448,18.3872414 14.9875862,19.5582759 9.65517241,19.5582759 C4.32275862,19.5582759 0,18.3872414 0,16.9431034 C0,15.4989655 4.32275862,14.327931 9.65517241,14.327931 C14.9875862,14.327931 19.3103448,15.4989655 19.3103448,16.9431034" id="Fill-88" fill="#90B6ED"></path>
+        </g>
+    </g>
+</svg>

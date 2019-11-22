@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>画板复制 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="55.6434972%" y2="97.2654113%" id="linearGradient-1">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="57.0158453%" y1="93.5555556%" x2="50%" y2="6.44444444%" id="linearGradient-2">
+            <stop stop-color="#40BCF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1E87F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="55.814072%" y2="97.2654113%" id="linearGradient-3">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-952.000000, -172.000000)" fill-rule="nonzero">
+            <g id="编组" transform="translate(952.000000, 173.000000)">
+                <path d="M0,0 L25,0 L25,29 L0,29 L0,0 Z M3,3 L3,26 L22,26 L22,3 L3,3 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                <path d="M72,39 L77,39 L65,49 L53,39 L57,39 C57,27.954305 48.045695,19 37,19 C25.954305,19 17,27.954305 17,39 C17,50.045695 25.954305,59 37,59 C42.8674565,59 48.2926322,56.4790024 52.0799584,52.1383048 L63.3825136,61.9999601 C56.9663533,69.3535944 47.5257897,74 37,74 C17.6700338,74 2,58.3299662 2,39 C2,19.6700338 17.6700338,4 37,4 C56.3299662,4 72,19.6700338 72,39 Z" id="路径" fill="url(#linearGradient-2)"></path>
+                <polygon id="路径" fill="url(#linearGradient-3)" points="76 50 76 76 54 76 54 69.9732737 51 69.9732737 51 79 79 79 79 47 51 47 51 53.4808705 54 53.4808705 54 50"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

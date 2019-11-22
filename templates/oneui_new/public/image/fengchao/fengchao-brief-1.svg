@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="450px" height="240px" viewBox="0 0 450 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>数据蜂巢 场景1 copy@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="数据蜂巢-场景1-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M440,213 L450,213 L440,220 L440,215 L6,215 L6,213 L440,213 Z" id="合并形状" fill="#3261AF" fill-rule="nonzero"></path>
+        <path d="M101,104 L111,104 L101,111 L101,106 L-104,106 L-104,104 L101,104 Z" id="合并形状-copy" fill="#3261AF" fill-rule="nonzero" transform="translate(3.500000, 107.500000) scale(-1, 1) rotate(-90.000000) translate(-3.500000, -107.500000) "></path>
+        <text id="今天" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="138" y="235">今天</tspan>
+        </text>
+        <text id="明天" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="317" y="235">明天</tspan>
+        </text>
+        <text id="与日俱增的IT要求" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="17.008" y="15">与日俱增的IT要求</tspan>
+        </text>
+        <text id="可持续的IT交付能力" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FF6666">
+            <tspan x="343.268" y="190">可持续的IT交付能力</tspan>
+        </text>
+        <text id="云计算和SaaS" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#2799F6">
+            <tspan x="365.324" y="83">云计算和SaaS</tspan>
+        </text>
+        <text id="大数据与AI" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#4C63C3">
+            <tspan x="288.384" y="13">大数据与AI</tspan>
+        </text>
+        <text id="物联网" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#9166D0">
+            <tspan x="336" y="41">物联网</tspan>
+        </text>
+        <path id="路径-32" d="M384.606164,169.243072 L375.578301,165.058174 L376.41943,163.243649 L388.910775,169.034056 L390.523686,169.781727 L389.047162,170.771864 L377.61208,178.440071 L376.498176,176.778981 L384.762648,171.236941 L365.875211,172.71927 C200.734736,185.679866 200.734736,185.679866 95.6453423,193.927518 C54.3602234,197.167667 54.3602234,197.167667 28.087875,199.22958 C17.7665953,200.039618 17.7665953,200.039618 11.1985082,200.555096 C6.50701743,200.923295 6.50701743,200.923295 5.56871928,200.996934 L5.41223596,199.003066 C6.35053412,198.929426 6.35053412,198.929426 11.0420249,198.561227 C17.610112,198.045749 17.610112,198.045749 27.9313917,197.235712 C54.2037401,195.173798 54.2037401,195.173798 95.488859,191.933649 C200.578253,183.685997 200.578253,183.685997 365.718728,170.725401 L384.606164,169.243072 Z" fill="#FF6666" fill-rule="nonzero"></path>
+        <path id="路径-33" d="M375.916063,123.000785 L366.157887,121.053042 L366.549367,119.09173 L380.051203,121.786713 L381.794591,122.134695 L380.591885,123.443891 L371.277416,133.58308 L369.804571,132.230036 L376.536423,124.902133 L368.810213,127.42292 C288.902537,152.845976 168.08006,177.365561 6.32573761,200.989503 L6.0367073,199.010497 C167.692583,175.400933 288.420645,150.900509 368.196856,125.519307 L375.916063,123.000785 Z" fill="#FF8D66" fill-rule="nonzero"></path>
+        <path id="路径-34" d="M349.573123,79.8032338 L339.637152,80.3437676 L339.528509,78.3467206 L353.27635,77.5988146 L355.051503,77.5022432 L354.212218,79.0694362 L347.712291,91.2067115 L345.949199,90.2625154 L350.646918,81.4904913 L343.775663,85.8630901 C273.864399,128.877963 161.387125,167.240056 6.31876745,200.977142 L5.89358838,199.022858 C160.76077,165.329541 273.047131,127.032561 342.714749,84.1677343 L349.573123,79.8032338 Z" fill="#2799F6" fill-rule="nonzero"></path>
+        <path id="路径-35" d="M321.137832,38.2693967 L311.399835,40.3156426 L310.988557,38.3583868 L324.462472,35.5271121 L326.202255,35.1615314 L325.611232,36.8381904 L321.033997,49.8232367 L319.147756,49.1583357 L322.455872,39.7736206 L316.347043,45.1260732 C245.587405,105.629356 142.385438,157.56502 6.73973707,200.952463 L6.13042996,199.047537 C141.542791,155.734729 244.515546,103.914415 315.038155,43.6139013 L321.137832,38.2693967 Z" fill="#9166D0" fill-rule="nonzero"></path>
+        <path id="路径-36" d="M273.231337,9.5237075 L263.709369,12.4129702 L263.128652,10.4991345 L276.303659,6.50142513 L278.004846,5.9852317 L277.562579,7.70711831 L274.137398,21.0424336 L272.200276,20.544883 L274.675759,10.9070434 L269.031552,16.8003955 C196.848064,91.1275266 109.451384,152.495694 6.84735351,200.904396 L5.99396367,199.095604 C108.385653,150.787085 195.584652,89.5577252 267.591966,15.4120347 L273.231337,9.5237075 Z" fill="#4C63C3" fill-rule="nonzero"></path>
+        <polygon id="矩形" fill="#FF6666" fill-rule="nonzero" transform="translate(278.313708, 27.313708) rotate(-45.000000) translate(-278.313708, -27.313708) " points="270.313708 19.3137085 286.313708 19.3137085 286.313708 35.3137085"></polygon>
+        <polygon id="矩形-copy-6" fill="#4C63C3" fill-rule="nonzero" transform="translate(96.313708, 163.313708) rotate(-45.000000) translate(-96.313708, -163.313708) " points="88.3137085 155.313708 104.313708 155.313708 104.313708 171.313708"></polygon>
+        <polygon id="矩形" fill="#FF6666" fill-rule="nonzero" points="273 25 283 25 283 161 273 161"></polygon>
+        <polygon id="矩形-copy-7" fill="#4C63C3" fill-rule="nonzero" points="91 163 101 163 101 177 91 177"></polygon>
+        <polygon id="矩形-copy-5" fill="#FF6666" fill-rule="nonzero" transform="translate(278.313708, 159.313708) scale(1, -1) rotate(-45.000000) translate(-278.313708, -159.313708) " points="270.313708 151.313708 286.313708 151.313708 286.313708 167.313708"></polygon>
+        <polygon id="矩形-copy-8" fill="#4C63C3" fill-rule="nonzero" transform="translate(96.313708, 175.313708) scale(1, -1) rotate(-45.000000) translate(-96.313708, -175.313708) " points="88.3137085 167.313708 104.313708 167.313708 104.313708 183.313708"></polygon>
+        <path d="M96.5,188.507985 L96.5,211.194119" id="路径-37" stroke="#4C63C3" stroke-width="2" stroke-dasharray="4" fill-rule="nonzero"></path>
+        <path d="M278.5,174 C278.5,174 278.5,186.475451 278.5,211.426352" id="路径-37-copy" stroke="#FF6666" stroke-width="2" stroke-dasharray="4" fill-rule="nonzero"></path>
+        <text id="移动应用" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FF8D66">
+            <tspan x="383" y="127">移动应用</tspan>
+        </text>
+    </g>
+</svg>

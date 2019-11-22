@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>画板复制 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="47.8462086%" x2="57.5938899%" y2="52.0359967%" id="linearGradient-1">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="51.4418342%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#40BCF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1E87F0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-996.000000, -947.000000)" fill-rule="nonzero">
+            <g id="编组" transform="translate(996.000000, 950.000000)">
+                <path d="M3,5 L56,5 L56,16 L3,16 L3,5 Z M6,8 L6,13 L53,13 L53,8 L6,8 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                <path d="M27,20 L80,20 L80,31 L27,31 L27,20 Z M30,23 L30,28 L77,28 L77,23 L30,23 Z" id="矩形复制" fill="url(#linearGradient-1)"></path>
+                <path d="M9,35 L62,35 L62,46 L9,46 L9,35 Z M12,38 L12,43 L59,43 L59,38 L12,38 Z" id="矩形复制-2" fill="url(#linearGradient-1)"></path>
+                <path d="M0,50 L53,50 L53,61 L0,61 L0,50 Z M3,53 L3,58 L50,58 L50,53 L3,53 Z" id="矩形复制-3" fill="url(#linearGradient-1)"></path>
+                <rect id="形状结合" fill="url(#linearGradient-2)" x="17" y="0" width="34" height="75"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

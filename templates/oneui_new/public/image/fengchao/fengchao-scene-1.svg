@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580px" height="240px" viewBox="0 0 580 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>数聚蜂巢 场景1老系统优化</title>
+    <desc>Created with Sketch.</desc>
+    <g id="数聚蜂巢-场景1老系统优化" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-3" fill="#E1EDFF" x="0" y="0" width="64" height="240" rx="3"></rect>
+        <path d="M69.5,141.207107 L64.7071068,146 L69.5,150.792893 L69.5,148.328427 L78.2781746,148.328427 L78.2781746,150.792893 L83.0710678,146 L78.2781746,141.207107 L78.2781746,143.671573 L69.5,143.671573 L69.5,141.207107 Z" id="合并形状-copy" stroke="#3261AF" fill="#A1CAFF" fill-rule="nonzero"></path>
+        <path d="M343.5,141.207107 L338.707107,146 L343.5,150.792893 L343.5,148.328427 L352.278175,148.328427 L352.278175,150.792893 L357.071068,146 L352.278175,141.207107 L352.278175,143.671573 L343.5,143.671573 L343.5,141.207107 Z" id="合并形状-copy-8" stroke="#3261AF" fill="#A1CAFF" fill-rule="nonzero"></path>
+        <path d="M69.5,63.2071068 L64.7071068,68 L69.5,72.7928932 L69.5,70.3284271 L78.2781746,70.3284271 L78.2781746,72.7928932 L83.0710678,68 L78.2781746,63.2071068 L78.2781746,65.6715729 L69.5,65.6715729 L69.5,63.2071068 Z" id="合并形状-copy-7" stroke="#3261AF" fill="#A1CAFF" fill-rule="nonzero"></path>
+        <path d="M343.5,63.2071068 L338.707107,68 L343.5,72.7928932 L343.5,70.3284271 L352.278175,70.3284271 L352.278175,72.7928932 L357.071068,68 L352.278175,63.2071068 L352.278175,65.6715729 L343.5,65.6715729 L343.5,63.2071068 Z" id="合并形状-copy-9" stroke="#3261AF" fill="#A1CAFF" fill-rule="nonzero"></path>
+        <rect id="Rectangle-3-Copy" fill="#E1EDFF" x="358" y="0" width="64" height="240" rx="3"></rect>
+        <rect id="Rectangle-3-Copy-3" fill="#E1EDFF" x="432" y="0" width="148" height="240" rx="3"></rect>
+        <g id="分组-22" transform="translate(174.000000, 15.000000)">
+            <rect id="矩形-copy-16" fill="#A1CAFF" fill-rule="nonzero" x="0" y="0" width="30" height="30" rx="3"></rect>
+            <g id="分组-12" transform="translate(10.000000, 8.000000)">
+                <rect id="Rectangle-Copy-13" fill="#3261AF" x="0" y="0" width="10.3703704" height="14"></rect>
+                <rect id="Rectangle-Copy-14" fill="#FFFFFF" x="1.03703704" y="1.03703704" width="8.2962963" height="8.81481481"></rect>
+                <circle id="Oval-Copy" fill="#FFFFFF" cx="5.18518519" cy="11.9259259" r="1.03703704"></circle>
+            </g>
+        </g>
+        <g id="分组-23" transform="translate(129.000000, 15.000000)" fill-rule="nonzero">
+            <rect id="矩形-copy-15" fill="#A1CAFF" x="0" y="0" width="30" height="30" rx="3"></rect>
+            <g id="分组-11" transform="translate(5.000000, 8.000000)">
+                <path d="M2.17062413,10.6844236 L0.7,11.1881135 L1.15666127,9.62255307 C0.4234718,8.65800711 0,7.51946557 0,6.3 C0,2.82060608 3.44740743,0 7.7,0 C11.9525926,0 15.4,2.82060608 15.4,6.3 C15.4,9.77939392 11.9525926,12.6 7.7,12.6 C5.53030533,12.6 3.57020785,11.86577 2.17062413,10.6844236 Z" id="合并形状-copy-3" fill="#3261AF"></path>
+                <path d="M16.8891525,11.5651914 L17.5052632,12.5 L16.1749878,12.2983531 C14.9612755,13.3464801 13.2457364,14 11.3440774,14 C10.1273901,14 8.98689055,13.7324829 8.00526316,13.2652586 C12.3337549,13.1128269 15.7848679,10.2390137 15.7848679,6.71617359 C15.7848679,5.7473235 15.5238403,4.82756306 15.0553221,4 C16.8345579,4.98077166 18.0052632,6.64682913 18.0052632,8.53713019 C18.0052632,9.65718293 17.5942435,10.6985066 16.8891525,11.5651914 Z" id="合并形状-copy-4" fill="#FFFFFF"></path>
+            </g>
+        </g>
+        <g id="分组-14" transform="translate(308.000000, 15.000000)" fill-rule="nonzero">
+            <rect id="矩形-copy-27" fill="#A1CAFF" x="0" y="0" width="30" height="30" rx="3"></rect>
+            <path d="M9.43451906,19.8643992 L7,20.6666667 L7.80844169,18 L7.86828728,18.0575806 C7.31203567,17.1337699 7,16.0963172 7,15 C7,11.1340068 10.8801988,8 15.6666667,8 C20.4531345,8 24.3333333,11.1340068 24.3333333,15 C24.3333333,18.8659932 20.4531345,22 15.6666667,22 C13.2201348,22 11.0103741,21.1812122 9.43451906,19.8643992 Z" id="合并形状-copy-6" fill="#3261AF"></path>
+        </g>
+        <g id="分组-24" transform="translate(84.000000, 15.000000)" fill-rule="nonzero">
+            <rect id="矩形-copy-12" fill="#A1CAFF" x="0" y="0" width="30" height="30" rx="3"></rect>
+            <g id="分组-10" transform="translate(5.000000, 8.000000)">
+                <path d="M17.5449481,8.16587855 C18.8862281,8.44208795 19.8947368,9.62958484 19.8947368,11.0526316 C19.8947368,12.6804182 18.5751551,14 16.9473684,14 L2.94736842,14 C1.31958179,14 1.99346369e-16,12.6804182 0,11.0526316 C-1.85758455e-16,9.53579868 1.14582116,8.28658666 2.61912336,8.12333561 C2.35571026,7.43580736 2.21052632,6.68335718 2.21052632,5.89473684 C2.21052632,2.63916358 4.68474217,0 7.73684211,0 C9.97149333,0 11.8963579,1.41477804 12.767137,3.45041539 C13.2418399,3.12983351 13.7876962,2.94736842 14.3684211,2.94736842 C16.199681,2.94736842 17.6842105,4.76179338 17.6842105,7 C17.6842105,7.40527237 17.6355382,7.79665047 17.5449481,8.16587855 Z" id="合并形状-copy-2" fill="#3261AF"></path>
+                <rect id="矩形-copy-13" fill="#FFFFFF" x="9.57894737" y="2.94736842" width="1" height="8.10526316"></rect>
+                <path d="M11.3156566,8.60171071 L9.33855282,10.5788145 L11.3156566,10.5788145 L11.3156566,8.60171071 Z" id="矩形-copy-14" stroke="#FFFFFF" transform="translate(9.973551, 9.236709) rotate(-315.000000) translate(-9.973551, -9.236709) "></path>
+            </g>
+        </g>
+        <g id="分组-20" transform="translate(263.000000, 15.000000)" fill-rule="nonzero">
+            <rect id="矩形-copy-28" fill="#A1CAFF" x="0" y="0" width="30" height="30" rx="3"></rect>
+            <g id="分组-14-copy" transform="translate(5.000000, 8.000000)">
+                <rect id="矩形-copy-22" fill="#3261AF" x="0.376605883" y="3.68421053" width="19.1578947" height="10.3157895"></rect>
+                <polygon id="矩形-copy-23" fill="#FFFFFF" transform="translate(3.152855, 10.881512) rotate(-315.000000) translate(-3.152855, -10.881512) " points="2.78443416 9.40782828 3.52127627 9.40782828 3.52127627 12.3551967 2.78443416 12.3551967"></polygon>
+                <polygon id="矩形-copy-24" fill="#FFFFFF" transform="translate(5.363382, 10.881512) rotate(-315.000000) translate(-5.363382, -10.881512) " points="4.99496048 9.40782828 5.73180259 9.40782828 5.73180259 12.3551967 4.99496048 12.3551967"></polygon>
+                <polygon id="矩形-copy-25" fill="#FFFFFF" transform="translate(7.573908, 10.881512) rotate(-315.000000) translate(-7.573908, -10.881512) " points="7.2054868 9.40782828 7.9423289 9.40782828 7.9423289 12.3551967 7.2054868 12.3551967"></polygon>
+                <rect id="矩形-copy-26" fill="#FFFFFF" x="0.376605883" y="0" width="19.1578947" height="2.21052632"></rect>
+            </g>
+        </g>
+        <g id="分组-21" transform="translate(218.000000, 15.000000)" fill-rule="nonzero">
+            <rect id="矩形-copy-17" fill="#A1CAFF" x="0" y="0" width="30" height="30" rx="3"></rect>
+            <g id="分组-13" transform="translate(5.000000, 8.000000)">
+                <path d="M0.357775589,5.6 L18.5577756,5.6 L18.5577756,11.9 L0.357775589,11.9 L0.357775589,5.6 Z M3.39110892,9.5375 C3.80992486,9.5375 4.14944226,9.18492424 4.14944226,8.75 C4.14944226,8.31507576 3.80992486,7.9625 3.39110892,7.9625 C2.97229299,7.9625 2.63277559,8.31507576 2.63277559,8.75 C2.63277559,9.18492424 2.97229299,9.5375 3.39110892,9.5375 Z M16.2827756,9.5375 C16.7015915,9.5375 17.0411089,9.18492424 17.0411089,8.75 C17.0411089,8.31507576 16.7015915,7.9625 16.2827756,7.9625 C15.8639597,7.9625 15.5244423,8.31507576 15.5244423,8.75 C15.5244423,9.18492424 15.8639597,9.5375 16.2827756,9.5375 Z" id="合并形状-copy-5" fill="#3261AF"></path>
+                <rect id="矩形-copy-18" fill="#FFFFFF" x="2.45777559" y="11.9" width="1.4" height="2.1"></rect>
+                <rect id="矩形-copy-19" fill="#FFFFFF" x="15.0577756" y="11.9" width="1.4" height="2.1"></rect>
+                <polygon id="矩形-copy-20" fill="#FFFFFF" points="4.79110892 0 14.1244423 0 16.4577756 5.6 2.45777559 5.6"></polygon>
+            </g>
+        </g>
+        <rect id="Rectangle-3-Copy-2" fill="#A1CAFF" x="84" y="75" width="254" height="125" rx="3"></rect>
+        <path d="M118,124.285714 L147.124356,97 L162.393168,124.285714 L211,97 L212,123.692388 L259.124356,97 L259,124.285714 L323,97" id="路径-14" stroke="#3261AF" stroke-width="0.4" stroke-dasharray="1" fill-rule="nonzero"></path>
+        <path d="M99,97 L117.369102,124.285714 L115.447415,97 L162,124 L178.875644,97 L212.393168,124.285714 L218.992431,111.230769 L259,124.285714 L315.124356,111.230769 L307,124 L323.132216,97" id="路径-13" stroke="#3261AF" stroke-width="0.4" stroke-dasharray="1" fill-rule="nonzero"></path>
+        <g id="分组-15" transform="translate(100.000000, 137.000000)">
+            <path d="M15.5,7.53401068 L15.5,-5.68434189e-14" id="路径-4" stroke="#3261AF" stroke-dasharray="1" fill-rule="nonzero"></path>
+            <rect id="矩形" fill="#3261AF" fill-rule="nonzero" x="0" y="9" width="30" height="30" rx="3"></rect>
+            <g id="分组-2" transform="translate(10.000000, 17.000000)">
+                <rect id="Rectangle" fill="#A1CAFF" x="0" y="0" width="10.3703704" height="14"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="1.03703704" y="1.03703704" width="8.2962963" height="8.81481481"></rect>
+                <circle id="Oval" fill="#FFFFFF" cx="5.18518519" cy="11.9259259" r="1.03703704"></circle>
+            </g>
+        </g>
+        <path d="M118,124.285714 L122.875644,111.230769 L162.393168,124.285714 L186.333894,112.5 L212,124 L251,111.230769 L259,124.285714 L307,97 L307,124.285714" id="路径-11" stroke="#3261AF" stroke-width="0.4" stroke-dasharray="1" fill-rule="nonzero"></path>
+        <path d="M212,124 L227,97 L259,124.285714 L291.791865,97 L307,124.285714" id="路径-9" stroke="#3261AF" stroke-width="0.4" stroke-dasharray="1" fill-rule="nonzero"></path>
+        <g id="分组-16" transform="translate(148.000000, 137.000000)" fill-rule="nonzero">
+            <path d="M14.5,7.53401068 L14.5,-5.68434189e-14" id="路径-4-copy" stroke="#3261AF" stroke-dasharray="1"></path>
+            <rect id="矩形-copy" fill="#3261AF" x="0" y="9" width="30" height="30" rx="3"></rect>
+            <g id="分组-3" transform="translate(6.000000, 16.000000)">
+                <path d="M2.17062413,10.6844236 L0.7,11.1881135 L1.15666127,9.62255307 C0.4234718,8.65800711 0,7.51946557 0,6.3 C0,2.82060608 3.44740743,0 7.7,0 C11.9525926,0 15.4,2.82060608 15.4,6.3 C15.4,9.77939392 11.9525926,12.6 7.7,12.6 C5.53030533,12.6 3.57020785,11.86577 2.17062413,10.6844236 Z" id="合并形状" fill="#A1CAFF"></path>
+                <path d="M16.1451512,12.1587716 L16.4458891,13.0194191 L15.4009395,12.7206619 C14.3373992,13.4039379 13.0045386,13.8103334 11.5577756,13.8103334 C10.40706,13.8103334 9.32840116,13.5532405 8.4,13.1042224 C12.4937904,12.9577305 15.7577756,10.1959002 15.7577756,6.81033337 C15.7577756,5.87923613 15.5109015,4.99531569 15.0677875,4.2 C16.7505488,5.14255426 17.8577756,6.74369103 17.8577756,8.56033337 C17.8577756,9.95300978 17.2070496,11.2190319 16.1451512,12.1587716 Z" id="合并形状" fill="#FFFFFF"></path>
+            </g>
+        </g>
+        <g id="分组-17" transform="translate(196.000000, 137.000000)" fill-rule="nonzero">
+            <path d="M15.5,7.53401068 L15.5,-5.68434189e-14" id="路径-4-copy-2" stroke="#3261AF" stroke-dasharray="1"></path>
+            <rect id="矩形-copy-3" fill="#3261AF" x="0" y="9" width="30" height="30" rx="3"></rect>
+            <g id="分组-5" transform="translate(5.000000, 16.000000)">
+                <g id="分组-4">
+                    <path d="M17.5449481,8.16587855 C18.8862281,8.44208795 19.8947368,9.62958484 19.8947368,11.0526316 C19.8947368,12.6804182 18.5751551,14 16.9473684,14 L2.94736842,14 C1.31958179,14 1.99346369e-16,12.6804182 0,11.0526316 C-1.85758455e-16,9.53579868 1.14582116,8.28658666 2.61912336,8.12333561 C2.35571026,7.43580736 2.21052632,6.68335718 2.21052632,5.89473684 C2.21052632,2.63916358 4.68474217,0 7.73684211,0 C9.97149333,0 11.8963579,1.41477804 12.767137,3.45041539 C13.2418399,3.12983351 13.7876962,2.94736842 14.3684211,2.94736842 C16.199681,2.94736842 17.6842105,4.76179338 17.6842105,7 C17.6842105,7.40527237 17.6355382,7.79665047 17.5449481,8.16587855 Z" id="合并形状" fill="#A1CAFF"></path>
+                    <rect id="矩形" fill="#FFFFFF" x="9.57894737" y="2.94736842" width="1" height="8.10526316"></rect>
+                </g>
+                <path d="M11.3156566,8.60171071 L9.33855282,10.5788145 L11.3156566,10.5788145 L11.3156566,8.60171071 Z" id="矩形" stroke="#FFFFFF" transform="translate(9.973551, 9.236709) rotate(-315.000000) translate(-9.973551, -9.236709) "></path>
+            </g>
+        </g>
+        <g id="分组-18" transform="translate(244.000000, 137.000000)" fill-rule="nonzero">
+            <path d="M14.5,7.53401068 L14.5,-5.68434189e-14" id="路径-4-copy-3" stroke="#3261AF" stroke-dasharray="1"></path>
+            <rect id="矩形-copy-4" fill="#3261AF" x="0" y="9" width="30" height="30" rx="3"></rect>
+            <g id="分组-6" transform="translate(5.000000, 16.000000)">
+                <rect id="矩形" fill="#A1CAFF" x="0" y="3.68421053" width="19.1578947" height="10.3157895"></rect>
+                <polygon id="矩形" fill="#FFFFFF" transform="translate(2.776249, 10.881512) rotate(-315.000000) translate(-2.776249, -10.881512) " points="2.40782828 9.40782828 3.14467039 9.40782828 3.14467039 12.3551967 2.40782828 12.3551967"></polygon>
+                <polygon id="矩形-copy-8" fill="#FFFFFF" transform="translate(4.986776, 10.881512) rotate(-315.000000) translate(-4.986776, -10.881512) " points="4.6183546 9.40782828 5.3551967 9.40782828 5.3551967 12.3551967 4.6183546 12.3551967"></polygon>
+                <polygon id="矩形-copy-9" fill="#FFFFFF" transform="translate(7.197302, 10.881512) rotate(-315.000000) translate(-7.197302, -10.881512) " points="6.82888091 9.40782828 7.56572302 9.40782828 7.56572302 12.3551967 6.82888091 12.3551967"></polygon>
+                <rect id="矩形-copy-7" fill="#FFFFFF" x="0" y="0" width="19.1578947" height="2.21052632"></rect>
+            </g>
+        </g>
+        <g id="分组-19" transform="translate(292.000000, 137.000000)" fill-rule="nonzero">
+            <path d="M15.5,7.53401068 L15.5,-5.68434189e-14" id="路径-4-copy-4" stroke="#3261AF" stroke-dasharray="1"></path>
+            <rect id="矩形-copy-5" fill="#3261AF" x="0" y="9" width="30" height="30" rx="3"></rect>
+            <g id="分组-7" transform="translate(6.000000, 16.000000)">
+                <path d="M0,5.6 L18.2,5.6 L18.2,11.9 L0,11.9 L0,5.6 Z M3.03333333,9.5375 C3.45214927,9.5375 3.79166667,9.18492424 3.79166667,8.75 C3.79166667,8.31507576 3.45214927,7.9625 3.03333333,7.9625 C2.6145174,7.9625 2.275,8.31507576 2.275,8.75 C2.275,9.18492424 2.6145174,9.5375 3.03333333,9.5375 Z M15.925,9.5375 C16.3438159,9.5375 16.6833333,9.18492424 16.6833333,8.75 C16.6833333,8.31507576 16.3438159,7.9625 15.925,7.9625 C15.5061841,7.9625 15.1666667,8.31507576 15.1666667,8.75 C15.1666667,9.18492424 15.5061841,9.5375 15.925,9.5375 Z" id="合并形状" fill="#A1CAFF"></path>
+                <rect id="矩形" fill="#FFFFFF" x="2.1" y="11.9" width="1.4" height="2.1"></rect>
+                <rect id="矩形-copy-11" fill="#FFFFFF" x="14.7" y="11.9" width="1.4" height="2.1"></rect>
+                <polygon id="矩形-copy-10" fill="#FFFFFF" points="4.43333333 0 13.7666667 0 16.1 5.6 2.1 5.6"></polygon>
+            </g>
+        </g>
+        <g id="分组-8" transform="translate(91.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-17" transform="translate(115.000000, 94.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-18" transform="translate(147.000000, 94.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-19" transform="translate(179.000000, 94.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-20" transform="translate(211.000000, 94.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-21" transform="translate(243.000000, 94.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-22" transform="translate(275.000000, 94.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-23" transform="translate(307.000000, 94.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy" transform="translate(107.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-2" transform="translate(123.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-3" transform="translate(139.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-4" transform="translate(155.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-5" transform="translate(171.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-6" transform="translate(187.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-7" transform="translate(203.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-8" transform="translate(219.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-9" transform="translate(235.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-10" transform="translate(251.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-11" transform="translate(267.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-12" transform="translate(283.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-13" transform="translate(299.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="分组-8-copy-14" transform="translate(315.000000, 80.000000)">
+            <g id="分组-9">
+                <polygon id="多边形" fill="#3261AF" fill-rule="nonzero" points="8 0 14.9282032 4 14.9282032 12 8 16 1.07179677 12 1.07179677 4"></polygon>
+                <text id="API" font-family="PingFangSC-Regular, PingFang SC" font-size="6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="3.392" y="10">API</tspan>
+                </text>
+            </g>
+        </g>
+        <text id="松耦合组件编排-API-化接入" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="138.288" y="192">松耦合组件编排 API 化接入</tspan>
+        </text>
+        <text id="数聚蜂巢" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#001B47">
+            <tspan x="183" y="225">数聚蜂巢</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#88B6F2" fill="#FFFFFF" x="5.5" y="30.5" width="53" height="19" rx="3"></rect>
+        <rect id="Rectangle-Copy-8" stroke="#88B6F2" fill="#FFFFFF" x="363.5" y="30.5" width="53" height="19" rx="3"></rect>
+        <rect id="Rectangle-Copy" stroke="#88B6F2" fill="#FFFFFF" x="5.5" y="56.5" width="53" height="19" rx="3"></rect>
+        <rect id="Rectangle-Copy-9" stroke="#88B6F2" fill="#FFFFFF" x="363.5" y="56.5" width="53" height="19" rx="3"></rect>
+        <rect id="Rectangle-Copy-2" stroke="#88B6F2" fill="#FFFFFF" x="5.5" y="83.5" width="53" height="19" rx="3"></rect>
+        <rect id="Rectangle-Copy-10" stroke="#88B6F2" fill="#FFFFFF" x="363.5" y="83.5" width="53" height="19" rx="3"></rect>
+        <rect id="Rectangle-Copy-3" stroke="#88B6F2" fill="#FFFFFF" x="5.5" y="109.5" width="53" height="19" rx="3"></rect>
+        <rect id="Rectangle-Copy-11" stroke="#88B6F2" fill="#FFFFFF" x="363.5" y="109.5" width="53" height="19" rx="3"></rect>
+        <rect id="Rectangle-Copy-4" stroke="#88B6F2" fill="#FFFFFF" x="5.5" y="136.5" width="53" height="19" rx="3"></rect>
+        <rect id="Rectangle-Copy-12" stroke="#88B6F2" fill="#FFFFFF" x="363.5" y="136.5" width="53" height="19" rx="3"></rect>
+        <text id="财务会计" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="8" y="44">财务会计</tspan>
+        </text>
+        <text id="实时监控" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="366" y="44">实时监控</tspan>
+        </text>
+        <text id="实现-方式" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#214278">
+            <tspan x="437" y="35">实现</tspan>
+            <tspan x="437" y="49">方式</tspan>
+        </text>
+        <text id="定制开发，数据与业务逻辑运算紧耦合" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+            <tspan x="470" y="35">定制开发，</tspan>
+            <tspan x="470" y="49">数据与业务</tspan>
+            <tspan x="470" y="63">逻辑运算紧</tspan>
+            <tspan x="470" y="77">耦合</tspan>
+        </text>
+        <text id="3万条订单数据-30分钟" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+            <tspan x="470" y="96">3万条订单</tspan>
+            <tspan x="470" y="110">数据</tspan>
+            <tspan x="470" y="124">30分钟</tspan>
+        </text>
+        <text id="5万条订单数据-平台宕机" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+            <tspan x="470" y="143">5万条订单</tspan>
+            <tspan x="470" y="157">数据</tspan>
+            <tspan x="470" y="171">平台宕机</tspan>
+        </text>
+        <text id="黑盒运行，只能找原厂调整，难度极大" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+            <tspan x="470" y="190">黑盒运行，</tspan>
+            <tspan x="470" y="204">只能找原厂</tspan>
+            <tspan x="470" y="218">调整，难度</tspan>
+            <tspan x="470" y="232">极大</tspan>
+        </text>
+        <text id="26万条订单数据-3分钟" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+            <tspan x="528" y="96">26万条订</tspan>
+            <tspan x="528" y="110">单数据</tspan>
+            <tspan x="528" y="124">3分钟</tspan>
+        </text>
+        <text id="集群负载均衡高可靠性" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+            <tspan x="528" y="143">集群负载均</tspan>
+            <tspan x="528" y="157">衡高可靠性</tspan>
+        </text>
+        <text id="平台组件透明运行，变更及可维护性高" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+            <tspan x="528" y="190">平台组件透</tspan>
+            <tspan x="528" y="204">明运行，变</tspan>
+            <tspan x="528" y="218">更及可维护</tspan>
+            <tspan x="528" y="232">性高</tspan>
+        </text>
+        <text id="蜂巢平台编排实现，数据与业务逻辑运算解耦" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+            <tspan x="525" y="35">蜂巢平台编</tspan>
+            <tspan x="525" y="49">排实现，数</tspan>
+            <tspan x="525" y="63">据与业务逻</tspan>
+            <tspan x="525" y="77">辑运算解耦</tspan>
+        </text>
+        <text id="原系统" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#214278">
+            <tspan x="483" y="16">原系统</tspan>
+        </text>
+        <text id="数聚蜂巢" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#214278">
+            <tspan x="528" y="16">数聚蜂巢</tspan>
+        </text>
+        <text id="运行-效率" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#214278">
+            <tspan x="437" y="96">运行</tspan>
+            <tspan x="437" y="110">效率</tspan>
+        </text>
+        <text id="稳定-性" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#214278">
+            <tspan x="437" y="143">稳定</tspan>
+            <tspan x="442" y="157">性</tspan>
+        </text>
+        <text id="敏捷-性" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#214278">
+            <tspan x="437" y="190">敏捷</tspan>
+            <tspan x="442" y="204">性</tspan>
+        </text>
+        <text id="成本控制" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="8" y="70">成本控制</tspan>
+        </text>
+        <text id="业务报表" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="366" y="70">业务报表</tspan>
+        </text>
+        <text id="物流管理" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="8" y="97">物流管理</tspan>
+        </text>
+        <text id="数据管理" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="366" y="97">数据管理</tspan>
+        </text>
+        <text id="生产计划" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="8" y="123">生产计划</tspan>
+        </text>
+        <text id="减少人工" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="366" y="123">减少人工</tspan>
+        </text>
+        <text id="质量管理" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="8" y="149">质量管理</tspan>
+        </text>
+        <text id="……" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="378" y="149">……</tspan>
+        </text>
+        <text id="ERP" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#05172E">
+            <tspan x="18" y="20">ERP</tspan>
+        </text>
+        <text id="优化场景" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#05172E">
+            <tspan x="362" y="20">优化场景</tspan>
+        </text>
+        <rect id="Rectangle-Copy-5" stroke="#88B6F2" fill="#FFFFFF" x="5.5" y="162.5" width="53" height="19" rx="3"></rect>
+        <text id="仓库管理" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="8" y="176">仓库管理</tspan>
+        </text>
+        <rect id="Rectangle-Copy-6" stroke="#88B6F2" fill="#FFFFFF" x="5.5" y="189.5" width="53" height="19" rx="3"></rect>
+        <text id="人力资源" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="8" y="202">人力资源</tspan>
+        </text>
+        <rect id="Rectangle-Copy-7" stroke="#88B6F2" fill="#FFFFFF" x="5.5" y="215.5" width="53" height="19" rx="3"></rect>
+        <text id="……" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#214278">
+            <tspan x="20" y="229">……</tspan>
+        </text>
+        <path d="" id="路径-3" stroke="#979797" fill-rule="nonzero"></path>
+        <path d="" id="路径-12" stroke="#979797" fill-rule="nonzero"></path>
+        <path d="M432,21.5 L580.269046,21.5" id="路径-28" stroke="#3261AF" stroke-width="0.6" fill-rule="nonzero"></path>
+        <path d="M342.5,120 C342.5,120 422.5,120 582.5,120" id="路径-28" stroke="#3261AF" stroke-width="0.6" fill-rule="nonzero" transform="translate(462.500000, 120.000000) rotate(-90.000000) translate(-462.500000, -120.000000) "></path>
+        <path d="M403.5,120 C403.5,120 483.5,120 643.5,120" id="路径-28-copy-4" stroke="#3261AF" stroke-width="0.6" fill-rule="nonzero" transform="translate(523.500000, 120.000000) rotate(-90.000000) translate(-523.500000, -120.000000) "></path>
+        <path d="M432,83.5 L580.269046,83.5" id="路径-28-copy" stroke="#3261AF" stroke-width="0.6" fill-rule="nonzero"></path>
+        <path d="M432,129.5 L580.269046,129.5" id="路径-28-copy-2" stroke="#3261AF" stroke-width="0.6" fill-rule="nonzero"></path>
+        <path d="M432,176 L580.269046,176" id="路径-28-copy-3" stroke="#3261AF" stroke-width="0.6" fill-rule="nonzero"></path>
+        <rect id="Rectangle-Copy-66" fill="#3261AF" x="100" y="126" width="30" height="14" rx="3"></rect>
+        <rect id="Rectangle-Copy-67" fill="#3261AF" x="148" y="126" width="30" height="14" rx="3"></rect>
+        <rect id="Rectangle-Copy-68" fill="#3261AF" x="196" y="126" width="30" height="14" rx="3"></rect>
+        <rect id="Rectangle-Copy-69" fill="#3261AF" x="244" y="126" width="30" height="14" rx="3"></rect>
+        <rect id="Rectangle-Copy-70" fill="#3261AF" x="292" y="126" width="30" height="14" rx="3"></rect>
+        <text id="ERP" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#FFFFFF">
+            <tspan x="106.225" y="136">ERP</tspan>
+        </text>
+        <text id="CRM" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#FFFFFF">
+            <tspan x="150.07" y="135.785714">CRM</tspan>
+        </text>
+        <text id="OA" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#FFFFFF">
+            <tspan x="203.38" y="136">OA</tspan>
+        </text>
+        <text id="SRM" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#FFFFFF">
+            <tspan x="248.05" y="136">SRM</tspan>
+        </text>
+        <text id="MES" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#FFFFFF">
+            <tspan x="296.245" y="135.785714">MES</tspan>
+        </text>
+        <path d="M97.4,48 L97.4,72 L143,48 L143,72 L188.527058,48 L188.527058,72 L233,48 L233,72 L278.393168,48 L278.393168,72 L323,48 L323,72" id="路径-15" stroke="#3261AF" stroke-width="0.4" stroke-dasharray="1" fill-rule="nonzero"></path>
+        <path d="M97.4,48 L143,72 L232.393168,48 L323,72 L278.393168,48 L188.393168,72 L143,48" id="路径-16" stroke="#3261AF" stroke-width="0.4" stroke-dasharray="1" fill-rule="nonzero"></path>
+    </g>
+</svg>

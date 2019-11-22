@@ -1,0 +1,38 @@
+/***************************************
+	# hover styles
+***************************************/
+.hover-grid {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	opacity: 0;
+	@include transition-time(0.3s);
+
+	span {
+		background-color: transparentize($theme-primary-color, 0.1);
+		width: 33.33%;
+		height: 10%;
+		position: absolute;
+		left: 0;
+		bottom: 0;
+		opacity: 0;
+		-webkit-transition: all 0.3s ease-in-out;
+		transition: all 0.3s ease-in-out;
+	}
+
+	span:nth-child(2) {
+		left: 33.33%;
+		height: 20%;
+		-webkit-transition: all 0.3s 0.1s ease-in-out;
+		transition: all 0.3s 0.1s ease-in-out;
+	}
+
+	span:nth-child(3) {
+		left: 66.66%;
+		height: 30%;
+		-webkit-transition: all 0.3s 0.2s ease-in-out;
+		transition: all 0.3s 0.2s ease-in-out;
+	}
+}

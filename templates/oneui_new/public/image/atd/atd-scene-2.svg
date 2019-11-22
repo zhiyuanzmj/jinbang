@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580px" height="240px" viewBox="0 0 580 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title> ATD场景图2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="-ATD场景图2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M118.012364,227.5 C90.6707881,227.5 77,227.5 77,227.5" id="直线-copy-12" stroke="#3261AF" stroke-linecap="square"></path>
+        <path d="M118.012364,184.5 C90.6707881,184.5 77,184.5 77,184.5" id="直线-copy-16" stroke="#3261AF" stroke-linecap="square"></path>
+        <path d="M118.012364,141.5 C90.6707881,141.5 77,141.5 77,141.5" id="直线-copy-18" stroke="#3261AF" stroke-linecap="square"></path>
+        <path d="M118.012364,98.5 C90.6707881,98.5 77,98.5 77,98.5" id="直线-copy-19" stroke="#3261AF" stroke-linecap="square"></path>
+        <path d="M118.012364,55.5 C90.6707881,55.5 77,55.5 77,55.5" id="直线-copy-20" stroke="#3261AF" stroke-linecap="square"></path>
+        <path d="M118.012364,12.5 C90.6707881,12.5 77,12.5 77,12.5" id="直线-copy-21" stroke="#3261AF" stroke-linecap="square"></path>
+        <path d="M3,172 L75,172 C76.6568542,172 78,173.343146 78,175 L78,194 C78,195.656854 76.6568542,197 75,197 L3,197 C1.34314575,197 2.02906125e-16,195.656854 0,194 L0,175 C-2.02906125e-16,173.343146 1.34314575,172 3,172 Z" id="Rectangle-3-Copy-45" fill="#E1EDFF"></path>
+        <path d="M417.196699,120.5 L380.5,120.5" id="直线-copy-2" stroke="#3261AF" stroke-linecap="square" transform="translate(398.848350, 120.500000) scale(-1, 1) translate(-398.848350, -120.500000) "></path>
+        <text id="网络设备" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="15" y="189">网络设备</tspan>
+        </text>
+        <path d="M3,129 L75,129 C76.6568542,129 78,130.343146 78,132 L78,151 C78,152.656854 76.6568542,154 75,154 L3,154 C1.34314575,154 2.02906125e-16,152.656854 0,151 L0,132 C-2.02906125e-16,130.343146 1.34314575,129 3,129 Z" id="Rectangle-3-Copy-46" fill="#E1EDFF"></path>
+        <text id="应用系统" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="15" y="146">应用系统</tspan>
+        </text>
+        <path d="M3,86 L75,86 C76.6568542,86 78,87.3431458 78,89 L78,108 C78,109.656854 76.6568542,111 75,111 L3,111 C1.34314575,111 2.02906125e-16,109.656854 0,108 L0,89 C-2.02906125e-16,87.3431458 1.34314575,86 3,86 Z" id="Rectangle-3-Copy-47" fill="#E1EDFF"></path>
+        <text id="中间件" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="21" y="103">中间件</tspan>
+        </text>
+        <path d="M3,43 L75,43 C76.6568542,43 78,44.3431458 78,46 L78,65 C78,66.6568542 76.6568542,68 75,68 L3,68 C1.34314575,68 2.02906125e-16,66.6568542 0,65 L0,46 C-2.02906125e-16,44.3431458 1.34314575,43 3,43 Z" id="Rectangle-3-Copy-48" fill="#E1EDFF"></path>
+        <text id="业务系统" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="15" y="60">业务系统</tspan>
+        </text>
+        <path d="M3,0 L75,0 C76.6568542,-3.04359188e-16 78,1.34314575 78,3 L78,22 C78,23.6568542 76.6568542,25 75,25 L3,25 C1.34314575,25 2.02906125e-16,23.6568542 0,22 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-3-Copy-49" fill="#E1EDFF"></path>
+        <text id="安全设备" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="15" y="17">安全设备</tspan>
+        </text>
+        <path d="M3,215 L75,215 C76.6568542,215 78,216.343146 78,218 L78,237 C78,238.656854 76.6568542,240 75,240 L3,240 C1.34314575,240 2.02906125e-16,238.656854 0,237 L0,218 C-2.02906125e-16,216.343146 1.34314575,215 3,215 Z" id="Rectangle-3-Copy-44" fill="#E1EDFF"></path>
+        <text id="威胁情报" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="15" y="232">威胁情报</tspan>
+        </text>
+        <path d="M225.5,119.5 L10.5,119.5" id="直线-copy-6" stroke="#3261AF" stroke-linecap="square" transform="translate(118.000000, 120.000000) rotate(-270.000000) translate(-118.000000, -120.000000) "></path>
+        <path d="M144.5,120.5 L119.5,120.5" id="直线" stroke="#3261AF" stroke-linecap="square"></path>
+        <rect id="Rectangle-Copy-79" stroke="#A1CAFF" fill="#FFFFFF" x="129.5" y="100.5" width="65" height="39" rx="3"></rect>
+        <text id="全日志/-流量采集" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="141.3" y="116">全日志/</tspan>
+            <tspan x="138.3" y="133">流量采集</tspan>
+        </text>
+        <rect id="Rectangle-3-Copy-12" fill="#A1CAFF" x="230" y="45" width="150" height="146" rx="3"></rect>
+        <rect id="Rectangle-3-Copy-13" fill="#3261AF" x="240" y="55" width="130" height="24" rx="3"></rect>
+        <rect id="矩形-copy-2" fill="#FFFFFF" fill-rule="nonzero" x="240" y="99" width="130" height="24" rx="3"></rect>
+        <text id="安全事件关联分析" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="248.760563" y="116">安全事件关联分析</tspan>
+        </text>
+        <rect id="矩形" fill="#FFFFFF" fill-rule="nonzero" x="240" y="157" width="130" height="24" rx="3"></rect>
+        <rect id="矩形-copy" fill="#FFFFFF" fill-rule="nonzero" x="240" y="128" width="130" height="24" rx="3"></rect>
+        <text id="流程自动化" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="270.225352" y="145">流程自动化</tspan>
+        </text>
+        <text id="机器学习算法引擎" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+            <tspan x="248.760563" y="174">机器学习算法引擎</tspan>
+        </text>
+        <text id="ATD" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="290.816141" y="72">ATD</tspan>
+        </text>
+        <path d="M461,0 L577,0 C578.656854,-3.04359188e-16 580,1.34314575 580,3 L580,33 C580,34.6568542 578.656854,36 577,36 L461,36 C459.343146,36 458,34.6568542 458,33 L458,3 C458,1.34314575 459.343146,3.04359188e-16 461,0 Z" id="Rectangle-3-Copy-28" fill="#E1EDFF"></path>
+        <text id="告警优先级划分" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="477" y="22">告警优先级划分</tspan>
+        </text>
+        <path d="M461,68 L577,68 C578.656854,68 580,69.3431458 580,71 L580,101 C580,102.656854 578.656854,104 577,104 L461,104 C459.343146,104 458,102.656854 458,101 L458,71 C458,69.3431458 459.343146,68 461,68 Z" id="Rectangle-3-Copy-29" fill="#E1EDFF"></path>
+        <text id="事件根因分析" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="483" y="91">事件根因分析</tspan>
+        </text>
+        <path d="M461,136 L577,136 C578.656854,136 580,137.343146 580,139 L580,169 C580,170.656854 578.656854,172 577,172 L461,172 C459.343146,172 458,170.656854 458,169 L458,139 C458,137.343146 459.343146,136 461,136 Z" id="Rectangle-3-Copy-30" fill="#E1EDFF"></path>
+        <text id="安全防御联动" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="483" y="159">安全防御联动</tspan>
+        </text>
+        <path d="M461,204 L577,204 C578.656854,204 580,205.343146 580,207 L580,237 C580,238.656854 578.656854,240 577,240 L461,240 C459.343146,240 458,238.656854 458,237 L458,207 C458,205.343146 459.343146,204 461,204 Z" id="Rectangle-3-Copy-31" fill="#E1EDFF"></path>
+        <text id="安全事件自动化处理" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="465" y="226">安全事件自动化处理</tspan>
+        </text>
+        <polygon id="矩形" fill="#3261AF" fill-rule="nonzero" points="449 226.5 417.5 226.5 417 226.5 417 226 417 18 417 17.5 417.5 17.5 449 17.5 449 13.5 458 18 449 22.5 449 18.5 418 18.5 418 225.5 449 225.5 449 221.5 458 226 449 230.5"></polygon>
+        <polygon id="直线-2-copy-4" fill="#3261AF" fill-rule="nonzero" points="449 87 417.729285 87 417.229285 87 417.229285 86 417.729285 86 449 86 449 82 458 86.5 449 91 449 87"></polygon>
+        <polygon id="直线-2-copy-4" fill="#3261AF" fill-rule="nonzero" points="449 155 417.729285 155 417.229285 155 417.229285 154 417.729285 154 449 154 449 150 458 154.5 449 159 449 155"></polygon>
+        <circle id="椭圆形" stroke="#3261AF" fill="#FFFFFF" fill-rule="nonzero" cx="194.5" cy="120.5" r="5.5"></circle>
+        <circle id="椭圆形-copy" stroke="#3261AF" fill="#FFFFFF" fill-rule="nonzero" cx="230.5" cy="120.5" r="5.5"></circle>
+        <circle id="椭圆形" fill="#3261AF" fill-rule="nonzero" cx="194.5" cy="120.5" r="2.5"></circle>
+        <circle id="椭圆形-copy-2" fill="#3261AF" fill-rule="nonzero" cx="230.5" cy="120.5" r="2.5"></circle>
+        <path d="M199.946395,120.5 L225,120.5" id="路径-53" stroke="#3261AF" stroke-dasharray="2" fill-rule="nonzero"></path>
+    </g>
+</svg>

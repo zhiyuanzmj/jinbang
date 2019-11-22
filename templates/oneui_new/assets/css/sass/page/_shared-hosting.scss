@@ -1,0 +1,120 @@
+/*--------------------------------------------------------------
+	#shared hosting page
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+#6.0	hosting-pricing
+--------------------------------------------------------------*/
+.shared-hosting-pg {
+	.page-title {
+		@include background-style("../images/pg-title/img-2.jpg", center center, cover, no-repeat, local);
+	}
+}
+
+.hosting-pricing {
+	.tablist {
+		padding: 0;
+	    background: transparent;
+	    box-shadow: none;
+	}
+
+	.tablist ul a {
+		border: 2px solid $theme-primary-color;
+		padding: 12px 40px;
+		position: relative;
+
+		@include media-query(767px) {
+			padding: 8px 20px;
+		}
+
+		&:after {
+			content: "";
+			border: 10px solid transparent;
+			border-top: 10px solid $theme-primary-color;
+			position: absolute;
+			bottom: -20px;
+			left: 50%;
+			@include translatingX();
+			opacity: 0;
+		}
+	}
+
+	.tablist li.active a:after {
+		opacity: 1;
+	}
+
+	.tablist ul li:first-child {
+		margin-right: 8px;
+	}
+
+	@include media-query(767px) {
+		.tablist ul li {
+			float: left;
+		}
+	}
+}
+
+
+/*--------------------------------------------------------------
+#6.1	services-section-s3
+--------------------------------------------------------------*/
+.services-section-s3 {
+	position: relative;
+	padding-bottom: 70px;
+
+	@include media-query(991px) {
+		padding-bottom: 50px;
+	}
+
+	@include media-query(767px) {
+		padding-bottom: 40px;
+	}
+
+	&:before {
+		content: "";
+		@include background-style("../images/services-section-s3-bg.jpg", center center, cover, no-repeat, local);
+		width: 100%;
+		height: 50%;
+		position: absolute;
+		left: 0;
+		top: 0;
+	}
+
+	&:after {
+		content: "";
+		background-color: transparentize($theme-primary-color, 0.3);
+		width: 100%;
+		height: 50%;
+		position: absolute;
+		left: 0;
+		top: 0;
+	}
+
+	.container {
+		position: relative;
+		z-index: 1;
+	}
+
+	.section-title-s4 h2 {
+		color: $white;
+		line-height: 1.4em;
+		@include widther(1200px) {
+			padding: 0 45px;
+		}
+	}
+
+	.services-s3-grids > .col {
+		margin-bottom: 30px;
+
+		@include media-query(600px) {
+			width: 100%;
+		}
+	}
+}
+
+
+/*--------------------------------------------------------------
+#6.2	faq-section
+--------------------------------------------------------------*/
+.faq-section {
+	background-color: #dfeefc;
+}

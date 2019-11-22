@@ -1,0 +1,195 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+Theme Name: 	
+Version:        1.0.0
+Author:         themexriver
+URL:            http://themeforest.net/user/themexriver
+-------------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+#0.1	Theme Reset Style
+#0.2	Global Elements
+#0.3	header
+#0.4	hero-slider
+#0.5	footer
+#0.6	services-section
+#0.7	domain-section
+#0.8	pricing-section
+#0.9	features-section
+#1.0	testimonials-section
+#1.1	recent-news-section
+#1.2	CTA
+
+
+--------------------------------------------------------------
+	#home style 2
+----------------------------------------------------------------
+#2.0	services-section-s2
+#2.1	domain-features
+#2.2	cta-2
+
+
+--------------------------------------------------------------
+	#home style 3
+----------------------------------------------------------------
+#3.0	features-section
+#3.1	domain-section-s2
+#3.2	cta-3
+#3.3	partenrs-section
+
+
+--------------------------------------------------------------
+	#about page
+----------------------------------------------------------------
+#4.0	about-us-section
+#4.1	our-history-section
+#4.2	team-section
+#4.3	fun-fact
+#4.4	awards-section
+#4.5	cta-5
+
+
+--------------------------------------------------------------
+	#domain page
+----------------------------------------------------------------
+#5.0	domains-price-section 
+#5.1	domain-info-section
+#5.2	cta-4
+
+
+--------------------------------------------------------------
+	#shared hosting page
+----------------------------------------------------------------
+#6.0	hosting-pricing
+#6.1	services-section-s3
+#6.2	faq-section
+
+
+--------------------------------------------------------------
+	#dedicated hosting page
+----------------------------------------------------------------
+#7.0	hosting-features
+
+
+--------------------------------------------------------------
+	#cloud hosting page
+----------------------------------------------------------------
+#8.0	cloud-hosting-features
+
+
+--------------------------------------------------------------
+	#data center page
+----------------------------------------------------------------
+#9.0	data-center-section
+
+
+--------------------------------------------------------------
+	#affiliate page
+----------------------------------------------------------------
+#10.0	affiliate-process-section
+
+
+--------------------------------------------------------------
+	#support page
+----------------------------------------------------------------
+#11.0	support-section
+#11.1	cta-6
+
+
+--------------------------------------------------------------
+	#faq page
+----------------------------------------------------------------
+#12.0	faq-section
+
+
+--------------------------------------------------------------
+	#testimonials page
+----------------------------------------------------------------
+#13.0	testimonials-section-full
+
+
+--------------------------------------------------------------
+	#contact page
+----------------------------------------------------------------
+#14.0	contact-section
+#14.1	contact-map-form-section
+
+
+--------------------------------------------------------------
+	#blog page
+----------------------------------------------------------------
+#15.0	blog-with-sidebar
+
+
+--------------------------------------------------------------
+	#blog details page
+----------------------------------------------------------------
+#16.0	blog-single-content
+
+
+
+
+
+
+----------------------------------------------------------------*/
+
+// helpers
+@import "helpers/variables";
+@import "helpers/functions";
+@import "helpers/mixins";
+
+// base
+@import "base/base";
+
+
+// components
+@import "components/section-title";
+@import "components/buttons";
+@import "components/form";
+@import "components/social-links";
+@import "components/page-title";
+@import "components/preloader";
+@import "components/hover-styles";
+@import "components/services-grids";
+@import "components/pricing-grids";
+@import "components/testimonials-grids";
+@import "components/news-grids";
+@import "components/features-grids";
+@import "components/progress-bar";
+@import "components/team-grids";
+@import "components/services-s3-grids";
+@import "components/accordion";
+@import "components/blog-sidebar";
+@import "components/pagination";
+@import "components/style-switcher-box";
+
+// layout
+@import "layout/header";
+@import "layout/hero-slider";
+@import "layout/footer";
+
+// components
+@import "components/sticky-header";
+
+// page
+@import "page/home-default";
+@import "page/home-style2";
+@import "page/home-style3";
+@import "page/about";
+@import "page/domain";
+@import "page/shared-hosting";
+@import "page/dedicated-hosting";
+@import "page/cloud-hosting";
+@import "page/data-center";
+@import "page/affiliate";
+@import "page/support";
+@import "page/faq";
+@import "page/testimonials";
+@import "page/contact";
+@import "page/blog";
+@import "page/blog-details";
+
+

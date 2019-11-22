@@ -1,0 +1,238 @@
+/*--------------------------------------------------------------
+	#home style 2
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+#2.0	services-section-s2
+--------------------------------------------------------------*/
+.services-section-s2 {
+	padding-bottom: 70px;
+
+	@include media-query(991px) {
+		padding-bottom: 50px;
+	}
+
+	@include media-query(767px) {
+		padding-bottom: 40px;
+	}
+
+	.services-grids .grid {
+		border: 1px solid #e6e6e6;
+	}
+
+	.services-grids > .col {
+		margin-bottom: 30px;
+	}
+}
+
+
+/*--------------------------------------------------------------
+#2.1	domain-features
+--------------------------------------------------------------*/
+.domain-features {
+	padding-bottom: 50px;
+
+	@include media-query(991px) {
+		padding-bottom: 30px;
+	}
+
+	@include media-query(767px) {
+		padding-bottom: 70px;
+	}
+
+	.domain-features-grids {
+		overflow: hidden;
+		margin: 0 -15px;
+	}
+
+	.domain-features-grids .grid {
+		width: 50%;
+		float: left;
+		padding: 0 15px 50px;
+
+		@include media-query(1199px) {
+			width: 25%;
+		}
+
+		@include media-query(991px) {
+			width: 50%;
+		}
+
+		@include media-query(767px) {
+			padding: 0 15px 40px;
+		}
+
+		@include media-query(550px) {
+			width: 100%;
+			float: none;
+			border-bottom: 1px solid #f1f1f1;
+			padding: 0 15px 20px;
+			margin-bottom: 20px;
+		}
+	}
+
+	.domain-features-grids .grid:last-child {
+		@include media-query(550px) {
+			margin-bottom: 0;
+			padding-bottom: 0;
+			border-bottom: 0;
+		}
+	}
+
+	.grid .icon {
+		width: 60px;
+		height: 60px;
+		line-height: 60px;
+		text-align: center;
+		border: 1px solid $theme-primary-color;
+		border-radius: 5px;
+
+		@include media-query(767px) {
+			width: 50px;
+			height: 50px;
+			line-height: 50px;
+		}
+	}
+
+	.grid .fi:before {
+		font-size: 35px;
+		font-size: calc-rem-value(35);
+		color: $theme-primary-color;
+
+		@include media-query(767px) {
+			font-size: 30px;
+			font-size: calc-rem-value(30);
+		}
+	}
+
+	.grid .details {
+		margin-top: 25px;
+	}
+
+	.grid h3 {
+		font-size: 20px;
+		font-size: calc-rem-value(20);
+		margin: 0 0 0.6em;
+
+		@include media-query(1199px) {
+			font-size: 17px;
+			font-size: calc-rem-value(17);
+		}
+	}
+
+	.grid p {
+		font-size: 14px;
+		font-size: calc-rem-value(14);
+		margin: 0 0 1.2em;
+
+		@include media-query(1199px) {
+			font-size: 13px;
+			font-size: calc-rem-value(13);
+		}
+	}
+
+	.grid .read-more {
+		font-family: $heading-font;
+		font-weight: 600;
+		color: $theme-primary-color;
+	}
+
+	.domain-features-pic {
+		position: relative;
+		top: 70px;
+
+		@include media-query(1199px) {
+			display: none;
+		}
+
+		img {
+			position: relative;
+			z-index: 2;
+		}
+
+		&:after {
+			content: "";
+			width: 55%;
+			height: 115%;
+			border: 2px solid $theme-primary-color;
+			border-radius: 10px;
+			position: absolute;
+			right: 0;
+			bottom: -2px;
+		}
+	}
+}
+
+
+/*--------------------------------------------------------------
+#2.2	cta-2
+--------------------------------------------------------------*/
+.cta-2 {
+	@include background-style("../images/cta-2-bg.jpg", left bottom, contain, no-repeat, local);
+	background-color: #eaf1f9;
+
+	@include media-query(1199px) {
+		background-image: none;
+		padding: 80px 0;
+	}
+
+	@include media-query(991px) {
+		padding: 70px 0;
+	}
+
+	@include media-query(767px) {
+		padding: 60px 0;
+	}
+
+	h2 {
+		font-size: 36px;
+		font-size: calc-rem-value(36);
+		color: #4c5e6f;
+		margin: 0 0 0.64em;
+
+		@include media-query(1199px) {
+			font-size: 30px;
+			font-size: calc-rem-value(30);
+		}
+
+		@include media-query(991px) {
+			font-size: 25px;
+			font-size: calc-rem-value(25);
+		}
+
+		@include media-query(767px) {
+			font-size: 22px;
+			font-size: calc-rem-value(22);
+		}
+	}
+
+	p {
+		margin-bottom: 1.5em;
+	}
+
+	p,
+	li {
+		color: #4c5e6f;
+	}
+
+	ul {
+		list-style: none;
+		margin-bottom: 40px;
+
+		li {
+			position: relative;
+			padding-left: 18px;
+		}
+
+		li:before {
+			font-family: "FontAwesome";
+			content: "\f046";
+			position: absolute;
+			left: 0;
+			top: 0;
+		}
+
+		> li + li {
+			margin-top: 11px;
+		}
+	}
+}

@@ -1,0 +1,105 @@
+/***************************************
+	# services grids
+***************************************/
+.services-grids {
+	.grid {
+		text-align: center;
+		padding: 40px 45px;
+		border-radius: 5px;
+		position: relative;
+		overflow: hidden;
+
+		@include media-query(1199px) {
+			padding: 40px 10px;
+		}
+
+		@include media-query(991px) {
+			border: 1px solid #e2dede;
+		}
+	}
+
+	.grid .fi:before {
+		font-size: 65px;
+		font-size: calc-rem-value(65);
+		color: $theme-primary-color;
+		
+		@include media-query(1199px) {
+			font-size: 55px;
+			font-size: calc-rem-value(55);
+		}
+		
+		@include media-query(991px) {
+			font-size: 45px;
+			font-size: calc-rem-value(45);
+		}
+	}
+
+	.grid h3 {
+		font-size: 24px;
+		font-size: calc-rem-value(24);
+		font-weight: 600;
+		margin: 0.2em 0 0.47em;
+
+		@include media-query(1199px) {
+			font-size: 20px;
+			font-size: calc-rem-value(20);
+		}
+
+		@include media-query(991px) {
+			font-size: 16px;
+			font-size: calc-rem-value(16);
+		}
+	}
+
+	.grid p {
+		margin-bottom: 2em;
+	}
+
+	.grid .icon,
+	.grid .details {
+		position: relative;
+		z-index: 1;
+	}
+
+	/** hover **/
+	.grid:hover .hover-grid {
+		opacity: 1;
+	}
+
+	.grid:hover .hover-grid span {
+		height: 100%;
+		opacity: 1;
+	}
+
+	.grid:hover p,
+	.grid:hover .fi:before,
+	.grid:hover h3 {
+		color: $white;
+	}
+
+	.grid:hover .theme-btn-s2 {
+		background-color: $white;
+		color: $text-color;
+	}
+
+	.badges {
+		background-color: #f63030;
+		width: 120px;
+		font-size: 13px;
+		font-size: calc-rem-value(13);
+		padding: 0 10px;
+		color: $white;
+		text-transform: uppercase;
+		position: absolute;
+		right: -30px;
+		top: 17px;
+		border-radius: 0;
+		z-index: 1;
+		-webkit-transform: rotate(48deg);
+		transform: rotate(48deg);
+	}
+
+	.badges-new {
+		background-color: #ee3dba;
+	}
+}

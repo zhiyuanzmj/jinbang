@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580px" height="240px" viewBox="0 0 580 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title> ATD场景图1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="-ATD场景图1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="路径-52-copy-4" fill="#3261AF" fill-rule="nonzero" transform="translate(494.500000, 195.500000) rotate(-180.000000) translate(-494.500000, -195.500000) " points="488 196 488 195 501 195 501 196"></polygon>
+        <polygon id="矩形-copy-6" fill="#3261AF" fill-rule="nonzero" transform="translate(494.500000, 196.500000) rotate(-180.000000) translate(-494.500000, -196.500000) " points="500.004869 161 488 161 488 160 501 160 501 233 488 233 488 232 500.004869 232"></polygon>
+        <path d="M471.5,195.5 L489.5,195.5" id="直线-2-copy-4" stroke="#3261AF" stroke-linecap="square" fill-rule="nonzero" transform="translate(480.500000, 195.500000) rotate(-180.000000) translate(-480.500000, -195.500000) "></path>
+        <rect id="矩形" fill="#3261AF" fill-rule="nonzero" x="489" y="213" width="11" height="1"></rect>
+        <rect id="矩形-copy-7" fill="#3261AF" fill-rule="nonzero" x="489" y="178" width="11" height="1"></rect>
+        <polygon id="路径-52-copy-4" fill="#3261AF" fill-rule="nonzero" transform="translate(494.500000, 101.500000) rotate(-180.000000) translate(-494.500000, -101.500000) " points="488 102 488 101 501 101 501 102"></polygon>
+        <polygon id="矩形-copy-6" fill="#3261AF" fill-rule="nonzero" transform="translate(494.500000, 102.500000) rotate(-180.000000) translate(-494.500000, -102.500000) " points="500.004869 67 488 67 488 66 501 66 501 139 488 139 488 138 500.004869 138"></polygon>
+        <path d="M471.5,101.5 L489.5,101.5" id="直线-2-copy-4" stroke="#3261AF" stroke-linecap="square" fill-rule="nonzero" transform="translate(480.500000, 101.500000) rotate(-180.000000) translate(-480.500000, -101.500000) "></path>
+        <polygon id="路径-52-copy-4" fill="#3261AF" fill-rule="nonzero" transform="translate(494.500000, 25.500000) rotate(-180.000000) translate(-494.500000, -25.500000) " points="488 26 488 25 501 25 501 26"></polygon>
+        <polygon id="矩形-copy-6" fill="#3261AF" fill-rule="nonzero" transform="translate(494.500000, 26.500000) rotate(-180.000000) translate(-494.500000, -26.500000) " points="500.004869 9 488 9 488 8 501 8 501 45 488 45 488 44 500.004869 44"></polygon>
+        <polygon id="矩形" fill="#3261AF" fill-rule="nonzero" points="212 47.5 203.5 47.5 203.5 46.5 213 46.5 213 193.5 203.5 193.5 203.5 192.5 212 192.5"></polygon>
+        <g id="分组-8" transform="translate(231.000000, 47.000000)">
+            <rect id="Rectangle-3-Copy-12" fill="#3261AF" x="0" y="0" width="118" height="146" rx="3"></rect>
+            <rect id="Rectangle-3-Copy-13" fill="#A1CAFF" x="9" y="10" width="100" height="21" rx="3"></rect>
+            <rect id="矩形-copy" fill="#FFFFFF" fill-rule="nonzero" x="10" y="91" width="98" height="20" rx="3"></rect>
+            <rect id="矩形-copy-2" fill="#FFFFFF" fill-rule="nonzero" x="10" y="66" width="98" height="20" rx="3"></rect>
+            <rect id="矩形-copy-3" fill="#FFFFFF" fill-rule="nonzero" x="10" y="41" width="98" height="20" rx="3"></rect>
+            <text id="数据预处理" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+                <tspan x="29" y="56">数据预处理</tspan>
+            </text>
+            <text id="实时分析建模" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+                <tspan x="23" y="80">实时分析建模</tspan>
+            </text>
+            <text id="关联分析展现" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+                <tspan x="23" y="106">关联分析展现</tspan>
+            </text>
+            <rect id="矩形" fill="#FFFFFF" fill-rule="nonzero" x="10" y="116" width="98" height="20" rx="3"></rect>
+            <text id="威胁实时阻断" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+                <tspan x="23" y="131">威胁实时阻断</tspan>
+            </text>
+            <text id="ATD" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#001B47">
+                <tspan x="45.126" y="25">ATD</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle-3-Copy-14" fill="#A1CAFF" x="111" y="37" width="93" height="20" rx="3"></rect>
+        <rect id="Rectangle-3-Copy-16" fill="#A1CAFF" transform="translate(424.500000, 26.000000) scale(-1, 1) translate(-424.500000, -26.000000) " x="378" y="16" width="93" height="20" rx="3"></rect>
+        <rect id="Rectangle-3-Copy-17" fill="#A1CAFF" transform="translate(424.500000, 102.000000) scale(-1, 1) translate(-424.500000, -102.000000) " x="378" y="92" width="93" height="20" rx="3"></rect>
+        <rect id="Rectangle-3-Copy-23" fill="#A1CAFF" x="111" y="183" width="93" height="20" rx="3"></rect>
+        <rect id="Rectangle-3-Copy-24" fill="#A1CAFF" transform="translate(424.500000, 196.000000) scale(-1, 1) translate(-424.500000, -196.000000) " x="378" y="186" width="93" height="20" rx="3"></rect>
+        <text id="内网日志/流量" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="119" y="52">内网日志/流量</tspan>
+        </text>
+        <text id="内网业务干扰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="389" y="31">内网业务干扰</tspan>
+        </text>
+        <text id="外网业务安全" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="389" y="107">外网业务安全</tspan>
+        </text>
+        <text id="外网日志/流量" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="119" y="198">外网日志/流量</tspan>
+        </text>
+        <text id="数据泄露" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="401" y="201">数据泄露</tspan>
+        </text>
+        <path d="M3,145 L77,145 C78.6568542,145 80,146.343146 80,148 L80,162 C80,163.656854 78.6568542,165 77,165 L3,165 C1.34314575,165 2.02906125e-16,163.656854 0,162 L0,148 C-2.02906125e-16,146.343146 1.34314575,145 3,145 Z" id="Rectangle-3-Copy-43" fill="#E1EDFF"></path>
+        <path d="M3,0 L77,0 C78.6568542,-3.04359188e-16 80,1.34314575 80,3 L80,17 C80,18.6568542 78.6568542,20 77,20 L3,20 C1.34314575,20 2.02906125e-16,18.6568542 0,17 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-3-Copy-47" fill="#E1EDFF"></path>
+        <path d="M3,170 L77,170 C78.6568542,170 80,171.343146 80,173 L80,187 C80,188.656854 78.6568542,190 77,190 L3,190 C1.34314575,190 2.02906125e-16,188.656854 0,187 L0,173 C-2.02906125e-16,171.343146 1.34314575,170 3,170 Z" id="Rectangle-3-Copy-44" fill="#E1EDFF"></path>
+        <path d="M3,25 L77,25 C78.6568542,25 80,26.3431458 80,28 L80,42 C80,43.6568542 78.6568542,45 77,45 L3,45 C1.34314575,45 2.02906125e-16,43.6568542 0,42 L0,28 C-2.02906125e-16,26.3431458 1.34314575,25 3,25 Z" id="Rectangle-3-Copy-48" fill="#E1EDFF"></path>
+        <path d="M3,195 L77,195 C78.6568542,195 80,196.343146 80,198 L80,212 C80,213.656854 78.6568542,215 77,215 L3,215 C1.34314575,215 2.02906125e-16,213.656854 0,212 L0,198 C-2.02906125e-16,196.343146 1.34314575,195 3,195 Z" id="Rectangle-3-Copy-45" fill="#E1EDFF"></path>
+        <path d="M3,50 L77,50 C78.6568542,50 80,51.3431458 80,53 L80,67 C80,68.6568542 78.6568542,70 77,70 L3,70 C1.34314575,70 2.02906125e-16,68.6568542 0,67 L0,53 C-2.02906125e-16,51.3431458 1.34314575,50 3,50 Z" id="Rectangle-3-Copy-49" fill="#E1EDFF"></path>
+        <path d="M3,220 L77,220 C78.6568542,220 80,221.343146 80,223 L80,237 C80,238.656854 78.6568542,240 77,240 L3,240 C1.34314575,240 2.02906125e-16,238.656854 0,237 L0,223 C-2.02906125e-16,221.343146 1.34314575,220 3,220 Z" id="Rectangle-3-Copy-46" fill="#E1EDFF"></path>
+        <path d="M3,75 L77,75 C78.6568542,75 80,76.3431458 80,78 L80,92 C80,93.6568542 78.6568542,95 77,95 L3,95 C1.34314575,95 2.02906125e-16,93.6568542 0,92 L0,78 C-2.02906125e-16,76.3431458 1.34314575,75 3,75 Z" id="Rectangle-3-Copy-50" fill="#E1EDFF"></path>
+        <text id="应用业务系统" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="4" y="160">应用业务系统</tspan>
+        </text>
+        <text id="内网业务系统" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="4" y="15">内网业务系统</tspan>
+        </text>
+        <text id="网络设备-copy" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="16" y="185">网络设备</tspan>
+        </text>
+        <text id="网络设备-copy-2" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="16" y="40">网络设备</tspan>
+        </text>
+        <text id="中间件-copy" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="22" y="210">中间件</tspan>
+        </text>
+        <text id="中间件-copy-2" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="22" y="65">中间件</tspan>
+        </text>
+        <text id="安全设备-copy" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="16" y="235">安全设备</tspan>
+        </text>
+        <text id="安全设备-copy-2" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="16" y="90">安全设备</tspan>
+        </text>
+        <g id="分组" transform="translate(500.000000, 0.000000)">
+            <path d="M3,0 L77,0 C78.6568542,-3.04359188e-16 80,1.34314575 80,3 L80,13 C80,14.6568542 78.6568542,16 77,16 L3,16 C1.34314575,16 2.02906125e-16,14.6568542 0,13 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-3-Copy-15" fill="#E1EDFF"></path>
+            <path d="M3,18 L77,18 C78.6568542,18 80,19.3431458 80,21 L80,31 C80,32.6568542 78.6568542,34 77,34 L3,34 C1.34314575,34 2.02906125e-16,32.6568542 0,31 L0,21 C-2.02906125e-16,19.3431458 1.34314575,18 3,18 Z" id="Rectangle-3-Copy-25" fill="#E1EDFF"></path>
+            <path d="M3,36 L77,36 C78.6568542,36 80,37.3431458 80,39 L80,49 C80,50.6568542 78.6568542,52 77,52 L3,52 C1.34314575,52 2.02906125e-16,50.6568542 0,49 L0,39 C-2.02906125e-16,37.3431458 1.34314575,36 3,36 Z" id="Rectangle-3-Copy-26" fill="#E1EDFF"></path>
+            <text id="命令控制" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+                <tspan x="20" y="12">命令控制</tspan>
+            </text>
+            <text id="异常登录" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+                <tspan x="20" y="30">异常登录</tspan>
+            </text>
+            <text id="木马扫描" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+                <tspan x="20" y="48">木马扫描</tspan>
+            </text>
+        </g>
+        <g id="分组-2" transform="translate(500.000000, 58.000000)">
+            <path d="M3,0 L77,0 C78.6568542,-3.04359188e-16 80,1.34314575 80,3 L80,13 C80,14.6568542 78.6568542,16 77,16 L3,16 C1.34314575,16 2.02906125e-16,14.6568542 0,13 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-3-Copy-27" fill="#E1EDFF"></path>
+            <path d="M3,18 L77,18 C78.6568542,18 80,19.3431458 80,21 L80,31 C80,32.6568542 78.6568542,34 77,34 L3,34 C1.34314575,34 2.02906125e-16,32.6568542 0,31 L0,21 C-2.02906125e-16,19.3431458 1.34314575,18 3,18 Z" id="Rectangle-3-Copy-28" fill="#E1EDFF"></path>
+            <path d="M3,54 L77,54 C78.6568542,54 80,55.3431458 80,57 L80,67 C80,68.6568542 78.6568542,70 77,70 L3,70 C1.34314575,70 2.02906125e-16,68.6568542 0,67 L0,57 C-2.02906125e-16,55.3431458 1.34314575,54 3,54 Z" id="Rectangle-3-Copy-30" fill="#E1EDFF"></path>
+            <path d="M3,36 L77,36 C78.6568542,36 80,37.3431458 80,39 L80,49 C80,50.6568542 78.6568542,52 77,52 L3,52 C1.34314575,52 2.02906125e-16,50.6568542 0,49 L0,39 C-2.02906125e-16,37.3431458 1.34314575,36 3,36 Z" id="Rectangle-3-Copy-29" fill="#E1EDFF"></path>
+            <path d="M3,72 L77,72 C78.6568542,72 80,73.3431458 80,75 L80,85 C80,86.6568542 78.6568542,88 77,88 L3,88 C1.34314575,88 2.02906125e-16,86.6568542 0,85 L0,75 C-2.02906125e-16,73.3431458 1.34314575,72 3,72 Z" id="Rectangle-3-Copy-31" fill="#E1EDFF"></path>
+            <text id="虚假订单" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+                <tspan x="20" y="12">虚假订单</tspan>
+            </text>
+            <text id="工具模拟" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+                <tspan x="20" y="30">工具模拟</tspan>
+            </text>
+            <text id="批量注册" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+                <tspan x="20" y="66">批量注册</tspan>
+            </text>
+            <text id="伪造排名" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+                <tspan x="20" y="48">伪造排名</tspan>
+            </text>
+            <text id="营销欺诈" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+                <tspan x="20" y="84">营销欺诈</tspan>
+            </text>
+        </g>
+        <g id="分组-9" transform="translate(500.000000, 152.000000)">
+            <g id="分组-7">
+                <path d="M3,0 L77,0 C78.6568542,-3.04359188e-16 80,1.34314575 80,3 L80,13 C80,14.6568542 78.6568542,16 77,16 L3,16 C1.34314575,16 2.02906125e-16,14.6568542 0,13 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-3-Copy-32" fill="#E1EDFF"></path>
+                <text id="暴力破解" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+                    <tspan x="20" y="12">暴力破解</tspan>
+                </text>
+            </g>
+            <g id="分组-6" transform="translate(0.000000, 18.000000)">
+                <path d="M3,0 L77,0 C78.6568542,-3.04359188e-16 80,1.34314575 80,3 L80,13 C80,14.6568542 78.6568542,16 77,16 L3,16 C1.34314575,16 2.02906125e-16,14.6568542 0,13 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-3-Copy-33" fill="#E1EDFF"></path>
+                <text id="侦测提权" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+                    <tspan x="20" y="12">侦测提权</tspan>
+                </text>
+            </g>
+            <g id="分组-4" transform="translate(0.000000, 54.000000)">
+                <path d="M3,0 L77,0 C78.6568542,-3.04359188e-16 80,1.34314575 80,3 L80,13 C80,14.6568542 78.6568542,16 77,16 L3,16 C1.34314575,16 2.02906125e-16,14.6568542 0,13 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-3-Copy-34" fill="#E1EDFF"></path>
+                <text id="注入攻击" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+                    <tspan x="20" y="12">注入攻击</tspan>
+                </text>
+            </g>
+            <g id="分组-5" transform="translate(0.000000, 36.000000)">
+                <path d="M3,0 L77,0 C78.6568542,-3.04359188e-16 80,1.34314575 80,3 L80,13 C80,14.6568542 78.6568542,16 77,16 L3,16 C1.34314575,16 2.02906125e-16,14.6568542 0,13 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-3-Copy-35" fill="#E1EDFF"></path>
+                <text id="拖库撞库" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+                    <tspan x="20" y="12">拖库撞库</tspan>
+                </text>
+            </g>
+            <g id="分组-3" transform="translate(0.000000, 72.000000)">
+                <path d="M3,0 L77,0 C78.6568542,-3.04359188e-16 80,1.34314575 80,3 L80,13 C80,14.6568542 78.6568542,16 77,16 L3,16 C1.34314575,16 2.02906125e-16,14.6568542 0,13 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-3-Copy-36" fill="#E1EDFF"></path>
+                <text id="恶意爬虫" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+                    <tspan x="20" y="12">恶意爬虫</tspan>
+                </text>
+            </g>
+        </g>
+        <polygon id="矩形-copy-5" fill="#3261AF" fill-rule="nonzero" transform="translate(371.250000, 111.500000) scale(-1, 1) translate(-371.250000, -111.500000) " points="378 27.5 363.5 27.5 363.5 26.5 379 26.5 379 196.5 363.5 196.5 363.5 195.5 378 195.5"></polygon>
+        <polygon id="直线-2" fill="#3261AF" fill-rule="nonzero" points="222.5 102 213 102 212.5 102 212.5 101 213 101 222.5 101 222.5 97 231.5 101.5 222.5 106"></polygon>
+        <polygon id="直线-2-copy-3" fill="#3261AF" fill-rule="nonzero" transform="translate(364.000000, 101.500000) scale(-1, 1) translate(-364.000000, -101.500000) " points="358.5 101 378 101 378.5 101 378.5 102 378 102 358.5 102 358.5 106 349.5 101.5 358.5 97 358.5 101"></polygon>
+        <path d="M93,193.5 L110.5,193.5" id="直线-2-copy" stroke="#3261AF" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M93,48.5 L110.5,48.5" id="直线-2-copy-2" stroke="#3261AF" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M471.5,25.5 L489.5,25.5" id="直线-2-copy-4" stroke="#3261AF" stroke-linecap="square" fill-rule="nonzero" transform="translate(480.500000, 25.500000) rotate(-180.000000) translate(-480.500000, -25.500000) "></path>
+        <polygon id="矩形" fill="#3261AF" fill-rule="nonzero" points="92 156 80 156 80 155 93 155 93 231 80 231 80 230 92 230"></polygon>
+        <polygon id="矩形-copy-4" fill="#3261AF" fill-rule="nonzero" points="92 11 80 11 80 10 93 10 93 86 80 86 80 85 92 85"></polygon>
+        <polygon id="路径-52" fill="#3261AF" fill-rule="nonzero" points="80 181 80 180 93 180 93 181"></polygon>
+        <polygon id="路径-52-copy-2" fill="#3261AF" fill-rule="nonzero" points="80 36 80 35 93 35 93 36"></polygon>
+        <polygon id="路径-52-copy" fill="#3261AF" fill-rule="nonzero" points="80 205 80 204 93 204 93 205"></polygon>
+        <polygon id="路径-52-copy-3" fill="#3261AF" fill-rule="nonzero" points="80 60 80 59 93 59 93 60"></polygon>
+        <rect id="矩形" fill="#3261AF" fill-rule="nonzero" x="489" y="119" width="11" height="1"></rect>
+        <rect id="矩形-copy-7" fill="#3261AF" fill-rule="nonzero" x="489" y="84" width="11" height="1"></rect>
+    </g>
+</svg>

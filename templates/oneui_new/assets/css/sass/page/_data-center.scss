@@ -1,0 +1,71 @@
+/*--------------------------------------------------------------
+	#data center page
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+#9.0	data-center-section
+--------------------------------------------------------------*/
+.data-center-pg {
+	.page-title {
+		@include background-style("../images/pg-title/img-3.jpg", center center, cover, no-repeat, local);
+	}
+}
+
+.data-center-section {
+	h2 {
+		font-size: 36px;
+		font-size: calc-rem-value(36);
+		font-weight: normal;
+		margin: 0 0 0.55em;
+
+		@include media-query(1199px) {
+			font-size: 30px;
+			font-size: calc-rem-value(30);
+		}
+
+		@include media-query(991px) {
+			font-size: 25px;
+			font-size: calc-rem-value(25);
+		}
+
+		@include media-query(767px) {
+			font-size: 20px;
+			font-size: calc-rem-value(20);
+		}
+	}
+
+	h2 span {
+		font-weight: bold;
+	}
+
+	p {
+		margin-bottom: 1.5em;
+	}
+
+	.text p:last-child {
+		margin-bottom: 0;
+	}
+
+	@include media-query(767px) {
+		.img-holder {
+			display: none;
+		}
+	}
+
+	.img-holder img {
+		border: 5px solid $white;
+		border-radius: 50%;
+		box-shadow: 0 0 20px transparentize($black, 0.7);
+	}
+}
+
+.map-data-center {
+	height: 590px;
+
+	@include media-query(991px) {
+		height: 400px;
+	}
+
+	@include media-query(767px) {
+		height: 300px;
+	}
+}

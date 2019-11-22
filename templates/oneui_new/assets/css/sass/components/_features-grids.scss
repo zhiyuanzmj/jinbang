@@ -1,0 +1,103 @@
+/***************************************
+	# features grids
+***************************************/
+.features-grids-s2 {
+	text-align: center;
+
+	.grid {
+		text-align: center;
+		position: relative;
+	}
+
+	.icon {
+		background-color: $theme-primary-color;
+		width: 80px;
+		height: 80px;
+		line-height: 80px;
+		text-align: center;
+		border-radius: 50%;
+		margin: 0 auto 40px;
+
+		@include media-query(1199px) {
+			margin: 0 auto 30px;
+		}
+
+		@include media-query(991px) {
+			width: 70px;
+			height: 70px;
+			line-height: 70px;
+		}
+	}
+
+	.icon .fi:before {
+		font-size: 35px;
+		font-size: calc-rem-value(35);
+		color: $white;
+
+		@include media-query(991px) {
+			font-size: 30px;
+			font-size: calc-rem-value(30);
+		}
+	}
+
+	.grid h3 {
+		font-size: 24px;
+		font-size: calc-rem-value(24);
+		font-weight: normal;
+		margin: 0 0 0.52em;
+
+		@include media-query(1199px) {
+			font-size: 20px;
+			font-size: calc-rem-value(20);
+		}
+
+		@include media-query(991px) {
+			font-size: 18px;
+			font-size: calc-rem-value(18);
+		}
+
+		span {
+			font-weight: bold;
+		}
+	}
+
+	.grid p {
+		margin-bottom: 2em;
+	}
+
+	.badges {
+		padding: 2px 5px;
+		position: absolute;
+		top: 0;
+		left: 60%;
+		z-index: 2;
+
+		span {
+			font-size: 14px;
+			font-size: calc-rem-value(14);
+			text-transform: uppercase;
+			color: $white;
+			position: relative;
+			z-index: 5;
+
+			@include media-query(767px) {
+				font-size: 12px;
+				font-size: calc-rem-value(12);
+			}
+		}
+
+		&:after {
+			background-color: #fa3069;
+			content: "";
+			width: 130%;
+			height: 100%;
+			position: absolute;
+			left: -15%;
+			top: 0;
+			border-radius: 5px;
+			z-index: 1;
+			-webkit-transform: skewX(-25deg);
+			transform: skewX(-25deg);
+		}
+	}
+}

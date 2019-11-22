@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>画板复制 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="57.0158453%" y1="62.5%" x2="50%" y2="37.5%" id="linearGradient-1">
+            <stop stop-color="#40BCF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1E87F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="37.5%" x2="57.5938899%" y2="61.8163528%" id="linearGradient-2">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50.7772114%" y2="97.2654113%" id="linearGradient-3">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="57.0158453%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-4">
+            <stop stop-color="#40BCF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1E87F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="57.5938899%" y2="97.2654113%" id="linearGradient-5">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-571.000000, -396.000000)" fill-rule="nonzero">
+            <g id="编组" transform="translate(571.000000, 396.000000)">
+                <path d="M80,80 C80,57.90861 62.09139,40 40,40 C17.90861,40 0,57.90861 0,80 L80,80 Z" id="形状" fill="url(#linearGradient-1)"></path>
+                <path d="M58,80 C58,70.0588745 49.9411255,62 40,62 C30.0588745,62 22,70.0588745 22,80 L58,80 Z M25.3000543,77 C26.6898653,70.153279 32.7431263,65 40,65 C47.2568737,65 53.3101347,70.153279 54.6999457,77 L25.3000543,77 Z" id="形状" fill="url(#linearGradient-2)"></path>
+                <polygon id="直线" fill="url(#linearGradient-3)" points="53.612051 23.6788781 43.6788781 63.0878947 46.5878947 63.8211219 56.5210676 24.4121053"></polygon>
+                <circle id="椭圆形" fill="url(#linearGradient-4)" cx="45" cy="15" r="15"></circle>
+                <path d="M58,27.5 C63.7989899,27.5 68.5,22.7989899 68.5,17 C68.5,11.2010101 63.7989899,6.5 58,6.5 C52.2010101,6.5 47.5,11.2010101 47.5,17 C47.5,22.7989899 52.2010101,27.5 58,27.5 Z M58,24.5 C53.8578644,24.5 50.5,21.1421356 50.5,17 C50.5,12.8578644 53.8578644,9.5 58,9.5 C62.1421356,9.5 65.5,12.8578644 65.5,17 C65.5,21.1421356 62.1421356,24.5 58,24.5 Z" id="椭圆形" fill="url(#linearGradient-5)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

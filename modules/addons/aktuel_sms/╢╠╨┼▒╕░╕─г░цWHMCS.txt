@@ -1,0 +1,31 @@
+【XX网络】您的订单{orderid}已审核批准. 
+【XX网络】您的产品套餐已经更改完毕.({domain}). 
+【XX网络】您的产品{domain}密码已更改为-用户名:{username} 密码:{password}.
+【XX网络】您的产品:虚拟主机-{domain}已经开通.用户名:{username} 密码:{password}.
+【XX网络】您的产品被暂停:{domain},请联系管理员. 
+【XX网络】 您的产品已经取消暂停:{domain}. 
+【XX网络】您的域名注册成功:{domain}.
+【XX网络】您注册域名{domain}失败,请使用英文拼音地址或联系管理员. 
+【XX网络】您的域名{domain}已经成功续费. 
+【XX网络】您已经注册成功-账户信息Email:{email} 密码:{password}. 
+【XX网络】您的密码已经更改完毕,如果非本人操作,请联系管理员
+【XX网络】您的产品:{domain}即将于{expirydate}({x}天以后)到期，请及时续费.
+【XX网络】您的账单#{invoiceid}已经生成,合计:{total},请在有效期限{duedate}前支付.
+【XX网络】账单#{invoiceid}在有效期限{duedate}前已经支付完成.
+【XX网络】您有未付账单#{invoiceid},请在有效期限{duedate}前支付(第1次通知).
+【XX网络】您有未付账单#{invoiceid},请在有效期限{duedate}前支付.
+【XX网络】您有未付账单#{invoiceid},请在有效期限{duedate}前支付(第2次通知).
+【XX网络】您有未付账单#{invoiceid},请在有效期限{duedate}前支付(第3次通知).
+【XX网络】管理员已经回复了您的服务单:{ticketsubject}. 
+【XX网络】支持单:{ticketno}已关闭. 	
+
+
+【XX网络】{username},已经登陆后台. 
+【XX网络】网站客户注册域名失败:{domain}. 
+【XX网络】网站客户有新域名注册成功:{domain}. 
+【XX网络】客户域名续期失败:{domain},请检查上级代理账户余额. 
+【XX网络】客户域名续期成功:{domain}. 
+【XX网络】网站有新用户注册成功,请登陆后台审核开通服务. 
+【XX网络】({firstname} {lastname}),登录到网站前台. 
+【XX网络】有用户提交了新的Ticket:{subject}. 
+【XX网络】有用户回复了Ticket:{subject}. 

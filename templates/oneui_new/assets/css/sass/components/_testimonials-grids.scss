@@ -1,0 +1,74 @@
+/***************************************
+	# testimonals grids
+***************************************/
+.testimonials-grids {
+	.grid {
+		background-color: $white;
+		box-shadow: 0 0 10px transparentize($black, 0.9);
+	}
+
+	.client-quote {
+		padding: 30px;
+		border-bottom: 1px solid #dae2e8;
+	}
+
+	.client-quote h3 {
+		font-size: 20px;
+		font-size: calc-rem-value(20);
+		font-weight: 600;
+		color: $theme-primary-color;
+		margin: 0 0 0.7em;
+
+		@include media-query(1199px) {
+			font-size: 16px;
+			font-size: calc-rem-value(16);
+		}
+	} 
+
+	.client-quote p {
+		margin: 0;
+
+		@include media-query(1199px) {
+			font-size: 14px;
+			font-size: calc-rem-value(14);
+		}
+	}
+
+	.client-info {
+		padding: 10px 30px 10px 85px;
+		position: relative;
+
+		.client-pic {
+			position: absolute;
+			left: 30px;
+			top: 10px;
+		}
+
+		.client-pic img {
+			border-radius: 50%;
+		}
+
+	}
+
+	.client-details {
+		h4 {
+			font-size: 18px;
+			font-size: calc-rem-value(18);
+			color: #4c5e6f;
+			font-weight: 600;
+			margin: 0;
+
+			@include media-query(1199px) {
+				font-size: 15px;
+				font-size: calc-rem-value(15);
+			}
+		}
+
+		> span {
+			font-size: 12px;
+			font-size: calc-rem-value(12);
+			color: $text-color;
+			text-transform: uppercase;
+		}
+	}
+}

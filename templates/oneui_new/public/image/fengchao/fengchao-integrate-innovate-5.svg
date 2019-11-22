@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>画板复制 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="57.079203%" y2="97.2654113%" id="linearGradient-1">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="56.0001105%" y2="97.2654113%" id="linearGradient-2">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.2100639%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-3">
+            <stop stop-color="#40BCF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1E87F0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-195.000000, -951.000000)" fill-rule="nonzero">
+            <g id="编组" transform="translate(190.000000, 947.000000)">
+                <polygon id="路径" fill="url(#linearGradient-1)" points="32 7 82 7 82 59 50.9166157 59 50.9166157 62 85 62 85 4 29 4 29 33.3253521 32 33.3253521"></polygon>
+                <path d="M5,39 L45,39 L45,84 L5,84 L5,39 Z M8,42 L8,81 L42,81 L42,42 L8,42 Z" id="矩形复制" fill="url(#linearGradient-2)"></path>
+                <polygon id="路径" fill="url(#linearGradient-3)" transform="translate(44.718011, 44.323169) rotate(-133.000000) translate(-44.718011, -44.323169) " points="59.2180113 37.8231686 59.2180113 79.8231686 30.2180113 79.8231686 30.2180113 37.8231686 17.2180113 37.8231686 44.7180113 8.82316858 72.2180113 37.8231686"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

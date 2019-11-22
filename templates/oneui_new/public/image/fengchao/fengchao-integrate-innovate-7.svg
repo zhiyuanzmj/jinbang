@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>画板复制 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="54.6965576%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#40BCF9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#1E87F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="57.5938899%" y2="97.2654113%" id="linearGradient-2">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="33.8380607%" x2="57.5938899%" y2="65.2780141%" id="linearGradient-3">
+            <stop stop-color="#3D1BFF" offset="0%"></stop>
+            <stop stop-color="#00A7E7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-712.000000, -946.000000)" fill-rule="nonzero">
+            <g id="编组" transform="translate(716.000000, 947.000000)">
+                <path d="M20,45 L20,38.5128205 C20,29.3930416 27.163444,22 36,22 C44.836556,22 52,29.3930416 52,38.5128205 L52,45 L58,45 L58,77 L13,77 L13,45 L20,45 Z M29.7391304,45 L42.2608696,45 L42.2608696,38.5128205 C42.2608696,34.9442114 39.4577828,32.0512821 36,32.0512821 C32.5422172,32.0512821 29.7391304,34.9442114 29.7391304,38.5128205 L29.7391304,45 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M35.5,71 C55.1061086,71 71,55.1061086 71,35.5 C71,15.8938914 55.1061086,0 35.5,0 C15.8938914,0 0,15.8938914 0,35.5 C0,55.1061086 15.8938914,71 35.5,71 Z M35.5,68 C17.5507456,68 3,53.4492544 3,35.5 C3,17.5507456 17.5507456,3 35.5,3 C53.4492544,3 68,17.5507456 68,35.5 C68,53.4492544 53.4492544,68 35.5,68 Z" id="椭圆形" fill="url(#linearGradient-2)"></path>
+                <polygon id="路径-10" fill="url(#linearGradient-3)" points="32.2763569 39.292893 23.0249118 30.8297919 21 33.0433258 32.0449051 43.1470605 58.1953179 24.4399535 56.449859 22"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

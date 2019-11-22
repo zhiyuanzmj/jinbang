@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580px" height="240px" viewBox="0 0 580 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title> ATD场景图3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="-ATD场景图3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="直线-3" fill="#3261AF" fill-rule="nonzero" points="49.5 151 49.5 96 49.5 95.5 50.5 95.5 50.5 96 50.5 151 54.5 151 50 160 45.5 151"></polygon>
+        <polygon id="直线-3" fill="#3261AF" fill-rule="nonzero" points="169.5 151 169.5 96 169.5 95.5 170.5 95.5 170.5 96 170.5 151 174.5 151 170 160 165.5 151"></polygon>
+        <polygon id="直线-3" fill="#3261AF" fill-rule="nonzero" points="289.5 151 289.5 96 289.5 95.5 290.5 95.5 290.5 96 290.5 151 294.5 151 290 160 285.5 151"></polygon>
+        <polygon id="直线-3" fill="#3261AF" fill-rule="nonzero" points="409.5 151 409.5 96 409.5 95.5 410.5 95.5 410.5 96 410.5 151 414.5 151 410 160 405.5 151"></polygon>
+        <polygon id="直线-3" fill="#3261AF" fill-rule="nonzero" points="529.5 151 529.5 96 529.5 95.5 530.5 95.5 530.5 96 530.5 151 534.5 151 530 160 525.5 151"></polygon>
+        <path d="M243,160 L337,160 C338.656854,160 340,161.343146 340,163 L340,237 C340,238.656854 338.656854,240 337,240 L243,240 C241.343146,240 240,238.656854 240,237 L240,163 C240,161.343146 241.343146,160 243,160 Z" id="Rectangle-3-Copy-50" fill="#E1EDFF"></path>
+        <rect id="Rectangle-Copy-107" fill="#A1CAFF" x="245" y="183" width="90" height="16" rx="3"></rect>
+        <path d="M3,0 L97,0 C98.6568542,-3.04359188e-16 100,1.34314575 100,3 L100,93 C100,94.6568542 98.6568542,96 97,96 L3,96 C1.34314575,96 2.02906125e-16,94.6568542 0,93 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-3-Copy-43" fill="#E1EDFF"></path>
+        <path d="M3,116 L97,116 C98.6568542,116 100,117.343146 100,119 L100,137 C100,138.656854 98.6568542,140 97,140 L3,140 C1.34314575,140 2.02906125e-16,138.656854 0,137 L0,119 C-2.02906125e-16,117.343146 1.34314575,116 3,116 Z" id="Rectangle-3-Copy-53" fill="#3261AF"></path>
+        <text id="多维度统计" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="20" y="132">多维度统计</tspan>
+        </text>
+        <path d="M123,116 L217,116 C218.656854,116 220,117.343146 220,119 L220,137 C220,138.656854 218.656854,140 217,140 L123,140 C121.343146,140 120,138.656854 120,137 L120,119 C120,117.343146 121.343146,116 123,116 Z" id="Rectangle-3-Copy-53" fill="#3261AF"></path>
+        <text id="实时监控" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="146" y="132">实时监控</tspan>
+        </text>
+        <path d="M243,116 L337,116 C338.656854,116 340,117.343146 340,119 L340,137 C340,138.656854 338.656854,140 337,140 L243,140 C241.343146,140 240,138.656854 240,137 L240,119 C240,117.343146 241.343146,116 243,116 Z" id="Rectangle-3-Copy-53" fill="#3261AF"></path>
+        <text id="情报汇总情报统计" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="242" y="132">情报汇总情报统计</tspan>
+        </text>
+        <path d="M363,116 L457,116 C458.656854,116 460,117.343146 460,119 L460,137 C460,138.656854 458.656854,140 457,140 L363,140 C361.343146,140 360,138.656854 360,137 L360,119 C360,117.343146 361.343146,116 363,116 Z" id="Rectangle-3-Copy-53" fill="#3261AF"></path>
+        <text id="日志存储格式统一" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="362" y="132">日志存储格式统一</tspan>
+        </text>
+        <rect id="Rectangle-Copy-115" fill="#A1CAFF" x="5" y="57" width="90" height="16" rx="3"></rect>
+        <rect id="Rectangle-Copy-116" fill="#A1CAFF" x="5" y="39" width="90" height="16" rx="3"></rect>
+        <rect id="Rectangle-Copy-117" fill="#A1CAFF" x="5" y="21" width="90" height="16" rx="3"></rect>
+        <path d="M483,116 L577,116 C578.656854,116 580,117.343146 580,119 L580,137 C580,138.656854 578.656854,140 577,140 L483,140 C481.343146,140 480,138.656854 480,137 L480,119 C480,117.343146 481.343146,116 483,116 Z" id="Rectangle-3-Copy-53" fill="#3261AF"></path>
+        <text id="事件编排" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+            <tspan x="506" y="132">事件编排</tspan>
+        </text>
+        <path d="M3,160 L97,160 C98.6568542,160 100,161.343146 100,163 L100,237 C100,238.656854 98.6568542,240 97,240 L3,240 C1.34314575,240 2.02906125e-16,238.656854 0,237 L0,163 C-2.02906125e-16,161.343146 1.34314575,160 3,160 Z" id="Rectangle-3-Copy-48" fill="#E1EDFF"></path>
+        <rect id="Rectangle-Copy-100" fill="#A1CAFF" x="5" y="165" width="90" height="16" rx="3"></rect>
+        <text id="数据可视化大屏" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="7" y="176">数据可视化大屏</tspan>
+        </text>
+        <rect id="Rectangle-Copy-101" fill="#A1CAFF" x="5" y="183" width="90" height="16" rx="3"></rect>
+        <text id="自定义报表" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="19" y="194">自定义报表</tspan>
+        </text>
+        <path d="M123,0 L217,0 C218.656854,-3.04359188e-16 220,1.34314575 220,3 L220,93 C220,94.6568542 218.656854,96 217,96 L123,96 C121.343146,96 120,94.6568542 120,93 L120,3 C120,1.34314575 121.343146,3.04359188e-16 123,0 Z" id="Rectangle-3-Copy-44" fill="#E1EDFF"></path>
+        <path d="M123,160 L217,160 C218.656854,160 220,161.343146 220,163 L220,237 C220,238.656854 218.656854,240 217,240 L123,240 C121.343146,240 120,238.656854 120,237 L120,163 C120,161.343146 121.343146,160 123,160 Z" id="Rectangle-3-Copy-49" fill="#E1EDFF"></path>
+        <text id="资产风险数据" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="134" y="15">资产风险数据</tspan>
+        </text>
+        <path d="M243,0 L337,0 C338.656854,-3.04359188e-16 340,1.34314575 340,3 L340,96 C340,97.6568542 338.656854,99 337,99 L243,99 C241.343146,99 240,97.6568542 240,96 L240,3 C240,1.34314575 241.343146,3.04359188e-16 243,0 Z" id="Rectangle-3-Copy-45" fill="#E1EDFF"></path>
+        <text id="威胁情报数据" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="254" y="15">威胁情报数据</tspan>
+        </text>
+        <path d="M363,0 L457,0 C458.656854,-3.04359188e-16 460,1.34314575 460,3 L460,96 C460,97.6568542 458.656854,99 457,99 L363,99 C361.343146,99 360,97.6568542 360,96 L360,3 C360,1.34314575 361.343146,3.04359188e-16 363,0 Z" id="Rectangle-3-Copy-46" fill="#E1EDFF"></path>
+        <path d="M363,160 L457,160 C458.656854,160 460,161.343146 460,163 L460,237 C460,238.656854 458.656854,240 457,240 L363,240 C361.343146,240 360,238.656854 360,237 L360,163 C360,161.343146 361.343146,160 363,160 Z" id="Rectangle-3-Copy-51" fill="#E1EDFF"></path>
+        <text id="日志数据" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="386" y="15">日志数据</tspan>
+        </text>
+        <path d="M483,0 L577,0 C578.656854,-3.04359188e-16 580,1.34314575 580,3 L580,96 C580,97.6568542 578.656854,99 577,99 L483,99 C481.343146,99 480,97.6568542 480,96 L480,3 C480,1.34314575 481.343146,3.04359188e-16 483,0 Z" id="Rectangle-3-Copy-47" fill="#E1EDFF"></path>
+        <path d="M483,160 L577,160 C578.656854,160 580,161.343146 580,163 L580,237 C580,238.656854 578.656854,240 577,240 L483,240 C481.343146,240 480,238.656854 480,237 L480,163 C480,161.343146 481.343146,160 483,160 Z" id="Rectangle-3-Copy-52" fill="#E1EDFF"></path>
+        <text id="事件数据" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="506" y="15">事件数据</tspan>
+        </text>
+        <rect id="Rectangle-Copy-88" fill="#A1CAFF" x="126" y="21" width="89" height="16" rx="3"></rect>
+        <text id="型号版本" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="146" y="33">型号版本</tspan>
+        </text>
+        <rect id="Rectangle-Copy-102" fill="#A1CAFF" x="125" y="165" width="90" height="16" rx="3"></rect>
+        <text id="版本管理" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="145" y="177">版本管理</tspan>
+        </text>
+        <rect id="Rectangle-Copy-108" fill="#A1CAFF" x="365" y="165" width="90" height="16" rx="3"></rect>
+        <text id="日志汇聚" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="386" y="177">日志汇聚</tspan>
+        </text>
+        <rect id="Rectangle-Copy-92" fill="#A1CAFF" x="246" y="21" width="89" height="16" rx="3"></rect>
+        <text id="IP地理位置" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="261.226" y="33">IP地理位置</tspan>
+        </text>
+        <rect id="Rectangle-Copy-106" fill="#A1CAFF" x="245" y="165" width="90" height="16" rx="3"></rect>
+        <rect id="Rectangle-Copy-103" fill="#A1CAFF" x="125" y="183" width="90" height="16" rx="3"></rect>
+        <rect id="Rectangle-Copy-97" fill="#A1CAFF" x="486" y="21" width="89" height="16" rx="3"></rect>
+        <rect id="Rectangle-Copy-112" fill="#A1CAFF" x="485" y="165" width="90" height="16" rx="3"></rect>
+        <text id="告警聚合" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="506" y="177">告警聚合</tspan>
+        </text>
+        <rect id="Rectangle-Copy-95" fill="#A1CAFF" x="365" y="21" width="89" height="16" rx="3"></rect>
+        <text id="原始日志" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="386" y="34">原始日志</tspan>
+        </text>
+        <rect id="Rectangle-Copy-89" fill="#A1CAFF" x="126" y="39" width="89" height="16" rx="3"></rect>
+        <text id="端口" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="158" y="51">端口</tspan>
+        </text>
+        <text id="端口管理" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="145" y="195">端口管理</tspan>
+        </text>
+        <rect id="Rectangle-Copy-109" fill="#A1CAFF" x="365" y="183" width="90" height="16" rx="3"></rect>
+        <text id="日志索引" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="386" y="195">日志索引</tspan>
+        </text>
+        <rect id="Rectangle-Copy-93" fill="#A1CAFF" x="246" y="39" width="89" height="16" rx="3"></rect>
+        <text id="IP画像" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="273.226" y="51">IP画像</tspan>
+        </text>
+        <rect id="Rectangle-Copy-98" fill="#A1CAFF" x="486" y="39" width="89" height="16" rx="3"></rect>
+        <rect id="Rectangle-Copy-113" fill="#A1CAFF" x="485" y="183" width="90" height="16" rx="3"></rect>
+        <text id="告警优先级" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="500" y="195">告警优先级</tspan>
+        </text>
+        <rect id="Rectangle-Copy-96" fill="#A1CAFF" x="365" y="39" width="89" height="16" rx="3"></rect>
+        <text id="处理后日志" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="380" y="51">处理后日志</tspan>
+        </text>
+        <rect id="Rectangle-Copy-90" fill="#A1CAFF" x="126" y="57" width="89" height="16" rx="3"></rect>
+        <text id="调用关系" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="146" y="69">调用关系</tspan>
+        </text>
+        <rect id="Rectangle-Copy-104" fill="#A1CAFF" x="125" y="201" width="90" height="16" rx="3"></rect>
+        <text id="调用异常监控" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="133" y="213">调用异常监控</tspan>
+        </text>
+        <rect id="Rectangle-Copy-110" fill="#A1CAFF" x="365" y="201" width="90" height="16" rx="3"></rect>
+        <text id="日志可视化" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="380" y="213">日志可视化</tspan>
+        </text>
+        <rect id="Rectangle-Copy-94" fill="#A1CAFF" x="246" y="57" width="89" height="16" rx="3"></rect>
+        <text id="IP历史记录" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="261.226" y="69">IP历史记录</tspan>
+        </text>
+        <rect id="Rectangle-Copy-99" fill="#A1CAFF" x="486" y="57" width="89" height="16" rx="3"></rect>
+        <text id="其它安全设备告警" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#001B47">
+            <tspan x="490" y="68">其它安全设备告警</tspan>
+        </text>
+        <rect id="Rectangle-Copy-114" fill="#A1CAFF" x="485" y="201" width="90" height="16" rx="3"></rect>
+        <text id="问题自动排查" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="494" y="213">问题自动排查</tspan>
+        </text>
+        <rect id="Rectangle-Copy-91" fill="#A1CAFF" x="126" y="75" width="89" height="16" rx="3"></rect>
+        <text id="服务模型" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="146" y="87">服务模型</tspan>
+        </text>
+        <rect id="Rectangle-Copy-105" fill="#A1CAFF" x="125" y="219" width="90" height="16" rx="3"></rect>
+        <text id="服务异常管理" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="133" y="231">服务异常管理</tspan>
+        </text>
+        <rect id="Rectangle-Copy-111" fill="#A1CAFF" x="365" y="219" width="90" height="16" rx="3"></rect>
+        <text id="自动扩容" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="386" y="231">自动扩容</tspan>
+        </text>
+        <text id="安全事件" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="506" y="33">安全事件</tspan>
+        </text>
+        <text id="ATD告警" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="506.108" y="51">ATD告警</tspan>
+        </text>
+        <text id="威胁来源" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="25" y="33">威胁来源</tspan>
+        </text>
+        <text id="威胁类型" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="25" y="51">威胁类型</tspan>
+        </text>
+        <text id="威胁等级" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="25" y="69">威胁等级</tspan>
+        </text>
+        <rect id="Rectangle-Copy-87" fill="#A1CAFF" x="5" y="75" width="90" height="16" rx="3"></rect>
+        <text id="威胁特征" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="26" y="87">威胁特征</tspan>
+        </text>
+        <text id="安全威胁数据" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="13" y="15">安全威胁数据</tspan>
+        </text>
+        <text id="事后溯源" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="266" y="194">事后溯源</tspan>
+        </text>
+        <text id="事前预防" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#001B47">
+            <tspan x="266" y="177">事前预防</tspan>
+        </text>
+    </g>
+</svg>

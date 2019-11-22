@@ -1,0 +1,62 @@
+/***************************************
+	# progress bar
+***************************************/
+.skill-progress-bar {
+	.skills > .skill + .skill {
+		margin-top: 27px;
+	}
+
+	h6 {
+		font-size: 14px;
+		font-size: calc-rem-value(14);
+		color: #4c5e6f;
+		margin: 0 0 0.57em;
+	}
+
+	.progress {
+		background-color: #dae8f5;
+		height: 20px;
+		border-radius: 20px;
+		margin: 0;
+		box-shadow: none;
+		overflow: visible;
+
+		@include media-query(991px) {
+			height: 17px;
+		}
+	}
+
+	.progress-bar {
+		background-color: $theme-primary-color;
+		border-radius: 20px;
+		position: relative;
+
+		span {
+			font-family: $heading-font;
+			font-size: 14px;
+			font-size: calc-rem-value(14);
+			font-weight: 600;
+			color: $white;
+			padding: 2px 5px;
+			background-color: #042943;
+			position: absolute;
+			right: 0;
+			top: -30px;
+
+			@include media-query(991px) {
+				font-size: 12px;
+				font-size: calc-rem-value(12);
+			}
+
+			&:after {
+				content: "";
+				border: 5px solid transparent;
+				border-top: 3px solid #042943;
+				position: absolute;
+				left: 50%;
+				bottom: -8px;
+				@include translatingX();
+			}
+		}
+	}
+}
